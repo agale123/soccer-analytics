@@ -5,7 +5,9 @@ tend to have more chaos.
 
 ## Findings
 
-TODO
+It seemed like there were actually slightly fewer late games, but nothing
+of statistical significance because there were so few early games and so
+many 7PM games.
 
 ## Methodology
 
