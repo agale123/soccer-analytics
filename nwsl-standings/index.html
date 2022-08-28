@@ -1,0 +1,45 @@
+<html>
+
+<head>
+    <title>NWSL Standings</title>
+    <meta name="description" content="Visualization of NWSL standings.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="/nwsl-standings/favicon.ico" />
+    <link href="https://fonts.googleapis.com/css?family=Barlow:400,500" rel="stylesheet">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BPMGR70LJ8"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-BPMGR70LJ8');
+    </script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+
+    <style>
+        * {
+            font-family: 'Barlow', san-serif;
+        }
+
+        h1 {
+            padding-left: 250px;
+        }
+
+        .focus-mode .line:not(.focused) {
+            opacity: 0.3;
+        }
+
+        .tick line {
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>2021 NWSL Standings</h1>
+    <div id="chart"></div>
+    <script src="/nwsl-standings/draw.js"></script>
+</body>
+
+</html>
