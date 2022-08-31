@@ -2,7 +2,7 @@
 
 A visualization of the NWSL standings over the course of the season
 
-<img src="https://raw.githubusercontent.com/agale123/nwsl-standings/main/screenshot.png" width="500px">
+<img src="screenshot.png" width="500px">
 
 ## Local dev
 
