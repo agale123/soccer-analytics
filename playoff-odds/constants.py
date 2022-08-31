@@ -1,0 +1,28 @@
+teams = {
+    "NJNY": "NJ/NY Gotham",
+    "POR": "Portland Thorns",
+    "LA": "Angel City",
+    "CHI": "Chicago Red Stars",
+    "WAS": "Washington Spirit",
+    "SD": "San Diego Wave",
+    "NC": "NC Courage",
+    "RGN": "OL Reign",
+    "LOU": "Racing Louisville",
+    "HOU": "Houston Dash",
+    "ORL": "Orlando Pride",
+    "KC": "KC Current",
+}
+colors = {
+    "NJNY": "#000000",
+    "POR": "#97262c",
+    "LA": "#f8d5ce",
+    "CHI": "#3cb5e4",
+    "WAS": "#c20032",
+    "SD": "#011e40",
+    "NC": "#00416b",
+    "RGN": "#002f87",
+    "LOU": "#c5b4e1",
+    "HOU": "#ff6a01",
+    "ORL": "#60269e",
+    "KC": "#62cac9",
+}
