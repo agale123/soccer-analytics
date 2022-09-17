@@ -116,9 +116,18 @@ def calc_table(matches):
 
 # Calculate all possible score combos
 scores = list(
-    map(
-        lambda x: (x[0], x[1]),
-        list(itertools.product(range(0, lim), range(0, lim))),
+    list(
+        map(
+            lambda x: (x, 0),
+            range(1, lim),
+        )
+    )
+    + [(0, 0)]
+    + list(
+        map(
+            lambda x: (0, x),
+            range(1, lim),
+        )
     )
 )
 
