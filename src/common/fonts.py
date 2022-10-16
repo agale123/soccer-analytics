@@ -1,6 +1,7 @@
 import matplotlib.font_manager as fm
+from importlib_resources import files
 
 
 class Fonts:
-    BARLOW = fm.FontProperties(fname="/home/agale/nwsl-analytics/src/common/Barlow.otf")
-    BARLOW_BOLD = fm.FontProperties(fname="/home/agale/nwsl-analytics/src/common/Barlow-Bold.otf")
+    BARLOW = fm.FontProperties(fname=files('common.fonts-src').joinpath('Barlow.otf'))
+    BARLOW_BOLD = fm.FontProperties(fname=files('common.fonts-src').joinpath('Barlow-Bold.otf'))
