@@ -1,1 +1,0 @@
-from .constants import teams, colors, text

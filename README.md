@@ -1,4 +1,4 @@
-# nwsl-analytics
+# NWSL Analytics
 
 This repository contains different NWSL-related analytics projects.
 
@@ -8,3 +8,21 @@ This repository contains different NWSL-related analytics projects.
 * `playoff-possibilities`: Enumerates all possible standings outcomes and shows the distribution
 * `reign-quilt`: Visualization of Reign match results as a quilt pattern
 * `schedule-distribution`: How rest duration for different teams is distributed
+
+## Development
+
+### Package management
+
+Requirements for the Python libraries and notebooks in this project are
+defined in `requirements.txt`. The versions supported by these notebooks is
+defined in `requirements.lock.txt`. To update this file, run:
+
+```
+ pip3 freeze > requirements.lock.txt
+ ```
+
+To install the package containing shared code between notebooks:
+
+```
+pip3 install --editable .
+```

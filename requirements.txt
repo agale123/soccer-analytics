@@ -1,0 +1,11 @@
+collections
+datetime
+itertools
+itscalledsoccer
+math
+matplotlib
+multiprocessing
+numpy
+pandas
+random
+scipy
