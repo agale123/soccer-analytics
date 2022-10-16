@@ -7,4 +7,8 @@ season.
 
 Here is an example of what it might look like:
 
-![Playoff odds in a bubble grid chart](possibilities-3.png)
+![Playoff odds in a bubble grid chart](possibilities.png)
+
+I also visualized what it would be like if there was a decision day:
+
+![NWSL decision day](decision_day.gif)

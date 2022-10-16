@@ -2,6 +2,8 @@
 
 This repository contains different NWSL-related analytics projects.
 
+* `golden-boot`: Goals scored over the course of the season by contenders for the golden boot
+* `moving-window-points`: Shows 5-game moving average of points for each team
 * `nwsl-rank`: Python visualizations of teams' relative ranking in 2022
 * `nwsl-standings`: Used d3 to build a webapp highlighting teams' rankings in 2021
 * `playoff-odds`: Visualization of playoff odds over the 2022 season
