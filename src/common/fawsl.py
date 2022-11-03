@@ -1,0 +1,43 @@
+class FAWSL:
+    NAMES = {
+        "ARS": "Arsenal",
+        "AST": "Aston Villa",
+        "BHA": "Brighton & Hove",
+        "CHE": "Chelsea",
+        "EVE": "Everton",
+        "LEI": "Leicester City",
+        "LIV": "Liverpool",
+        "MNC": "Manchester City",
+        "MNU": "Manchester United",
+        "REA": "Reading",
+        "TOT": "Tottenham",
+        "WHU": "West Ham United",
+    }
+    COLORS = {
+        "ARS": "#ff0000",
+        "AST": "#480024",
+        "BHA": "#0054a6",
+        "CHE": "#001489",
+        "EVE": "#00019e",
+        "LEI": "#273e8a",
+        "LIV": "#d3171e",
+        "MNC": "#98c5e9",
+        "MNU": "#ffe500",
+        "REA": "#0032b9",
+        "TOT": "#111836",
+        "WHU": "#7c2c3b",
+    }
+    TEXT_COLORS = {
+        "ARS": "#ffffff",
+        "AST": "#ffffff",
+        "BHA": "#ffffff",
+        "CHE": "#ffffff",
+        "EVE": "#ffffff",
+        "LEI": "#ffffff",
+        "LIV": "#ffffff",
+        "MNC": "#000000",
+        "MNU": "#000000",
+        "REA": "#ffffff",
+        "TOT": "#ffffff",
+        "WHU": "#ffffff",
+    }
