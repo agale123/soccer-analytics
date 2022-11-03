@@ -1,0 +1,278 @@
+date,scorer,assist
+2016-04-16T19:00:00,Joanna Lohman,Crystal Dunn
+2016-04-16T20:30:00,Christen Press,
+2016-04-16T20:30:00,Rachel Daly,
+2016-04-16T20:30:00,Carli Lloyd,Rachel Daly
+2016-04-16T20:30:00,Janine Beckie,Kealia Ohai Watt
+2016-04-16T20:30:00,Sam Mewis,
+2016-04-17T19:00:00,Natasha Kai,Kelley O'Hara
+2016-04-17T19:00:00,Merritt Mathias,Jessica Fishlock
+2016-04-17T19:00:00,Kelly Conheeney,
+2016-04-17T22:00:00,Steph Catley,
+2016-04-17T22:00:00,Dagný Brynjarsdóttir,Tobin Heath
+2016-04-17T22:00:00,Lindsey Horan,Tobin Heath
+2016-04-23T19:00:00,Casey Krueger,
+2016-04-23T19:30:00,Andressinha (OG),
+2016-04-23T19:30:00,Lianne Sanderson,
+2016-04-23T19:30:00,Alex Morgan,Steph Catley
+2016-04-23T19:30:00,Andressinha,Rachel Daly
+2016-04-23T20:30:00,Shea Groom,Heather O'Reilly
+2016-04-23T20:30:00,Lindsey Horan,Tobin Heath
+2016-04-24T18:00:00,Ali Krieger,Tori Huster
+2016-04-24T18:00:00,Diana Matheson,Crystal Dunn
+2016-04-24T18:00:00,Maya Hayes,Taylor Lytle
+2016-04-24T18:30:00,Manon Melis,Kim Little
+2016-04-24T18:30:00,Rachel Corsie,Kim Little
+2016-04-24T18:30:00,Kim Little,Beverly Yanez
+2016-04-29T19:00:00,Diana Matheson,Crystal Dunn
+2016-04-29T19:00:00,Diana Matheson,
+2016-04-29T19:00:00,Katie Stengel,
+2016-05-01T17:00:00,Dagný Brynjarsdóttir,Tobin Heath
+2016-05-01T18:00:00,Christen Press,Danielle Colaprico
+2016-05-01T19:00:00,Kim Little,
+2016-05-07T19:00:00,Maya Hayes,Rocky Rodriguez
+2016-05-07T19:00:00,Jaelene Daniels,
+2016-05-07T19:00:00,Sam Mewis,
+2016-05-07T19:00:00,Christen Press,
+2016-05-07T20:30:00,Denise O'Sullivan,Chioma Ubogagu
+2016-05-07T20:30:00,Chioma Ubogagu,Rachel Daly
+2016-05-07T20:30:00,Yael Averbuch,
+2016-05-08T17:00:00,Sarah Hagen,Alex Morgan
+2016-05-08T17:00:00,Lianne Sanderson,
+2016-05-13T19:00:00,Kassey Kallman (OG),
+2016-05-14T19:00:00,Joanna Lohman,Christine Nairn
+2016-05-14T19:30:00,Alex Morgan,Kristen Edmonds
+2016-05-14T22:00:00,Nadia Nadim,Meg Morris
+2016-05-14T22:00:00,Beverly Yanez,Lauren Barnes
+2016-05-20T20:40:00,Kristen Edmonds,Lianne Sanderson
+2016-05-21T19:05:00,Jessica McDonald,Jaelene Daniels
+2016-05-21T19:05:00,Sam Mewis,
+2016-05-21T19:05:00,Lynn Williams,Makenzy Doniak
+2016-05-21T19:05:00,Jessica McDonald,
+2016-05-21T19:05:00,Kelley O'Hara,Leah Galton
+2016-05-21T19:05:00,Michaela Hahn,Jaelene Daniels
+2016-05-21T19:05:00,Sarah Woldmoe,
+2016-05-21T22:00:00,Lindsey Horan,Tobin Heath
+2016-05-21T22:00:00,Alyssa Kleiner (OG),
+2016-05-21T22:00:00,Tobin Heath,
+2016-05-21T22:00:00,Joanna Lohman,Crystal Dunn
+2016-05-21T22:00:00,Meg Morris,
+2016-05-22T18:30:00,Whitney Engen,Kristie Mewis
+2016-05-22T19:00:00,Jen Hoy,
+2016-05-22T19:00:00,Jen Hoy,Vanessa DiBernardo
+2016-05-22T19:00:00,Kim Little,
+2016-05-27T19:00:00,Taylor Smith,
+2016-05-27T19:00:00,Lynn Williams,Michaela Hahn
+2016-05-27T19:00:00,Lynn Williams,Meredith Speck
+2016-05-27T19:00:00,Abby Dahlkemper,
+2016-05-28T20:30:00,Yael Averbuch,
+2016-05-28T20:30:00,Erika Tymrak,Kate Bowen
+2016-05-29T19:00:00,Sofia Huerta,Danielle Colaprico
+2016-05-29T19:00:00,Leah Galton,
+2016-06-10T19:00:00,Katie Stengel,
+2016-06-10T19:00:00,Louise Schillgard,
+2016-06-11T19:00:00,Shea Groom,Erika Tymrak
+2016-06-11T19:00:00,Sarah Woldmoe,
+2016-06-11T19:05:00,Makenzy Doniak,Jessica McDonald
+2016-06-12T18:05:00,Christine Sinclair,
+2016-06-12T18:05:00,Christen Press,Alyssa Mautz
+2016-06-12T19:00:00,Havana Solaun,Beverly Yanez
+2016-06-17T19:05:00,Christine Sinclair,Allie Long
+2016-06-17T19:05:00,Nadia Nadim,
+2016-06-18T19:00:00,Estefanía Banini,Alyssa Kleiner
+2016-06-18T19:00:00,Francisca Ordega,
+2016-06-18T20:00:00,Sofia Huerta,Vanessa DiBernardo
+2016-06-18T20:00:00,Sofia Huerta,Alyssa Mautz
+2016-06-18T20:00:00,Casey Krueger,Vanessa DiBernardo
+2016-06-19T20:30:00,Becky Sauerbrunn,
+2016-06-22T22:00:00,Christine Sinclair,
+2016-06-22T22:00:00,Nadia Nadim,Amandine Henry
+2016-06-23T19:30:00,Jasmyne Spencer,Sarah Hagen
+2016-06-24T19:00:00,Lynn Williams,Makenzy Doniak
+2016-06-24T19:00:00,Jessica McDonald,Sam Mewis
+2016-06-24T19:00:00,Christen Westphal,Whitney Engen
+2016-06-24T19:00:00,Lynn Williams,Jessica McDonald
+2016-06-24T19:00:00,Jessica McDonald,Elizabeth Eddy
+2016-06-24T19:00:00,Makenzy Doniak,Sam Mewis
+2016-06-24T19:00:00,Jessica McDonald,Jaelene Daniels
+2016-06-24T19:00:00,Taylor Smith,Lynn Williams
+2016-06-25T19:00:00,Rocky Rodriguez,Leah Galton
+2016-06-25T19:00:00,Sam Kerr,Leah Galton
+2016-06-25T19:00:00,Diana Matheson,Estefanía Banini
+2016-06-26T17:00:00,Jasmyne Spencer,
+2016-06-26T17:00:00,Dagný Brynjarsdóttir,Christine Sinclair
+2016-06-26T17:00:00,Lindsey Horan,Hayley Raso
+2016-07-01T20:20:00,Lianne Sanderson,
+2016-07-01T20:20:00,Lynn Williams,Jessica McDonald
+2016-07-02T19:00:00,Francisca Ordega,
+2016-07-02T19:00:00,Tori Huster,
+2016-07-02T22:00:00,Nahomi Kawasumi,
+2016-07-02T22:00:00,Nahomi Kawasumi,Keelin Winters
+2016-07-02T22:30:00,Natasha Kai,Taylor Lytle
+2016-07-02T22:30:00,Dagný Brynjarsdóttir,Nadia Nadim
+2016-07-02T22:30:00,Nadia Nadim,
+2016-07-09T19:00:00,Taylor Lytle,Sarah Woldmoe
+2016-07-09T19:00:00,Nahomi Kawasumi,Manon Melis
+2016-07-09T19:00:00,Abby Erceg,Jessica McDonald
+2016-07-09T19:00:00,Abby Erceg,Jessica McDonald
+2016-07-09T19:00:00,Lynn Williams,Abby Erceg
+2016-07-09T19:00:00,Rumi Utsugi,
+2016-07-09T19:00:00,Estefanía Banini,Francisca Ordega
+2016-07-09T19:00:00,Katie Stengel,Christine Nairn
+2016-07-09T22:30:00,Shea Groom,Tiffany McCarty
+2016-07-09T22:30:00,Shea Groom,Tiffany McCarty
+2016-07-09T22:30:00,Kathryn Williamson,
+2016-07-10T17:00:00,Mollie Pathman,
+2016-07-10T17:00:00,Kristen Edmonds,
+2016-07-10T17:00:00,Kristen Edmonds,Leah Lynn Gabriela Fortune
+2016-07-16T19:00:00,Estefanía Banini,
+2016-07-16T19:00:00,Joanna Lohman,
+2016-07-16T19:00:00,Frances Silva,Erika Tymrak
+2016-07-16T19:00:00,Estefanía Banini,
+2016-07-16T19:00:00,Shea Groom,Caroline Kastor
+2016-07-16T19:30:00,Taylor Comeau,Sofia Huerta
+2016-07-16T20:30:00,Rachel Daly,Melissa Henderson
+2016-07-16T20:30:00,Amber Brooks,
+2016-07-16T20:30:00,Kealia Ohai Watt,
+2016-07-16T22:00:00,Manon Melis,Keelin Winters
+2016-07-16T22:00:00,Jessica McDonald,Abby Dahlkemper
+2016-07-17T17:00:00,Angela Salem,
+2016-07-17T17:00:00,Sarah Woldmoe,
+2016-07-17T17:00:00,Leah Galton,Natasha Kai
+2016-07-17T17:00:00,Erica Skroski,Kristin Grubka
+2016-07-17T17:00:00,Julie King,Louise Schillgard
+2016-07-23T19:00:00,Leah Galton,Erin Simon
+2016-07-23T19:05:00,Shea Groom,Tiffany McCarty
+2016-07-23T20:00:00,Cari Roccaro (OG),
+2016-07-23T20:00:00,Rachel Daly,Kealia Ohai Watt
+2016-07-23T22:00:00,Kim Little,
+2016-07-23T22:00:00,Jessica Fishlock,
+2016-07-23T22:00:00,Manon Melis,
+2016-07-23T22:00:00,Jasmyne Spencer,Jamia Fields
+2016-07-23T22:00:00,Kendall Fletcher,Lauren Barnes
+2016-07-23T22:00:00,Toni Pressley (OG),
+2016-07-23T22:00:00,Kristen Edmonds,Sarah Hagen
+2016-07-30T20:00:00,Stephanie McCaffrey,
+2016-07-30T20:30:00,Lianne Sanderson,Lynn Williams
+2016-07-30T20:30:00,Rachel Daly,Denise O'Sullivan
+2016-07-30T20:30:00,Kealia Ohai Watt,Rebecca Moros
+2016-07-30T20:30:00,Kealia Ohai Watt,Stephanie Ochs
+2016-07-30T20:30:00,Jessica McDonald,Lynn Williams
+2016-07-30T20:30:00,Lynn Williams,Jessica McDonald
+2016-07-30T22:50:00,Nadia Nadim,Meleana Shim
+2016-07-31T11:00:00,Estefanía Banini,Joanna Lohman
+2016-07-31T11:00:00,Natasha Kai,
+2016-07-31T11:00:00,Cheyna Lee Matthews,Caprice Dydasco
+2016-07-31T11:00:00,Alyssa Kleiner,
+2016-07-31T18:00:00,Natasha Dowie,
+2016-08-18T20:00:00,Christine Nairn,
+2016-08-18T20:00:00,Christine Nairn,
+2016-08-18T20:00:00,Kealia Ohai Watt,Stephanie Ochs
+2016-08-26T19:30:00,Cheyna Lee Matthews,Caprice Dydasco
+2016-08-26T19:30:00,Christine Nairn,Katie Stengel
+2016-08-26T19:30:00,Sarah Hagen,Camille Levin
+2016-08-27T17:00:00,Manon Melis,Nahomi Kawasumi
+2016-08-27T17:00:00,Manon Melis,
+2016-08-27T17:00:00,Allie Long,Tobin Heath
+2016-08-27T17:00:00,Megan Rapinoe,Jessica Fishlock
+2016-08-27T19:00:00,Stephanie McCaffrey,Arin Wright
+2016-08-27T19:00:00,Christen Press,Vanessa DiBernardo
+2016-08-27T19:00:00,Sofia Huerta,Arin Wright
+2016-08-27T19:00:00,Sam Kerr,Leah Galton
+2016-08-27T19:00:00,Denise O'Sullivan,
+2016-08-27T19:00:00,Lianne Sanderson,Lynn Williams
+2016-08-27T19:00:00,Kealia Ohai Watt,Rebecca Moros
+2016-08-27T19:00:00,Makenzy Doniak,Lynn Williams
+2016-08-28T18:00:00,Katie Schoepfer,
+2016-08-28T18:00:00,Kristie Mewis,
+2016-08-31T20:00:00,Kealia Ohai Watt,Carli Lloyd
+2016-08-31T20:00:00,Kealia Ohai Watt,Denise O'Sullivan
+2016-08-31T20:00:00,Carli Lloyd,Andressinha
+2016-08-31T20:00:00,Natasha Dowie,Kyah Simon
+2016-09-03T19:00:00,Katie Stengel,Crystal Dunn
+2016-09-03T19:00:00,Sam Mewis,
+2016-09-03T20:30:00,Janine Beckie,Carli Lloyd
+2016-09-03T20:30:00,Poliana,
+2016-09-03T20:30:00,Kealia Ohai Watt,Denise O'Sullivan
+2016-09-03T20:30:00,Alex Morgan,Kristen Edmonds
+2016-09-03T20:30:00,Kristen Edmonds,
+2016-09-03T20:30:00,Kealia Ohai Watt,Janine Beckie
+2016-09-04T18:00:00,Sam Kerr,Erin Simon
+2016-09-04T18:00:00,Tiffany McCarty,
+2016-09-04T18:00:00,Yael Averbuch,
+2016-09-04T19:00:00,Manon Melis,Beverly Yanez
+2016-09-04T19:00:00,Lauren Barnes,
+2016-09-04T19:00:00,Sofia Huerta,Vanessa DiBernardo
+2016-09-04T19:00:00,Christen Press,
+2016-09-04T19:00:00,Christine Sinclair,Nadia Nadim
+2016-09-04T19:00:00,Nadia Nadim,
+2016-09-04T19:00:00,Allie Long,Christine Sinclair
+2016-09-04T19:00:00,Nadia Nadim,Allie Long
+2016-09-04T19:00:00,Julie King,Eunice Beckmann
+2016-09-04T19:00:00,Nadia Nadim,
+2016-09-07T19:00:00,Kyah Simon,Julie King
+2016-09-07T19:00:00,Jessica McDonald,
+2016-09-07T19:00:00,Natasha Dowie,Louise Schillgard
+2016-09-07T19:00:00,Lynn Williams,Makenzy Doniak
+2016-09-07T19:00:00,Alex Morgan,Maddy Evans
+2016-09-07T19:00:00,Sam Kerr,
+2016-09-07T20:00:00,Crystal Dunn,Christine Nairn
+2016-09-07T20:00:00,Cheyna Lee Matthews,
+2016-09-07T20:00:00,Kim Little,
+2016-09-07T20:00:00,Shea Groom,Heather O'Reilly
+2016-09-07T20:00:00,Christen Press,Taylor Comeau
+2016-09-07T20:00:00,Frances Silva,Tiffany McCarty
+2016-09-07T20:00:00,Shea Groom,Caroline Kastor
+2016-09-07T20:00:00,Sofia Huerta,Arin Wright
+2016-09-07T22:00:00,Allie Long,Tobin Heath
+2016-09-07T22:00:00,Allie Long,Tobin Heath
+2016-09-07T22:00:00,Christine Sinclair,
+2016-09-10T19:30:00,Kristen Edmonds,
+2016-09-10T19:30:00,Sam Kerr,
+2016-09-10T19:30:00,Maya Hayes,
+2016-09-11T19:00:00,Janine Beckie,Carli Lloyd
+2016-09-11T19:00:00,Kealia Ohai Watt,Janine Beckie
+2016-09-11T19:00:00,Elise Krieghoff,
+2016-09-11T19:00:00,Carli Lloyd,Kealia Ohai Watt
+2016-09-11T19:00:00,Carli Lloyd,
+2016-09-11T21:30:00,Nadia Nadim,
+2016-09-11T21:30:00,Christine Sinclair,
+2016-09-11T21:30:00,Dagný Brynjarsdóttir,Tobin Heath
+2016-09-11T21:30:00,Jessica McDonald,Elizabeth Eddy
+2016-09-11T21:30:00,Lynn Williams,Jessica McDonald
+2016-09-11T22:00:00,Beverly Yanez,Megan Rapinoe
+2016-09-11T22:00:00,Keelin Winters,Nahomi Kawasumi
+2016-09-24T17:00:00,Jasmyne Spencer,
+2016-09-24T17:00:00,Tiffany McCarty,
+2016-09-24T17:00:00,Heather O'Reilly,
+2016-09-24T19:00:00,Jessica McDonald,Makenzy Doniak
+2016-09-24T19:00:00,Lynn Williams,
+2016-09-24T19:00:00,Sam Mewis,McCall Zerboni
+2016-09-24T19:00:00,Abby Dahlkemper,
+2016-09-24T20:00:00,Christen Press,Vanessa DiBernardo
+2016-09-24T20:00:00,Cara Walls,Sofia Huerta
+2016-09-24T20:00:00,Sofia Huerta,Arin Wright
+2016-09-24T20:00:00,Crystal Dunn,
+2016-09-25T19:00:00,Natasha Kai,Kelley O'Hara
+2016-09-25T19:00:00,Allie Long,Tobin Heath
+2016-09-25T19:00:00,Lindsey Horan,Nadia Nadim
+2016-09-25T19:00:00,Allie Long,Hayley Raso
+2016-09-25T21:30:00,Kealia Ohai Watt,Denise O'Sullivan
+2016-09-25T21:30:00,Carli Lloyd,Denise O'Sullivan
+2016-09-25T21:30:00,Manon Melis,Jessica Fishlock
+2016-09-25T21:30:00,Kim Little,Jessica Fishlock
+2016-09-25T21:30:00,Beverly Yanez,Carson Pickett
+2016-09-30T20:00:00,Ali Krieger,Shelina Zadorsky
+2016-09-30T20:00:00,Christen Press,Casey Krueger
+2016-09-30T20:00:00,Francisca Ordega,Christine Nairn
+2016-10-02T17:00:00,Sam Mewis,
+2016-10-02T17:00:00,Makenzy Doniak,Jessica McDonald
+2016-10-02T17:00:00,Christine Sinclair,Katherine Reynolds
+2016-10-02T17:00:00,Emily Sonnett,
+2016-10-02T17:00:00,Lynn Williams,
+2016-10-02T17:00:00,Lynn Williams,Sam Mewis
+2016-10-02T17:00:00,Lindsey Horan,Dagný Brynjarsdóttir
+2016-10-09T17:10:00,Crystal Dunn,Megan Montefusco
+2016-10-09T17:10:00,Sam Mewis,Lynn Williams
+2016-10-09T17:10:00,Crystal Dunn,Ali Krieger
+2016-10-09T17:10:00,Lynn Williams,Jessica McDonald

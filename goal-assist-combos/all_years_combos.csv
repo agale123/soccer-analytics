@@ -1,0 +1,904 @@
+p1,p2,combos,p1g,p1a,p2g,p2a,p1g_p2a,p2g_p1a,goals
+Sam Kerr,Yuki Nagasato,17,57,13,19,23,15,2,76
+Lynn Williams,Jessica McDonald,15,62,27,40,34,10,5,102
+Lynn Williams,Debinha,12,62,27,51,20,8,4,113
+Lindsey Horan,Tobin Heath,9,31,14,13,21,7,2,44
+Christine Sinclair,Lindsey Horan,8,53,11,31,14,5,3,84
+Jessica McDonald,Crystal Dunn,8,40,34,24,18,3,5,64
+Trinity Rodman,Ashley Sanchez,8,16,12,11,7,3,5,27
+Lynn Williams,Crystal Dunn,7,62,27,24,18,3,4,86
+Lynn Williams,Sam Mewis,7,62,27,22,12,4,3,84
+Alex Morgan,Marta,7,43,14,27,14,4,3,70
+Alex Morgan,Taylor Kornieck,7,43,14,8,7,6,1,51
+Jessica McDonald,Jaelene Daniels,7,40,34,4,18,7,0,44
+Midge Purce,Ifeoma Onumonu,7,25,9,17,11,4,3,42
+Debinha,Jessica McDonald,6,51,20,40,34,5,1,91
+Rachel Daly,Kealia Ohai Watt,6,42,11,27,16,5,1,69
+Sam Kerr,Vanessa DiBernardo,6,57,13,11,18,3,3,68
+Christine Sinclair,Tobin Heath,6,53,11,13,21,4,2,66
+Rachel Daly,Nichelle Prince,6,42,11,14,10,6,0,56
+Shea Groom,Kristie Mewis,6,29,18,22,19,4,2,51
+Bethany Balcer,Jessica Fishlock,6,27,4,23,16,4,2,50
+Lynn Williams,Kristen Hamilton,5,62,27,31,12,3,2,93
+Lynn Williams,Makenzy Doniak,5,62,27,11,10,4,1,73
+Sam Kerr,Maya Hayes,5,57,13,8,4,4,1,65
+Christen Press,Sofia Huerta,5,34,9,31,26,3,2,65
+Ashley Hatch,Trinity Rodman,5,45,5,16,12,5,0,61
+Sofia Huerta,Bethany Balcer,5,31,26,27,4,0,5,58
+Megan Rapinoe,Jodie Taylor,5,33,15,19,5,0,5,52
+Sophia Smith,Morgan Weaver,5,26,4,11,7,4,1,37
+Lindsey Horan,Meghan Klingenberg,5,31,14,0,21,5,0,31
+Amy Rodriguez,Verónica Boquete,5,24,2,1,8,5,0,25
+Rachel Daly,Sofia Huerta,4,42,11,31,26,2,2,73
+Lynn Williams,Merritt Mathias,4,62,27,8,13,4,0,70
+Sam Kerr,Daphne Corboz,4,57,13,1,5,4,0,58
+Debinha,Kerolin,4,51,20,7,4,2,2,58
+Megan Rapinoe,Jessica Fishlock,4,33,15,23,16,3,1,56
+Megan Rapinoe,Nahomi Kawasumi,4,33,15,13,21,3,1,46
+Lindsey Horan,Hayley Raso,4,31,14,13,7,1,3,44
+Sofia Huerta,Alyssa Mautz,4,31,26,7,5,2,2,38
+Mallory Pugh,Bianca St-Georges,4,31,15,4,4,3,1,35
+Kealia Ohai Watt,Denise O'Sullivan,4,27,16,4,12,4,0,31
+Tobin Heath,Allie Long,4,13,21,12,6,0,4,25
+Trinity Rodman,Andi Sullivan,4,16,12,7,6,3,1,23
+Natasha Dowie,Adriana Leon,4,10,2,6,6,3,1,16
+Diana Ordóñez,Carson Pickett,4,12,1,1,16,4,0,13
+Christine Sinclair,Nadia Nadim,3,53,11,24,8,3,0,77
+Debinha,Crystal Dunn,3,51,20,24,18,3,0,75
+Rachel Daly,Shea Groom,3,42,11,29,18,1,2,71
+Jessica McDonald,Kristen Hamilton,3,40,34,31,12,2,1,71
+Sam Kerr,Katie Johnson,3,57,13,12,11,3,0,69
+Lynn Williams,Taylor Smith,3,62,27,6,7,2,1,68
+Christine Sinclair,Hayley Raso,3,53,11,13,7,2,1,66
+Christine Sinclair,Allie Long,3,53,11,12,6,2,1,65
+Rachel Daly,Kristie Mewis,3,42,11,22,19,3,0,64
+Jessica McDonald,Nadia Nadim,3,40,34,24,8,0,3,64
+Lynn Williams,Carson Pickett,3,62,27,1,16,3,0,63
+Sam Kerr,Leah Galton,3,57,13,5,5,2,1,62
+Sam Kerr,Jennifer Vasconcelos,3,57,13,4,3,2,1,61
+Debinha,Hailie Mace,3,51,20,8,8,2,1,59
+Mallory Pugh,Kealia Ohai Watt,3,31,15,27,16,2,1,58
+Sofia Huerta,Kristie Mewis,3,31,26,22,19,1,2,53
+Shea Groom,Sydney Leroux,3,29,18,24,7,1,2,53
+Jessica McDonald,Makenzy Doniak,3,40,34,11,10,1,2,51
+Jessica McDonald,Abby Erceg,3,40,34,10,5,1,2,50
+Mallory Pugh,Yuki Nagasato,3,31,15,19,23,1,2,50
+Christen Press,Lo’eau LaBonta,3,34,9,14,11,2,1,48
+Ashley Hatch,Tori Huster,3,45,5,2,6,3,0,47
+Crystal Dunn,Sam Mewis,3,24,18,22,12,1,2,46
+Christen Press,Vanessa DiBernardo,3,34,9,11,18,3,0,45
+Alex Morgan,Sofia Jakobsson,3,43,14,1,4,3,0,44
+Shea Groom,Lo’eau LaBonta,3,29,18,14,11,1,2,43
+Carli Lloyd,Rocky Rodriguez,3,25,6,15,8,3,0,40
+Kristen Hamilton,Hailie Mace,3,31,12,8,8,3,0,39
+Marta,Jasmyne Spencer,3,27,14,10,6,2,1,37
+Kristie Mewis,Nichelle Prince,3,22,19,14,10,2,1,36
+Midge Purce,Paige Monaghan,3,25,9,10,3,1,2,35
+Kristen Hamilton,Elyse Bennett,3,31,12,3,6,3,0,34
+Kristie Mewis,Veronica Latsko,3,22,19,12,6,1,2,34
+Mallory Pugh,Ava Cook,3,31,15,2,3,2,1,33
+Sofia Huerta,Arin Wright,3,31,26,2,12,3,0,33
+Shea Groom,Maria Sánchez,3,29,18,4,7,2,1,33
+Shea Groom,Tiffany McCarty,3,29,18,3,4,3,0,32
+Kealia Ohai Watt,Janine Beckie,3,27,16,5,5,2,1,32
+Kristie Mewis,McCall Zerboni,3,22,19,10,6,0,3,32
+Carli Lloyd,Imani Dorsey,3,25,6,6,4,3,0,31
+Ifeoma Onumonu,Nahomi Kawasumi,3,17,11,13,21,3,0,30
+Sophia Smith,Olivia Lynn Moultrie,3,26,4,3,5,2,1,29
+Yuki Nagasato,Casey Krueger,3,19,23,8,6,2,1,27
+Ifeoma Onumonu,Paige Monaghan,3,17,11,10,3,1,2,27
+Sam Mewis,Abby Dahlkemper,3,22,12,3,4,3,0,25
+Trinity Rodman,Kelley O'Hara,3,16,12,7,10,2,1,23
+Nahomi Kawasumi,Beverly Yanez,3,13,21,10,4,0,3,23
+Nahomi Kawasumi,Christine Nairn,3,13,21,6,14,2,1,19
+Tobin Heath,Dagný Brynjarsdóttir,3,13,21,6,2,0,3,19
+Francisca Ordega,Havana Solaun,3,10,4,7,5,1,2,17
+Abby Erceg,Jaelene Daniels,3,10,5,4,18,3,0,14
+Eugénie Le Sommer,Dzsenifer Marozsán,3,8,3,0,3,3,0,8
+Lynn Williams,Ashley Hatch,2,62,27,45,5,1,1,107
+Debinha,Kristen Hamilton,2,51,20,31,12,0,2,82
+Ashley Hatch,Mallory Pugh,2,45,5,31,15,1,1,76
+Sam Kerr,Rocky Rodriguez,2,57,13,15,8,0,2,72
+Sam Kerr,Sarah Woldmoe,2,57,13,14,9,2,0,71
+Lynn Williams,Leah Pruitt,2,62,27,5,3,0,2,67
+Lynn Williams,Lianne Sanderson,2,62,27,5,1,0,2,67
+Alex Morgan,Sydney Leroux,2,43,14,24,7,1,1,67
+Lynn Williams,Jaelene Daniels,2,62,27,4,18,2,0,66
+Sam Kerr,Morgan Gautrat,2,57,13,6,4,1,1,63
+Debinha,Diana Ordóñez,2,51,20,12,1,1,1,63
+Christine Sinclair,Emily Sonnett,2,53,11,8,2,1,1,61
+Alex Morgan,Rachel Hill,2,43,14,17,3,0,2,60
+Sam Kerr,Arin Wright,2,57,13,2,12,2,0,59
+Christine Sinclair,Dagný Brynjarsdóttir,2,53,11,6,2,1,1,59
+Debinha,Merritt Mathias,2,51,20,8,13,1,1,59
+Sam Kerr,Taylor Lytle,2,57,13,1,9,2,0,58
+Sofia Huerta,Kealia Ohai Watt,2,31,26,27,16,1,1,58
+Ashley Hatch,Ashley Sanchez,2,45,5,11,7,2,0,56
+Debinha,Meredith Speck,2,51,20,4,7,2,0,55
+Jessica McDonald,CeCe Kizer,2,40,34,15,5,1,1,55
+Lindsey Horan,Nadia Nadim,2,31,14,24,8,2,0,55
+Alex Morgan,Kristen Edmonds,2,43,14,11,3,2,0,54
+Sofia Huerta,Jessica Fishlock,2,31,26,23,16,1,1,54
+Debinha,Theresa Boade,2,51,20,2,1,1,1,53
+Alex Morgan,Jasmyne Spencer,2,43,14,10,6,2,0,53
+Kristen Hamilton,Sam Mewis,2,31,12,22,12,2,0,53
+Ashley Hatch,Andi Sullivan,2,45,5,7,6,2,0,52
+Kealia Ohai Watt,Carli Lloyd,2,27,16,25,6,1,1,52
+Ashley Hatch,Jordan Baggett,2,45,5,5,1,1,1,50
+Ashley Hatch,Tara McKeown,2,45,5,4,4,2,0,49
+Jessica McDonald,Merritt Mathias,2,40,34,8,13,2,0,48
+Alex Morgan,Danielle Weatherholt,2,43,14,3,2,1,1,46
+Rachel Daly,Andressinha,2,42,11,4,4,0,2,46
+Christen Press,Katie Stengel,2,34,9,12,5,1,1,46
+Rachel Daly,Bri Visalli,2,42,11,3,1,1,1,45
+Megan Rapinoe,Katie Johnson,2,33,15,12,11,2,0,45
+Kristen Hamilton,Lo’eau LaBonta,2,31,12,14,11,2,0,45
+Mallory Pugh,Sarah Woldmoe,2,31,15,14,9,1,1,45
+Alex Morgan,Steph Catley,2,43,14,1,8,2,0,44
+Jessica McDonald,Elizabeth Eddy,2,40,34,4,4,2,0,44
+Jessica McDonald,Denise O'Sullivan,2,40,34,4,12,1,1,44
+Megan Rapinoe,Rose Lavelle,2,33,15,11,5,0,2,44
+Shea Groom,Ebony Salmon,2,29,18,15,2,0,2,44
+Marta,Rachel Hill,2,27,14,17,3,1,1,44
+Sofia Huerta,Veronica Latsko,2,31,26,12,6,0,2,43
+Jessica McDonald,Lauren Milliet,2,40,34,2,2,1,1,42
+Sofia Huerta,Vanessa DiBernardo,2,31,26,11,18,2,0,42
+Sofia Huerta,Rose Lavelle,2,31,26,11,5,0,2,42
+Christen Press,Alyssa Mautz,2,34,9,7,5,1,1,41
+Christen Press,Gunny Jónsdóttir,2,34,9,7,8,2,0,41
+Megan Rapinoe,Eugénie Le Sommer,2,33,15,8,3,0,2,41
+Kristen Hamilton,Abby Erceg,2,31,12,10,5,1,1,41
+Mallory Pugh,Francisca Ordega,2,31,15,10,4,1,1,41
+Kristen Hamilton,McCall Zerboni,2,31,12,10,6,1,1,41
+Shea Groom,Veronica Latsko,2,29,18,12,6,1,1,41
+Shea Groom,Katie Johnson,2,29,18,12,11,1,1,41
+Marta,Chioma Ubogagu,2,27,14,13,7,1,1,40
+Carli Lloyd,Sarah Woldmoe,2,25,6,14,9,2,0,39
+Kealia Ohai Watt,Vanessa DiBernardo,2,27,16,11,18,1,1,38
+Sydney Leroux,Chioma Ubogagu,2,24,7,13,7,1,1,37
+Midge Purce,Simone Charley,2,25,9,11,3,2,0,36
+Jessica Fishlock,Nahomi Kawasumi,2,23,16,13,21,2,0,36
+Megan Rapinoe,Jordyn Huitema,2,33,15,2,2,2,0,35
+Mallory Pugh,Amanda Kowalski,2,31,15,4,0,0,2,35
+Kristen Hamilton,Jaelene Daniels,2,31,12,4,18,2,0,35
+Sofia Huerta,Julie Ertz,2,31,26,4,4,1,1,35
+Sofia Huerta,Danielle Colaprico,2,31,26,4,11,2,0,35
+Marta,Alanna Stephanie Kennedy,2,27,14,8,2,0,2,35
+Midge Purce,Natasha Dowie,2,25,9,10,2,0,2,35
+Marta,Gunny Jónsdóttir,2,27,14,7,8,1,1,34
+Jessica Fishlock,Rose Lavelle,2,23,16,11,5,1,1,34
+Yuki Nagasato,Ebony Salmon,2,19,23,15,2,1,1,34
+Sofia Huerta,Taylor Comeau,2,31,26,2,3,1,1,33
+Shea Groom,Heather O'Reilly,2,29,18,3,3,2,0,32
+Marta,Camila,2,27,14,5,5,1,1,32
+Sam Mewis,McCall Zerboni,2,22,12,10,6,2,0,32
+Kristen Hamilton,Isabel Rodriguez,2,31,12,0,2,2,0,31
+Sydney Leroux,Gunny Jónsdóttir,2,24,7,7,8,1,1,31
+Crystal Dunn,Diana Matheson,2,24,18,7,1,0,2,31
+Amy Rodriguez,Gunny Jónsdóttir,2,24,2,7,8,2,0,31
+Jessica Fishlock,Eugénie Le Sommer,2,23,16,8,3,1,1,31
+Savannah McCaskill,Ebony Salmon,2,16,11,15,2,0,2,31
+Carli Lloyd,Janine Beckie,2,25,6,5,5,0,2,30
+Sydney Leroux,Brittany Ratcliffe,2,24,7,6,3,2,0,30
+Sydney Leroux,Erika Tymrak,2,24,7,6,8,1,1,30
+Kristie Mewis,Sophie Schmidt,2,22,19,8,5,1,1,30
+Jodie Taylor,Darian Jenkins,2,19,5,11,3,1,1,30
+Rachel Hill,Chioma Ubogagu,2,17,3,13,7,1,1,30
+Shea Groom,Caroline Kastor,2,29,18,0,2,2,0,29
+Kealia Ohai Watt,Sarah Luebbert,2,27,16,2,3,1,1,29
+Crystal Dunn,Joanna Lohman,2,24,18,5,1,0,2,29
+Jessica Fishlock,Tziarra King,2,23,16,6,3,2,0,29
+Nadia Nadim,Amandine Henry,2,24,8,4,1,1,1,28
+Crystal Dunn,Jaelene Daniels,2,24,18,4,18,2,0,28
+Kealia Ohai Watt,Rebecca Moros,2,27,16,0,2,2,0,27
+Kealia Ohai Watt,Stephanie Ochs,2,27,16,0,2,2,0,27
+Sophia Smith,Natalia Kuikka,2,26,4,1,4,2,0,27
+Kristie Mewis,Kyah Simon,2,22,19,5,5,2,0,27
+Sophia Smith,Meghan Klingenberg,2,26,4,0,21,2,0,26
+Sydney Leroux,Ali Krieger,2,24,7,2,8,2,0,26
+Amy Rodriguez,Mallory Weber,2,24,2,2,2,2,0,26
+Midge Purce,Ellie Jean,2,25,9,0,2,2,0,25
+Jessica Fishlock,Kiersten Dallstream,2,23,16,1,2,2,0,24
+Savannah McCaskill,Casey Krueger,2,16,11,8,6,1,1,24
+Yuki Nagasato,Julie Ertz,2,19,23,4,4,0,2,23
+Katie Johnson,Vanessa DiBernardo,2,12,11,11,18,2,0,23
+Savannah McCaskill,Imani Dorsey,2,16,11,6,4,0,2,22
+Ifeoma Onumonu,Celia,2,17,11,4,2,1,1,21
+Tobin Heath,Emily Sonnett,2,13,21,8,2,0,2,21
+Jodie Taylor,Theresa Eslund,2,19,5,1,3,2,0,20
+Trinity Rodman,Sam Staab,2,16,12,4,4,2,0,20
+Savannah McCaskill,Bianca St-Georges,2,16,11,4,4,1,1,20
+Nahomi Kawasumi,Manon Melis,2,13,21,7,1,1,1,20
+McCall Zerboni,Abby Erceg,2,10,6,10,5,2,0,20
+Hayley Raso,Ana-Maria Crnogorcevic,2,13,7,6,4,1,1,19
+Chioma Ubogagu,Christine Nairn,2,13,7,6,14,2,0,19
+Ifeoma Onumonu,Caprice Dydasco,2,17,11,1,7,1,1,18
+Rachel Hill,Emily van Egmond,2,17,3,1,4,2,0,18
+Nichelle Prince,Andressinha,2,14,10,4,4,2,0,18
+Katie Stengel,Christine Nairn,2,12,5,6,14,1,1,18
+Morgan Weaver,Hina Sugita,2,11,7,7,4,2,0,18
+Savannah McCaskill,Jun Endo,2,16,11,1,4,1,1,17
+CeCe Kizer,Alexis Loera,2,15,5,2,3,2,0,17
+Lo’eau LaBonta,Elyse Bennett,2,14,11,3,6,1,1,17
+Veronica Latsko,Kyah Simon,2,12,6,5,5,0,2,17
+CeCe Kizer,Emily Fox,2,15,5,1,2,1,1,16
+Tobin Heath,Caitlin Foord,2,13,21,3,2,1,1,16
+Ebony Salmon,Natalie Ann Jacobs,2,15,2,0,5,2,0,15
+Jasmyne Spencer,Camila,2,10,6,5,5,2,0,15
+Sophie Schmidt,Marisa Viggiano,2,8,5,7,2,1,1,15
+Nahomi Kawasumi,Keelin Winters,2,13,21,1,2,1,1,14
+Veronica Latsko,Thembi Kgatlana,2,12,6,2,3,2,0,14
+Makenzy Doniak,Amirah Ali,2,11,10,3,1,0,2,14
+Gunny Jónsdóttir,Diana Matheson,2,7,8,7,1,1,1,14
+Katie Stengel,Taylor Lytle,2,12,5,1,9,2,0,13
+Cheyna Lee Matthews,Caprice Dydasco,2,12,3,1,7,2,0,13
+Vanessa DiBernardo,Sarah Griffith,2,11,18,2,1,0,2,13
+Gunny Jónsdóttir,Erika Tymrak,2,7,8,6,8,1,1,13
+Darian Jenkins,Steph Catley,2,11,3,1,8,2,0,12
+Taylor Kornieck,Meggie Dougherty Howard,2,8,7,4,6,2,0,12
+Kelley O'Hara,Leah Galton,2,7,10,5,5,2,0,12
+Abby Erceg,Carson Pickett,2,10,5,1,16,2,0,11
+Kelley O'Hara,Natasha Kai,2,7,10,4,1,0,2,11
+Alyssa Mautz,Arin Wright,2,7,5,2,12,2,0,9
+Emily Sonnett,Meghan Klingenberg,2,8,2,0,21,2,0,8
+Madison Tiernan,Taylor Lytle,2,5,2,1,9,2,0,6
+Elyse Bennett,Alexis Loera,2,3,6,2,3,1,1,5
+Marissa Everett,Meghan Klingenberg,2,4,0,0,21,2,0,4
+Ali Krieger,Shelina Zadorsky,2,2,8,1,4,1,1,3
+Debinha,Ashley Hatch,1,51,20,45,5,0,1,96
+Christine Sinclair,Sophia Smith,1,53,11,26,4,0,1,79
+Christine Sinclair,Crystal Dunn,1,53,11,24,18,1,0,77
+Ashley Hatch,Kristen Hamilton,1,45,5,31,12,1,0,76
+Debinha,Sam Mewis,1,51,20,22,12,1,0,73
+Lynn Williams,McCall Zerboni,1,62,27,10,6,0,1,72
+Lynn Williams,Abby Erceg,1,62,27,10,5,1,0,72
+Ashley Hatch,Sam Mewis,1,45,5,22,12,1,0,67
+Rachel Daly,Carli Lloyd,1,42,11,25,6,0,1,67
+Lynn Williams,Denise O'Sullivan,1,62,27,4,12,1,0,66
+Lynn Williams,Meredith Speck,1,62,27,4,7,1,0,66
+Sam Kerr,Casey Krueger,1,57,13,8,6,0,1,65
+Sam Kerr,Rosie White,1,57,13,8,3,0,1,65
+Sam Kerr,Alyssa Mautz,1,57,13,7,5,1,0,64
+Sam Kerr,Kelley O'Hara,1,57,13,7,10,1,0,64
+Jessica McDonald,Amy Rodriguez,1,40,34,24,2,0,1,64
+Megan Rapinoe,Sofia Huerta,1,33,15,31,26,1,0,64
+Lynn Williams,Michaela Hahn,1,62,27,1,1,1,0,63
+Lynn Williams,Rylee Baisden,1,62,27,1,1,1,0,63
+Lynn Williams,Addie McCain,1,62,27,1,1,0,1,63
+Lynn Williams,Ryan Williams,1,62,27,0,6,1,0,62
+Sam Kerr,Madison Tiernan,1,57,13,5,2,1,0,62
+Alex Morgan,Jodie Taylor,1,43,14,19,5,0,1,62
+Jessica McDonald,Sam Mewis,1,40,34,22,12,1,0,62
+Christine Sinclair,Tyler Lussi,1,53,11,7,4,1,0,60
+Christine Sinclair,Hina Sugita,1,53,11,7,4,1,0,60
+Megan Rapinoe,Bethany Balcer,1,33,15,27,4,0,1,60
+Sam Kerr,Brooke Elby,1,57,13,2,1,1,0,59
+Christine Sinclair,Ana-Maria Crnogorcevic,1,53,11,6,4,0,1,59
+Sam Kerr,McKenzie Meehan,1,57,13,1,1,1,0,58
+Sam Kerr,Nikki Stanton,1,57,13,1,1,1,0,58
+Christine Sinclair,Janine Beckie,1,53,11,5,5,1,0,58
+Christen Press,Amy Rodriguez,1,34,9,24,2,0,1,58
+Sam Kerr,Erin Simon,1,57,13,0,3,1,0,57
+Debinha,Taylor Smith,1,51,20,6,7,1,0,57
+Lindsey Horan,Sophia Smith,1,31,14,26,4,0,1,57
+Christine Sinclair,Caitlin Foord,1,53,11,3,2,1,0,56
+Ashley Hatch,Makenzy Doniak,1,45,5,11,10,1,0,56
+Mallory Pugh,Midge Purce,1,31,15,25,9,0,1,56
+Debinha,Denise O'Sullivan,1,51,20,4,12,1,0,55
+Debinha,Elizabeth Eddy,1,51,20,4,4,0,1,55
+Debinha,Cari Roccaro,1,51,20,4,2,1,0,55
+Rachel Daly,Chioma Ubogagu,1,42,11,13,7,0,1,55
+Kristen Hamilton,Crystal Dunn,1,31,12,24,18,0,1,55
+Christine Sinclair,Samantha Grace Coffey,1,53,11,1,2,1,0,54
+Christine Sinclair,Katherine Reynolds,1,53,11,1,1,1,0,54
+Debinha,Heather O'Reilly,1,51,20,3,3,1,0,54
+Debinha,Kaleigh Kurtz,1,51,20,3,2,0,1,54
+Alex Morgan,Makenzy Doniak,1,43,14,11,10,0,1,54
+Rachel Daly,Veronica Latsko,1,42,11,12,6,1,0,54
+Shea Groom,Carli Lloyd,1,29,18,25,6,0,1,54
+Christine Sinclair,Meghan Klingenberg,1,53,11,0,21,1,0,53
+Debinha,Julia Spetsmark,1,51,20,2,1,1,0,53
+Debinha,Lauren Milliet,1,51,20,2,2,1,0,53
+Christen Press,Yuki Nagasato,1,34,9,19,23,0,1,53
+Mallory Pugh,Kristie Mewis,1,31,15,22,19,1,0,53
+Shea Groom,Amy Rodriguez,1,29,18,24,2,0,1,53
+Debinha,Carson Pickett,1,51,20,1,16,1,0,52
+Ashley Hatch,Kelley O'Hara,1,45,5,7,10,1,0,52
+Debinha,Emily Gray,1,51,20,0,2,1,0,51
+Debinha,Ryan Williams,1,51,20,0,6,1,0,51
+Marta,Sydney Leroux,1,27,14,24,7,1,0,51
+Christen Press,Savannah McCaskill,1,34,9,16,11,0,1,50
+Ashley Hatch,Crystal Thomas,1,45,5,4,2,1,0,49
+Alex Morgan,Erika Tymrak,1,43,14,6,8,0,1,49
+Kealia Ohai Watt,Kristie Mewis,1,27,16,22,19,0,1,49
+Ashley Hatch,Bayley Feist,1,45,5,3,3,0,1,48
+Mallory Pugh,Rachel Hill,1,31,15,17,3,0,1,48
+Ashley Hatch,Arielle Ship,1,45,5,2,4,1,0,47
+Alex Morgan,Kristen McNabb,1,43,14,4,1,0,1,47
+Alex Morgan,Sarah Hagen,1,43,14,4,2,0,1,47
+Rachel Daly,Janine Beckie,1,42,11,5,5,0,1,47
+Rachel Daly,Kyah Simon,1,42,11,5,5,1,0,47
+Rachel Daly,Poliana,1,42,11,5,2,1,0,47
+Jessica McDonald,Havana Solaun,1,40,34,7,5,0,1,47
+Midge Purce,Kristie Mewis,1,25,9,22,19,0,1,47
+Ashley Hatch,Julia Roddar,1,45,5,1,2,1,0,46
+Ashley Hatch,Chloe Logarzo,1,45,5,1,0,0,1,46
+Ashley Hatch,Whitney Church,1,45,5,1,2,1,0,46
+Rachel Daly,Denise O'Sullivan,1,42,11,4,12,1,0,46
+Rachel Daly,Maria Sánchez,1,42,11,4,7,1,0,46
+Lindsey Horan,Rocky Rodriguez,1,31,14,15,8,0,1,46
+Kristen Hamilton,CeCe Kizer,1,31,12,15,5,0,1,46
+Bethany Balcer,Jodie Taylor,1,27,4,19,5,1,0,46
+Marta,Jodie Taylor,1,27,14,19,5,1,0,46
+Ashley Hatch,Natalie Ann Jacobs,1,45,5,0,5,1,0,45
+Ashley Hatch,Camryn Biegalski,1,45,5,0,1,1,0,45
+Ashley Hatch,Anna Heilferty,1,45,5,0,2,1,0,45
+Ashley Hatch,Amy Harrison,1,45,5,0,2,1,0,45
+Alex Morgan,Belle Briede,1,43,14,2,1,0,1,45
+Alex Morgan,Ali Krieger,1,43,14,2,8,1,0,45
+Megan Rapinoe,Allie Long,1,33,15,12,6,0,1,45
+Shea Groom,Savannah McCaskill,1,29,18,16,11,1,0,45
+Alex Morgan,Shelina Zadorsky,1,43,14,1,4,1,0,44
+Alex Morgan,Emily van Egmond,1,43,14,1,4,1,0,44
+Alex Morgan,Courtney Petersen,1,43,14,1,4,1,0,44
+Alex Morgan,Christen Westphal,1,43,14,1,6,1,0,44
+Rachel Daly,Thembi Kgatlana,1,42,11,2,3,1,0,44
+Jessica McDonald,Meredith Speck,1,40,34,4,7,1,0,44
+Jessica McDonald,Savannah Marie DeMelo,1,40,34,4,2,1,0,44
+Sofia Huerta,Tobin Heath,1,31,26,13,21,0,1,44
+Alex Morgan,Kailen Sheridan,1,43,14,0,1,1,0,43
+Alex Morgan,Phoebe McClernon,1,43,14,0,1,1,0,43
+Alex Morgan,Maddy Evans,1,43,14,0,1,1,0,43
+Jessica McDonald,Abby Dahlkemper,1,40,34,3,4,1,0,43
+Jessica McDonald,Kaleigh Kurtz,1,40,34,3,2,1,0,43
+Megan Rapinoe,Beverly Yanez,1,33,15,10,4,0,1,43
+Mallory Pugh,Cheyna Lee Matthews,1,31,15,12,3,0,1,43
+Rachel Daly,Ari Romero,1,42,11,0,1,1,0,42
+Rachel Daly,Allysha Chapman,1,42,11,0,2,1,0,42
+Rachel Daly,Melissa Henderson,1,42,11,0,1,1,0,42
+Christen Press,Casey Krueger,1,34,9,8,6,1,0,42
+Lindsey Horan,Morgan Weaver,1,31,14,11,7,1,0,42
+Lindsey Horan,Simone Charley,1,31,14,11,3,0,1,42
+Mallory Pugh,Vanessa DiBernardo,1,31,15,11,18,1,0,42
+Mallory Pugh,Makenzy Doniak,1,31,15,11,10,0,1,42
+Carli Lloyd,Ifeoma Onumonu,1,25,6,17,11,0,1,42
+Jessica McDonald,Carson Pickett,1,40,34,1,16,1,0,41
+Jessica McDonald,McKenzie Meehan,1,40,34,1,1,0,1,41
+Shea Groom,Katie Stengel,1,29,18,12,5,1,0,41
+Sophia Smith,Rocky Rodriguez,1,26,4,15,8,1,0,41
+Carli Lloyd,Savannah McCaskill,1,25,6,16,11,0,1,41
+Christen Press,Jen Hoy,1,34,9,6,3,1,0,40
+Nadia Nadim,Savannah McCaskill,1,24,8,16,11,1,0,40
+Jessica Fishlock,Ifeoma Onumonu,1,23,16,17,11,0,1,40
+Megan Rapinoe,Kim Little,1,33,15,6,3,1,0,39
+Megan Rapinoe,Christine Nairn,1,33,15,6,14,1,0,39
+Sofia Huerta,Casey Krueger,1,31,26,8,6,1,0,39
+Sofia Huerta,Eugénie Le Sommer,1,31,26,8,3,1,0,39
+Lindsey Horan,Emily Sonnett,1,31,14,8,2,1,0,39
+Mallory Pugh,Casey Krueger,1,31,15,8,6,1,0,39
+Kristen Hamilton,Merritt Mathias,1,31,12,8,13,1,0,39
+Shea Groom,Jasmyne Spencer,1,29,18,10,6,0,1,39
+Bethany Balcer,Allie Long,1,27,4,12,6,1,0,39
+Kealia Ohai Watt,Katie Johnson,1,27,16,12,11,0,1,39
+Nadia Nadim,CeCe Kizer,1,24,8,15,5,0,1,39
+Kristie Mewis,Ifeoma Onumonu,1,22,19,17,11,0,1,39
+Christen Press,Julie Ertz,1,34,9,4,4,1,0,38
+Christen Press,Danielle Colaprico,1,34,9,4,11,1,0,38
+Christen Press,Becky Sauerbrunn,1,34,9,4,3,0,1,38
+Sofia Huerta,Amber Brooks,1,31,26,7,2,0,1,38
+Lindsey Horan,Tyler Lussi,1,31,14,7,4,0,1,38
+Mallory Pugh,Havana Solaun,1,31,15,7,5,1,0,38
+Bethany Balcer,Darian Jenkins,1,27,4,11,3,0,1,38
+Kealia Ohai Watt,Makenzy Doniak,1,27,16,11,10,0,1,38
+Midge Purce,Hayley Raso,1,25,9,13,7,0,1,38
+Midge Purce,Nahomi Kawasumi,1,25,9,13,21,1,0,38
+Carli Lloyd,Nahomi Kawasumi,1,25,6,13,21,1,0,38
+Megan Rapinoe,Kristen McNabb,1,33,15,4,1,0,1,37
+Sofia Huerta,Jen Hoy,1,31,26,6,3,1,0,37
+Lindsey Horan,Dagný Brynjarsdóttir,1,31,14,6,2,1,0,37
+Nadia Nadim,Hayley Raso,1,24,8,13,7,1,0,37
+Christen Press,Taylor Comeau,1,34,9,2,3,1,0,36
+Kristen Hamilton,Leah Pruitt,1,31,12,5,3,1,0,36
+Crystal Dunn,Katie Stengel,1,24,18,12,5,0,1,36
+Nadia Nadim,Allie Long,1,24,8,12,6,1,0,36
+Jodie Taylor,Ifeoma Onumonu,1,19,5,17,11,0,1,36
+Christen Press,Vanessa Gilles,1,34,9,1,1,1,0,35
+Christen Press,Verónica Boquete,1,34,9,1,8,1,0,35
+Mallory Pugh,Meggie Dougherty Howard,1,31,15,4,6,1,0,35
+Mallory Pugh,Sam Staab,1,31,15,4,4,1,0,35
+Mallory Pugh,Danielle Colaprico,1,31,15,4,11,1,0,35
+Kristen Hamilton,Denise O'Sullivan,1,31,12,4,12,1,0,35
+Shea Groom,Erika Tymrak,1,29,18,6,8,1,0,35
+Shea Groom,Imani Dorsey,1,29,18,6,4,0,1,35
+Marta,Taylor Kornieck,1,27,14,8,7,0,1,35
+Midge Purce,McCall Zerboni,1,25,9,10,6,1,0,35
+Carli Lloyd,Paige Monaghan,1,25,6,10,3,0,1,35
+Crystal Dunn,Simone Charley,1,24,18,11,3,0,1,35
+Kristie Mewis,Nahomi Kawasumi,1,22,19,13,21,1,0,35
+Christen Press,Michelle Maemone,1,34,9,0,1,1,0,34
+Christen Press,Megan Reid,1,34,9,0,1,1,0,34
+Megan Rapinoe,Christen Westphal,1,33,15,1,6,1,0,34
+Megan Rapinoe,Steph Catley,1,33,15,1,8,1,0,34
+Lindsey Horan,Angela Salem,1,31,14,3,1,1,0,34
+Mallory Pugh,Bayley Feist,1,31,15,3,3,1,0,34
+Kealia Ohai Watt,Amber Brooks,1,27,16,7,2,1,0,34
+Yuki Nagasato,CeCe Kizer,1,19,23,15,5,0,1,34
+Sofia Huerta,Shirley Iveth Cruz,1,31,26,2,4,1,0,33
+Mallory Pugh,Sarah Luebbert,1,31,15,2,3,1,0,33
+Kristen Hamilton,Claire Marie Annie Lavogez,1,31,12,2,1,0,1,33
+Kristen Hamilton,Julia Spetsmark,1,31,12,2,1,0,1,33
+Shea Groom,Becky Sauerbrunn,1,29,18,4,3,1,0,33
+Kealia Ohai Watt,Morgan Gautrat,1,27,16,6,4,1,0,33
+Sophia Smith,Hina Sugita,1,26,4,7,4,1,0,33
+Midge Purce,Rosie White,1,25,9,8,3,1,0,33
+Sam Mewis,Makenzy Doniak,1,22,12,11,10,0,1,33
+Sofia Huerta,Angelina,1,31,26,1,3,1,0,32
+Sofia Huerta,Cara Walls,1,31,26,1,0,0,1,32
+Mallory Pugh,Samantha Fisher,1,31,15,1,1,1,0,32
+Mallory Pugh,Megan Crosson,1,31,15,1,0,0,1,32
+Kristen Hamilton,Kate Del Fava,1,31,12,1,2,1,0,32
+Kristen Hamilton,Addie McCain,1,31,12,1,1,1,0,32
+Kristen Hamilton,Carson Pickett,1,31,12,1,16,1,0,32
+Bethany Balcer,Leah Pruitt,1,27,4,5,3,0,1,32
+Kealia Ohai Watt,Poliana,1,27,16,5,2,0,1,32
+Midge Purce,Tyler Lussi,1,25,9,7,4,1,0,32
+Sydney Leroux,Taylor Kornieck,1,24,7,8,7,1,0,32
+Sydney Leroux,Alanna Stephanie Kennedy,1,24,7,8,2,1,0,32
+Sam Mewis,Abby Erceg,1,22,12,10,5,0,1,32
+Jodie Taylor,Nahomi Kawasumi,1,19,5,13,21,1,0,32
+Mallory Pugh,Zoe Morse,1,31,15,0,1,1,0,31
+Mallory Pugh,Lindsay Agnew,1,31,15,0,2,1,0,31
+Shea Groom,Kate Bowen,1,29,18,2,5,0,1,31
+Shea Groom,Michelle Alozie,1,29,18,2,0,0,1,31
+Bethany Balcer,Kristen McNabb,1,27,4,4,1,1,0,31
+Bethany Balcer,Celia,1,27,4,4,2,1,0,31
+Midge Purce,Imani Dorsey,1,25,9,6,4,1,0,31
+Carli Lloyd,Jen Hoy,1,25,6,6,3,1,0,31
+Amy Rodriguez,Kelley O'Hara,1,24,2,7,10,0,1,31
+Amy Rodriguez,Diana Matheson,1,24,2,7,1,0,1,31
+Jessica Fishlock,Merritt Mathias,1,23,16,8,13,0,1,31
+Jodie Taylor,Katie Johnson,1,19,5,12,11,1,0,31
+Jodie Taylor,Allie Long,1,19,5,12,6,1,0,31
+Savannah McCaskill,Rocky Rodriguez,1,16,11,15,8,0,1,31
+Shea Groom,Christina Gibbons,1,29,18,1,3,1,0,30
+Sophia Smith,Marissa Everett,1,26,4,4,0,0,1,30
+Sophia Smith,Becky Sauerbrunn,1,26,4,4,3,1,0,30
+Carli Lloyd,Poliana,1,25,6,5,2,1,0,30
+Nadia Nadim,Dagný Brynjarsdóttir,1,24,8,6,2,0,1,30
+Sydney Leroux,Christine Nairn,1,24,7,6,14,1,0,30
+Crystal Dunn,Christine Nairn,1,24,18,6,14,1,0,30
+Jessica Fishlock,Manon Melis,1,23,16,7,1,0,1,30
+Yuki Nagasato,Vanessa DiBernardo,1,19,23,11,18,1,0,30
+CeCe Kizer,Ebony Salmon,1,15,5,15,2,0,1,30
+Bethany Balcer,Shirley Iveth Cruz,1,27,4,2,4,1,0,29
+Bethany Balcer,Ally Watt,1,27,4,2,1,1,0,29
+Kealia Ohai Watt,Arin Wright,1,27,16,2,12,1,0,29
+Sophia Smith,Yazmeen Ryan,1,26,4,3,5,1,0,29
+Carli Lloyd,Elizabeth Eddy,1,25,6,4,4,1,0,29
+Carli Lloyd,Denise O'Sullivan,1,25,6,4,12,1,0,29
+Carli Lloyd,Andressinha,1,25,6,4,4,1,0,29
+Sydney Leroux,Maegan Rosa,1,24,7,5,1,1,0,29
+Jessica Fishlock,Christine Nairn,1,23,16,6,14,1,0,29
+Jessica Fishlock,Kim Little,1,23,16,6,3,0,1,29
+Jodie Taylor,Beverly Yanez,1,19,5,10,4,0,1,29
+Rocky Rodriguez,Sarah Woldmoe,1,15,8,14,9,1,0,29
+Ebony Salmon,Nichelle Prince,1,15,2,14,10,1,0,29
+CeCe Kizer,Lo’eau LaBonta,1,15,5,14,11,1,0,29
+Bethany Balcer,Olivia Van der Jagt,1,27,4,1,1,1,0,28
+Marta,Ally Haran,1,27,14,1,0,0,1,28
+Marta,Courtney Petersen,1,27,14,1,4,0,1,28
+Bethany Balcer,Theresa Eslund,1,27,4,1,3,1,0,28
+Kealia Ohai Watt,Linda Motlhalo,1,27,16,1,1,1,0,28
+Sydney Leroux,Becky Sauerbrunn,1,24,7,4,3,1,0,28
+Savannah McCaskill,Katie Johnson,1,16,11,12,11,1,0,28
+Bethany Balcer,Stephanie Cox,1,27,4,0,1,1,0,27
+Bethany Balcer,Nicole Momiki,1,27,4,0,1,1,0,27
+Kealia Ohai Watt,Jane Campbell,1,27,16,0,1,1,0,27
+Kealia Ohai Watt,Ariana Calderón,1,27,16,0,1,1,0,27
+Sophia Smith,Kelli Hubly,1,26,4,1,0,0,1,27
+Midge Purce,Évelyne Viens,1,25,9,2,3,1,0,27
+Carli Lloyd,Estelle Johnson,1,25,6,2,1,1,0,27
+Nadia Nadim,Kirsten Davis,1,24,8,3,1,1,0,27
+Kristie Mewis,Katie Naughton,1,22,19,5,0,0,1,27
+Rocky Rodriguez,Katie Johnson,1,15,8,12,11,0,1,27
+Sophia Smith,Natalie Beckman,1,26,4,0,1,1,0,26
+Carli Lloyd,Caprice Dydasco,1,25,6,1,7,1,0,26
+Sydney Leroux,Alexa Newfield,1,24,7,2,2,0,1,26
+Amy Rodriguez,Victoria Pickett,1,24,2,2,2,1,0,26
+Amy Rodriguez,Rachel Corsie,1,24,2,2,2,1,0,26
+Amy Rodriguez,Kate Bowen,1,24,2,2,5,1,0,26
+Crystal Dunn,Ali Krieger,1,24,18,2,8,1,0,26
+Kristie Mewis,Danielle Colaprico,1,22,19,4,11,1,0,26
+Yuki Nagasato,Alyssa Mautz,1,19,23,7,5,1,0,26
+Rocky Rodriguez,Morgan Weaver,1,15,8,11,7,0,1,26
+Sarah Woldmoe,Katie Johnson,1,14,9,12,11,0,1,26
+Tobin Heath,Hayley Raso,1,13,21,13,7,1,0,26
+Midge Purce,Celeste Boureille,1,25,9,0,2,1,0,25
+Midge Purce,Jennifer Cudjoe,1,25,9,0,1,1,0,25
+Nadia Nadim,Meg Morris,1,24,8,1,1,1,0,25
+Sydney Leroux,Shelina Zadorsky,1,24,7,1,4,1,0,25
+Crystal Dunn,Megan Montefusco,1,24,18,1,4,1,0,25
+Rachel Hill,Alanna Stephanie Kennedy,1,17,3,8,2,0,1,25
+Rocky Rodriguez,Paige Monaghan,1,15,8,10,3,1,0,25
+Lo’eau LaBonta,Darian Jenkins,1,14,11,11,3,0,1,25
+Nahomi Kawasumi,Katie Johnson,1,13,21,12,11,0,1,25
+Hayley Raso,Allie Long,1,13,7,12,6,0,1,25
+Nadia Nadim,Meleana Shim,1,24,8,0,1,1,0,24
+Sydney Leroux,Chelsee Washington,1,24,7,0,2,1,0,24
+Sydney Leroux,Abby Elinsky,1,24,7,0,1,1,0,24
+Amy Rodriguez,Ryan Williams,1,24,2,0,6,1,0,24
+Amy Rodriguez,Jéssica Silva,1,24,2,0,2,1,0,24
+Amy Rodriguez,Abby Smith,1,24,2,0,1,1,0,24
+Crystal Dunn,Meghan Klingenberg,1,24,18,0,21,1,0,24
+Jessica Fishlock,Larissa Crummer,1,23,16,1,0,0,1,24
+Jessica Fishlock,Megan Montefusco,1,23,16,1,4,1,0,24
+Jessica Fishlock,Theresa Eslund,1,23,16,1,3,0,1,24
+Chioma Ubogagu,Kristen Edmonds,1,13,7,11,3,0,1,24
+Jessica Fishlock,Elizabeth Addo,1,23,16,0,1,1,0,23
+Kristie Mewis,Haley Hanson,1,22,19,1,3,1,0,23
+Kristie Mewis,Whitney Church,1,22,19,1,2,1,0,23
+Kristie Mewis,Whitney Engen,1,22,19,1,1,0,1,23
+Yuki Nagasato,Ella Stevens,1,19,23,4,2,0,1,23
+Ifeoma Onumonu,Adriana Leon,1,17,11,6,6,0,1,23
+Ifeoma Onumonu,Taylor Smith,1,17,11,6,7,0,1,23
+Rocky Rodriguez,Maya Hayes,1,15,8,8,4,0,1,23
+CeCe Kizer,Hailie Mace,1,15,5,8,8,0,1,23
+Veronica Latsko,Rose Lavelle,1,12,6,11,5,1,0,23
+Katie Johnson,Makenzy Doniak,1,12,11,11,10,0,1,23
+Jodie Taylor,Rumi Utsugi,1,19,5,3,3,1,0,22
+Nichelle Prince,Sophie Schmidt,1,14,10,8,5,1,0,22
+Lo’eau LaBonta,Hailie Mace,1,14,11,8,8,0,1,22
+Allie Long,Jasmyne Spencer,1,12,6,10,6,0,1,22
+Cheyna Lee Matthews,Francisca Ordega,1,12,3,10,4,0,1,22
+Yuki Nagasato,Ava Cook,1,19,23,2,3,0,1,21
+Jodie Taylor,Ali Krieger,1,19,5,2,8,1,0,21
+Nichelle Prince,Amber Brooks,1,14,10,7,2,1,0,21
+Nichelle Prince,Marisa Viggiano,1,14,10,7,2,1,0,21
+Sarah Woldmoe,Kelley O'Hara,1,14,9,7,10,1,0,21
+Rose Lavelle,Natasha Dowie,1,11,5,10,2,0,1,21
+Simone Charley,Jasmyne Spencer,1,11,3,10,6,1,0,21
+Makenzy Doniak,McCall Zerboni,1,11,10,10,6,0,1,21
+Yuki Nagasato,Zoey Goralski,1,19,23,1,1,1,0,20
+Jodie Taylor,Steph Catley,1,19,5,1,8,1,0,20
+Jodie Taylor,Courtney Petersen,1,19,5,1,4,1,0,20
+Rachel Hill,Claire Emslie,1,17,3,3,1,1,0,20
+Rocky Rodriguez,Leah Galton,1,15,8,5,5,1,0,20
+Sarah Woldmoe,Jen Hoy,1,14,9,6,3,0,1,20
+Sarah Woldmoe,Morgan Gautrat,1,14,9,6,4,1,0,20
+Chioma Ubogagu,Marisa Viggiano,1,13,7,7,2,0,1,20
+Veronica Latsko,Sophie Schmidt,1,12,6,8,5,1,0,20
+Diana Ordóñez,Merritt Mathias,1,12,1,8,13,1,0,20
+Katie Johnson,Merritt Mathias,1,12,11,8,13,1,0,20
+Katie Stengel,Rosie White,1,12,5,8,3,0,1,20
+Katie Stengel,Sophie Schmidt,1,12,5,8,5,0,1,20
+Rachel Hill,Arin Wright,1,17,3,2,12,1,0,19
+Rachel Hill,Ava Cook,1,17,3,2,3,1,0,19
+Rachel Hill,Danica Evans,1,17,3,2,1,1,0,19
+Ifeoma Onumonu,Évelyne Viens,1,17,11,2,3,0,1,19
+Savannah McCaskill,Claire Emslie,1,16,11,3,1,0,1,19
+CeCe Kizer,Emina Ekic,1,15,5,4,2,1,0,19
+Nichelle Prince,Janine Beckie,1,14,10,5,5,0,1,19
+Sarah Woldmoe,Madison Tiernan,1,14,9,5,2,1,0,19
+Lo’eau LaBonta,Maegan Rosa,1,14,11,5,1,0,1,19
+Nahomi Kawasumi,Taylor Smith,1,13,21,6,7,0,1,19
+Tobin Heath,Ana-Maria Crnogorcevic,1,13,21,6,4,1,0,19
+Allie Long,Tyler Lussi,1,12,6,7,4,1,0,19
+Cheyna Lee Matthews,Havana Solaun,1,12,3,7,5,1,0,19
+Rose Lavelle,Eugénie Le Sommer,1,11,5,8,3,0,1,19
+Vanessa DiBernardo,Casey Krueger,1,11,18,8,6,0,1,19
+Kristen Edmonds,Hailie Mace,1,11,3,8,8,0,1,19
+Rachel Hill,Steph Catley,1,17,3,1,8,1,0,18
+Trinity Rodman,Tori Huster,1,16,12,2,6,1,0,18
+Savannah McCaskill,Ali Riley,1,16,11,2,3,1,0,18
+Savannah McCaskill,Sarah Luebbert,1,16,11,2,3,1,0,18
+Rocky Rodriguez,Yazmeen Ryan,1,15,8,3,5,1,0,18
+Rocky Rodriguez,Angela Salem,1,15,8,3,1,0,1,18
+CeCe Kizer,Elyse Bennett,1,15,5,3,6,1,0,18
+Nichelle Prince,Maria Sánchez,1,14,10,4,7,1,0,18
+Lo’eau LaBonta,Jennifer Vasconcelos,1,14,11,4,3,0,1,18
+Katie Stengel,Erika Tymrak,1,12,5,6,8,1,0,18
+Rose Lavelle,Andi Sullivan,1,11,5,7,6,0,1,18
+Simone Charley,Tyler Lussi,1,11,3,7,4,0,1,18
+Darian Jenkins,Gunny Jónsdóttir,1,11,3,7,8,0,1,18
+Natasha Dowie,Rosie White,1,10,2,8,3,0,1,18
+Beverly Yanez,Merritt Mathias,1,10,4,8,13,0,1,18
+Jasmyne Spencer,Rosie White,1,10,6,8,3,0,1,18
+Beverly Yanez,Rosie White,1,10,4,8,3,1,0,18
+Ifeoma Onumonu,Delanie Sheehan,1,17,11,0,2,1,0,17
+CeCe Kizer,Claire Marie Annie Lavogez,1,15,5,2,1,1,0,17
+Chioma Ubogagu,Denise O'Sullivan,1,13,7,4,12,0,1,17
+Rose Lavelle,Adriana Leon,1,11,5,6,6,1,0,17
+Vanessa DiBernardo,Jen Hoy,1,11,18,6,3,0,1,17
+Darian Jenkins,Erika Tymrak,1,11,3,6,8,1,0,17
+Beverly Yanez,Manon Melis,1,10,4,7,1,0,1,17
+Beverly Yanez,Havana Solaun,1,10,4,7,5,0,1,17
+Francisca Ordega,Estefanía Banini,1,10,4,7,1,0,1,17
+Trinity Rodman,Audrey Harding,1,16,12,0,1,1,0,16
+Trinity Rodman,Natalie Ann Jacobs,1,16,12,0,5,1,0,16
+Ebony Salmon,Katie McClure,1,15,2,1,1,0,1,16
+CeCe Kizer,Katie McClure,1,15,5,1,1,1,0,16
+CeCe Kizer,Jorian Baucom,1,15,5,1,0,0,1,16
+Nahomi Kawasumi,Rumi Utsugi,1,13,21,3,3,1,0,16
+Diana Ordóñez,Meredith Speck,1,12,1,4,7,1,0,16
+Katie Johnson,Kristen McNabb,1,12,11,4,1,0,1,16
+Cheyna Lee Matthews,Sam Staab,1,12,3,4,4,0,1,16
+Darian Jenkins,Leah Pruitt,1,11,3,5,3,1,0,16
+Kristen Edmonds,Lianne Sanderson,1,11,3,5,1,1,0,16
+Paige Monaghan,Taylor Smith,1,10,3,6,7,1,0,16
+Beverly Yanez,Kim Little,1,10,4,6,3,0,1,16
+Francisca Ordega,Christine Nairn,1,10,4,6,14,1,0,16
+Merritt Mathias,Hailie Mace,1,8,13,8,8,1,0,16
+Rocky Rodriguez,Meghan Klingenberg,1,15,8,0,21,1,0,15
+Rocky Rodriguez,Mandy Freeman,1,15,8,0,1,1,0,15
+Ebony Salmon,Ryan Gareis,1,15,2,0,2,1,0,15
+CeCe Kizer,Erin Simon,1,15,5,0,3,1,0,15
+Nichelle Prince,Megan Montefusco,1,14,10,1,4,1,0,15
+Sarah Woldmoe,Taylor Lytle,1,14,9,1,9,0,1,15
+Lo’eau LaBonta,Kate Del Fava,1,14,11,1,2,1,0,15
+Chioma Ubogagu,Danica Evans,1,13,7,2,1,0,1,15
+Chioma Ubogagu,Ali Krieger,1,13,7,2,8,1,0,15
+Katie Johnson,Jaedyn Reese Shaw,1,12,11,3,0,0,1,15
+Cheyna Lee Matthews,Bayley Feist,1,12,3,3,3,0,1,15
+Katie Johnson,Rumi Utsugi,1,12,11,3,3,1,0,15
+Morgan Weaver,Marissa Everett,1,11,7,4,0,0,1,15
+Ashley Sanchez,Tara McKeown,1,11,7,4,4,0,1,15
+Ashley Sanchez,Sam Staab,1,11,7,4,4,0,1,15
+Vanessa DiBernardo,Danielle Colaprico,1,11,18,4,11,0,1,15
+Kristen Edmonds,Sarah Hagen,1,11,3,4,2,1,0,15
+Natasha Dowie,Kyah Simon,1,10,2,5,5,1,0,15
+Merritt Mathias,Kerolin,1,8,13,7,4,0,1,15
+Emily Sonnett,Tyler Lussi,1,8,2,7,4,1,0,15
+Nichelle Prince,Lindsay Agnew,1,14,10,0,2,1,0,14
+Nahomi Kawasumi,Lindsay Elston,1,13,21,1,1,0,1,14
+Chioma Ubogagu,Joanna Boyles,1,13,7,1,2,1,0,14
+Diana Ordóñez,Fuka Nagano,1,12,1,2,1,1,0,14
+Katie Johnson,Arin Wright,1,12,11,2,12,1,0,14
+Cheyna Lee Matthews,Arielle Ship,1,12,3,2,4,1,0,14
+Cheyna Lee Matthews,Tori Huster,1,12,3,2,6,1,0,14
+Morgan Weaver,Yazmeen Ryan,1,11,7,3,5,0,1,14
+Ashley Sanchez,Bayley Feist,1,11,7,3,3,1,0,14
+Vanessa DiBernardo,Tatumn Milazzo,1,11,18,3,1,1,0,14
+Simone Charley,Olivia Lynn Moultrie,1,11,3,3,5,1,0,14
+Jasmyne Spencer,Sarah Hagen,1,10,6,4,2,1,0,14
+Rosie White,Adriana Leon,1,8,3,6,6,1,0,14
+Merritt Mathias,Brittany Ratcliffe,1,8,13,6,3,0,1,14
+Alanna Stephanie Kennedy,Christine Nairn,1,8,2,6,14,1,0,14
+Eugénie Le Sommer,Tziarra King,1,8,3,6,3,0,1,14
+Diana Matheson,Estefanía Banini,1,7,1,7,1,1,0,14
+Hayley Raso,Meghan Klingenberg,1,13,7,0,21,1,0,13
+Veronica Latsko,Angelina,1,12,6,1,3,0,1,13
+Allie Long,Megan Montefusco,1,12,6,1,4,1,0,13
+Allie Long,Caprice Dydasco,1,12,6,1,7,1,0,13
+Katie Stengel,Verónica Boquete,1,12,5,1,8,1,0,13
+Rose Lavelle,Arielle Ship,1,11,5,2,4,1,0,13
+Vanessa DiBernardo,Arin Wright,1,11,18,2,12,1,0,13
+Kristen Edmonds,Ali Krieger,1,11,3,2,8,1,0,13
+McCall Zerboni,Heather O'Reilly,1,10,6,3,3,0,1,13
+Sophie Schmidt,Kyah Simon,1,8,5,5,5,0,1,13
+Alanna Stephanie Kennedy,Camila,1,8,2,5,5,0,1,13
+Amber Brooks,Christine Nairn,1,7,2,6,14,1,0,13
+Estefanía Banini,Taylor Smith,1,7,1,6,7,1,0,13
+Manon Melis,Kim Little,1,7,1,6,3,1,0,13
+Veronica Latsko,Makamae Gomera-Stevens,1,12,6,0,1,1,0,12
+Allie Long,Meghan Klingenberg,1,12,6,0,21,1,0,12
+Diana Ordóñez,Emily Gray,1,12,1,0,2,1,0,12
+Diana Ordóñez,Ryan Williams,1,12,1,0,6,1,0,12
+Cheyna Lee Matthews,Cali Jean Farquharson,1,12,3,0,3,1,0,12
+Katie Stengel,Katrina Gorry,1,12,5,0,1,1,0,12
+Morgan Weaver,Samantha Grace Coffey,1,11,7,1,2,1,0,12
+Simone Charley,Natalia Kuikka,1,11,3,1,4,1,0,12
+Simone Charley,Jun Endo,1,11,3,1,4,1,0,12
+Darian Jenkins,Kylie Strom,1,11,3,1,0,0,1,12
+Makenzy Doniak,Christen Westphal,1,11,10,1,6,1,0,12
+Makenzy Doniak,Sofia Jakobsson,1,11,10,1,4,0,1,12
+Paige Monaghan,Évelyne Viens,1,10,3,2,3,1,0,12
+McCall Zerboni,Évelyne Viens,1,10,6,2,3,0,1,12
+Beverly Yanez,Rachel Corsie,1,10,4,2,2,1,0,12
+Rosie White,Jennifer Vasconcelos,1,8,3,4,3,0,1,12
+Alanna Stephanie Kennedy,Toni Pressley,1,8,2,4,1,1,0,12
+Casey Krueger,Danielle Colaprico,1,8,6,4,11,1,0,12
+Hina Sugita,Janine Beckie,1,7,4,5,5,1,0,12
+Estefanía Banini,Joanna Lohman,1,7,1,5,1,1,0,12
+Kelley O'Hara,Madison Tiernan,1,7,10,5,2,0,1,12
+Brittany Ratcliffe,Tziarra King,1,6,3,6,3,0,1,12
+Morgan Weaver,Madison Pogarch,1,11,7,0,3,1,0,11
+Ashley Sanchez,Anna Heilferty,1,11,7,0,2,1,0,11
+Morgan Weaver,Celeste Boureille,1,11,7,0,2,1,0,11
+Simone Charley,Meghan Klingenberg,1,11,3,0,21,1,0,11
+Simone Charley,Emily Menges,1,11,3,0,1,1,0,11
+Darian Jenkins,Kerry Abello,1,11,3,0,1,1,0,11
+Makenzy Doniak,Kelsey Turnbow,1,11,10,0,3,1,0,11
+Kristen Edmonds,Carrie Lawrence,1,11,3,0,1,1,0,11
+Kristen Edmonds,Leah Lynn Gabriela Fortune,1,11,3,0,1,1,0,11
+Natasha Dowie,Louise Schillgard,1,10,2,1,2,1,0,11
+Beverly Yanez,Lauren Barnes,1,10,4,1,4,1,0,11
+Beverly Yanez,Carson Pickett,1,10,4,1,16,1,0,11
+McCall Zerboni,Caprice Dydasco,1,10,6,1,7,1,0,11
+Abby Erceg,Malia Berkely,1,10,5,1,1,1,0,11
+Francisca Ordega,Line Sigvardsen Jensen,1,10,4,1,1,1,0,11
+Taylor Kornieck,Amirah Ali,1,8,7,3,1,1,0,11
+Hailie Mace,Elyse Bennett,1,8,8,3,6,0,1,11
+Marisa Viggiano,Maria Sánchez,1,7,2,4,7,1,0,11
+Andi Sullivan,Sam Staab,1,7,6,4,4,0,1,11
+Alyssa Mautz,Julie Ertz,1,7,5,4,4,1,0,11
+Amber Brooks,Sam Staab,1,7,2,4,4,1,0,11
+Kelley O'Hara,Tara McKeown,1,7,10,4,4,0,1,11
+Kerolin,Denise O'Sullivan,1,7,4,4,12,1,0,11
+Tziarra King,Leah Pruitt,1,6,3,5,3,0,1,11
+Christine Nairn,Joanna Lohman,1,6,14,5,1,0,1,11
+Christine Nairn,Kyah Simon,1,6,14,5,5,0,1,11
+Paige Monaghan,Julie James,1,10,3,0,1,1,0,10
+Paige Monaghan,Delanie Sheehan,1,10,3,0,2,1,0,10
+Natasha Dowie,Tiffany Weimer,1,10,2,0,1,1,0,10
+Jasmyne Spencer,Jamia Fields,1,10,6,0,2,1,0,10
+Maya Hayes,Domi Richardson,1,8,4,2,1,1,0,10
+Merritt Mathias,Julia Spetsmark,1,8,13,2,1,0,1,10
+Hailie Mace,Kate Bowen,1,8,8,2,5,1,0,10
+Hailie Mace,Taylor Leach,1,8,8,2,0,0,1,10
+Hina Sugita,Olivia Lynn Moultrie,1,7,4,3,5,1,0,10
+Hina Sugita,Yazmeen Ryan,1,7,4,3,5,1,0,10
+Kerolin,Kaleigh Kurtz,1,7,4,3,2,1,0,10
+Taylor Smith,Jaelene Daniels,1,6,7,4,18,0,1,10
+Taylor Smith,Meredith Speck,1,6,7,4,7,0,1,10
+Imani Dorsey,Elizabeth Eddy,1,6,4,4,4,1,0,10
+Erika Tymrak,Celia,1,6,8,4,2,0,1,10
+Brittany Ratcliffe,Meredith Speck,1,6,3,4,7,1,0,10
+Brittany Ratcliffe,Denise O'Sullivan,1,6,3,4,12,1,0,10
+Janine Beckie,Poliana,1,5,5,5,2,0,1,10
+Maya Hayes,Daphne Corboz,1,8,4,1,5,1,0,9
+Maya Hayes,Taylor Lytle,1,8,4,1,9,1,0,9
+Taylor Kornieck,Christen Westphal,1,8,7,1,6,1,0,9
+Sophie Schmidt,Haley Hanson,1,8,5,1,3,1,0,9
+Amber Brooks,Shirley Iveth Cruz,1,7,2,2,4,1,0,9
+Havana Solaun,Estelle Johnson,1,7,5,2,1,0,1,9
+Havana Solaun,Arielle Ship,1,7,5,2,4,0,1,9
+Kelley O'Hara,Rachel Corsie,1,7,10,2,2,0,1,9
+Kerolin,Brianna Pinto,1,7,4,2,2,1,0,9
+Kerolin,Theresa Boade,1,7,4,2,1,0,1,9
+Adriana Leon,Julie King,1,6,6,3,1,0,1,9
+Ana-Maria Crnogorcevic,Caitlin Foord,1,6,4,3,2,0,1,9
+Poliana,Andressinha,1,5,2,4,4,1,0,9
+Jordan Baggett,Tara McKeown,1,5,1,4,4,1,0,9
+Camila,Toni Pressley,1,5,5,4,1,0,1,9
+Maegan Rosa,Yael Averbuch,1,5,1,4,1,1,0,9
+Leah Pruitt,Meggie Dougherty Howard,1,5,3,4,6,0,1,9
+Leah Galton,Natasha Kai,1,5,5,4,1,1,0,9
+Katie Naughton,Danielle Colaprico,1,5,0,4,11,1,0,9
+Rosie White,Amanda Frisbie,1,8,3,0,1,1,0,8
+Merritt Mathias,Rebekah Stott,1,8,13,0,1,1,0,8
+Taylor Kornieck,Kelsey Turnbow,1,8,7,0,3,1,0,8
+Hailie Mace,Ryan Williams,1,8,8,0,6,1,0,8
+Tyler Lussi,Christen Westphal,1,7,4,1,6,1,0,8
+Tyler Lussi,Ellie Madison Carpenter,1,7,4,1,1,1,0,8
+Gunny Jónsdóttir,Angharad James,1,7,8,1,1,1,0,8
+Gunny Jónsdóttir,Courtney Petersen,1,7,8,1,4,1,0,8
+Estefanía Banini,Alyssa Kleiner,1,7,1,1,1,1,0,8
+Marisa Viggiano,Abi Kim,1,7,2,1,2,1,0,8
+Manon Melis,Keelin Winters,1,7,1,1,2,1,0,8
+Kerolin,Rylee Baisden,1,7,4,1,1,0,1,8
+Tziarra King,Shirley Iveth Cruz,1,6,3,2,4,1,0,8
+Jen Hoy,Taylor Comeau,1,6,3,2,3,1,0,8
+Erika Tymrak,Kate Bowen,1,6,8,2,5,1,0,8
+Erika Tymrak,Frances Silva,1,6,8,2,0,0,1,8
+Erika Tymrak,Alexa Newfield,1,6,8,2,2,0,1,8
+Brittany Ratcliffe,Alexa Newfield,1,6,3,2,2,1,0,8
+Kim Little,Rachel Corsie,1,6,3,2,2,0,1,8
+Camila,Danielle Weatherholt,1,5,5,3,2,0,1,8
+Kyah Simon,Julie King,1,5,5,3,1,1,0,8
+Jaelene Daniels,Meredith Speck,1,4,18,4,7,0,1,8
+Julie Ertz,Jennifer Vasconcelos,1,4,4,4,3,0,1,8
+Danielle Colaprico,Amanda Kowalski,1,4,11,4,0,0,1,8
+Danielle Colaprico,Ella Stevens,1,4,11,4,2,0,1,8
+Bianca St-Georges,Ella Stevens,1,4,4,4,2,1,0,8
+Maria Sánchez,Elizabeth Eddy,1,4,7,4,4,0,1,8
+Tyler Lussi,Meghan Klingenberg,1,7,4,0,21,1,0,7
+Andi Sullivan,Cali Jean Farquharson,1,7,6,0,3,1,0,7
+Marisa Viggiano,Ryan Gareis,1,7,2,0,2,1,0,7
+Marisa Viggiano,Chelsee Washington,1,7,2,0,2,1,0,7
+Hina Sugita,Meghan Klingenberg,1,7,4,0,21,1,0,7
+Morgan Gautrat,Zoey Goralski,1,6,4,1,1,0,1,7
+Morgan Gautrat,Tierna Davidson,1,6,4,1,1,1,0,7
+Taylor Smith,Carson Pickett,1,6,7,1,16,1,0,7
+Adriana Leon,Christen Westphal,1,6,6,1,6,1,0,7
+Tziarra King,Angelina,1,6,3,1,3,1,0,7
+Tziarra King,Verónica Boquete,1,6,3,1,8,1,0,7
+Ana-Maria Crnogorcevic,Ellie Madison Carpenter,1,6,4,1,1,0,1,7
+Maegan Rosa,Kate Bowen,1,5,1,2,5,1,0,7
+Crystal Thomas,Bayley Feist,1,4,2,3,3,1,0,7
+Danielle Colaprico,Tatumn Milazzo,1,4,11,3,1,0,1,7
+Cari Roccaro,Claire Emslie,1,4,2,3,1,0,1,7
+Taylor Smith,Kiki Pickett,1,6,7,0,1,1,0,6
+Ana-Maria Crnogorcevic,Meghan Klingenberg,1,6,4,0,21,1,0,6
+Imani Dorsey,Amandine Pierre-Louis,1,6,4,0,1,1,0,6
+Erika Tymrak,Sydney Miramontez,1,6,8,0,1,1,0,6
+Maegan Rosa,Christina Gibbons,1,5,1,1,3,1,0,6
+Leah Pruitt,Abi Kim,1,5,3,1,2,1,0,6
+Kyah Simon,Haley Hanson,1,5,5,1,3,0,1,6
+Meggie Dougherty Howard,Ally Watt,1,4,6,2,1,0,1,6
+Meggie Dougherty Howard,Arielle Ship,1,4,6,2,4,1,0,6
+Meggie Dougherty Howard,Julie Doyle,1,4,6,2,0,0,1,6
+Becky Sauerbrunn,Alexa Newfield,1,4,3,2,2,1,0,6
+Tara McKeown,Tori Huster,1,4,4,2,6,0,1,6
+Savannah Marie DeMelo,Gemma Bonner,1,4,2,2,0,0,1,6
+Jennifer Vasconcelos,Brooke Elby,1,4,3,2,1,0,1,6
+Danielle Colaprico,Taylor Comeau,1,4,11,2,3,0,1,6
+Ella Stevens,Sarah Griffith,1,4,2,2,1,1,0,6
+Ella Stevens,Sarah Luebbert,1,4,2,2,3,0,1,6
+Emina Ekic,Gemma Bonner,1,4,2,2,0,0,1,6
+Cari Roccaro,Paige Nielsen,1,4,2,2,1,1,0,6
+Cari Roccaro,Ali Riley,1,4,2,2,3,1,0,6
+Olivia Lynn Moultrie,Yazmeen Ryan,1,3,5,3,5,1,0,6
+Yazmeen Ryan,Taylor Porter,1,3,5,3,0,0,1,6
+Jordan Baggett,Amy Harrison,1,5,1,0,2,1,0,5
+Camila,Jamia Fields,1,5,5,0,2,1,0,5
+Maegan Rosa,Desiree Scott,1,5,1,0,2,1,0,5
+Leah Galton,Erin Simon,1,5,5,0,3,1,0,5
+Natasha Kai,Taylor Lytle,1,4,1,1,9,1,0,5
+Meggie Dougherty Howard,Abi Kim,1,4,6,1,2,0,1,5
+Meredith Speck,Carson Pickett,1,4,7,1,16,0,1,5
+Toni Pressley,Carson Pickett,1,4,1,1,16,1,0,5
+Sam Staab,Taylor Aylmer,1,4,4,1,1,1,0,5
+Maria Sánchez,Ally Prisock,1,4,7,1,0,0,1,5
+Jaelene Daniels,Michaela Hahn,1,4,18,1,1,0,1,5
+Crystal Thomas,Jessie Scarpa,1,4,2,1,0,0,1,5
+Emina Ekic,Emily Fox,1,4,2,1,2,1,0,5
+Celia,Lauren Barnes,1,4,2,1,4,1,0,5
+Tiffany McCarty,Frances Silva,1,3,4,2,0,0,1,5
+Amirah Ali,Belle Briede,1,3,1,2,1,1,0,5
+Kaleigh Kurtz,Brianna Pinto,1,3,2,2,2,1,0,5
+Claire Emslie,Ali Riley,1,3,1,2,3,1,0,5
+Danielle Weatherholt,Shirley Iveth Cruz,1,3,2,2,4,0,1,5
+Savannah Marie DeMelo,Shuang Wang,1,4,2,0,1,1,0,4
+Sarah Hagen,Camille Levin,1,4,2,0,1,1,0,4
+Amandine Henry,Meghan Klingenberg,1,4,1,0,21,1,0,4
+Elizabeth Eddy,Kenie Wright,1,4,4,0,1,1,0,4
+Maria Sánchez,Natalie Ann Jacobs,1,4,7,0,5,1,0,4
+Olivia Lynn Moultrie,Natalia Kuikka,1,3,5,1,4,0,1,4
+Rumi Utsugi,Lindsay Elston,1,3,3,1,1,1,0,4
+Rumi Utsugi,Steph Catley,1,3,3,1,8,1,0,4
+Jaedyn Reese Shaw,Emily van Egmond,1,3,0,1,4,1,0,4
+Jaedyn Reese Shaw,Sofia Jakobsson,1,3,0,1,4,1,0,4
+Julie King,Louise Schillgard,1,3,1,1,2,1,0,4
+Kirsten Davis,Jaelin Howell,1,3,1,1,2,1,0,4
+Arin Wright,Stephanie McCaffrey,1,2,12,2,0,0,1,4
+Ali Krieger,Tori Huster,1,2,8,2,6,1,0,4
+Mallory Weber,Victoria Pickett,1,2,2,2,2,1,0,4
+Mariana Larroquette,Taylor Leach,1,2,1,2,0,0,1,4
+Évelyne Viens,Domi Richardson,1,2,3,2,1,0,1,4
+Yazmeen Ryan,Madison Pogarch,1,3,5,0,3,1,0,3
+Julie King,Eunice Beckmann,1,3,1,0,1,1,0,3
+Thembi Kgatlana,Haley Hanson,1,2,3,1,3,1,0,3
+Alex Chidiac,Jaelin Howell,1,2,0,1,2,1,0,3
+Ali Riley,Jun Endo,1,2,3,1,4,1,0,3
+Kate Bowen,Elizabeth Ball,1,2,5,1,1,0,1,3
+Claire Marie Annie Lavogez,Elizabeth Ball,1,2,1,1,1,1,0,3
+Danica Evans,Joanna Boyles,1,2,1,1,2,1,0,3
+Gaëtane Iza Laure Thiney,Caprice Dydasco,1,2,0,1,7,1,0,3
+Erica Skroski,Taylor Lytle,1,2,0,1,9,1,0,3
+Kate Bowen,Christina Gibbons,1,2,5,1,3,1,0,3
+Mallory Weber,Ashleigh Sykes,1,2,2,1,1,1,0,3
+Brianna Pinto,Carson Pickett,1,2,2,1,16,1,0,3
+Kumi Yokoyama,Dorian Bailey,1,2,0,1,1,1,0,3
+Mikayla Cluff,Jordyn Listro,1,2,0,0,1,1,0,2
+Belle Briede,Marleen Schimmer,1,2,1,0,2,1,0,2
+Thembi Kgatlana,Allysha Chapman,1,2,3,0,2,1,0,2
+Jordyn Huitema,Quinn,1,2,2,0,1,1,0,2
+Kaleigh Riehl,Kelsey Turnbow,1,2,0,0,3,1,0,2
+Kaleigh Riehl,Marleen Schimmer,1,2,0,0,2,1,0,2
+Erica Skroski,Kristin Grubka,1,2,0,0,1,1,0,2
+Mariana Larroquette,Jéssica Silva,1,2,1,0,2,1,0,2
+Brianna Pinto,Ryan Williams,1,2,2,0,6,1,0,2
+Natalia Kuikka,Samantha Grace Coffey,1,1,4,1,2,0,1,2
+Angelina,Alana Cook,1,1,3,1,0,0,1,2
+Shelina Zadorsky,Whitney Church,1,1,4,1,2,0,1,2
+Christen Westphal,Whitney Engen,1,1,6,1,1,1,0,2
+Julia Roddar,Taylor Aylmer,1,1,2,1,1,0,1,2
+Jun Endo,Vanessa Gilles,1,1,4,1,1,0,1,2
+Courtney Petersen,Amy Turner,1,1,4,1,0,0,1,2
+Lauren Barnes,Kendall Fletcher,1,1,4,1,0,0,1,2
+Lauren Barnes,Olivia Van der Jagt,1,1,4,1,1,0,1,2
+Christina Gibbons,Desiree Scott,1,1,3,0,2,1,0,1
+Joelle Anderson,Cali Jean Farquharson,1,1,0,0,3,1,0,1
+Hannah Betfort,Madison Pogarch,1,1,0,0,3,1,0,1
+Brooke Hendrix,Freja Olofsson,1,1,0,0,1,1,0,1
+Kimberly Keever,Savannah Jordan,1,1,0,0,1,1,0,1
