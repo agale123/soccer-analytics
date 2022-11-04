@@ -24,7 +24,7 @@ class FAWSL:
         "MNC": "#98c5e9",
         "MNU": "#ffe500",
         "REA": "#0032b9",
-        "TOT": "#111836",
+        "TOT": "#0f204b",
         "WHU": "#7c2c3b",
     }
     TEXT_COLORS = {
