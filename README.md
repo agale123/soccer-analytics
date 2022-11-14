@@ -3,6 +3,7 @@
 This repository contains different NWSL-related analytics projects.
 
 * `goal-assist-combos`: Players who have combined for the most goals
+* `goal-heatmap`: Heatmap of scored goals
 * `golden-boot`: Goals scored over the course of the season by contenders for the golden boot
 * `moving-window-points`: Shows 5-game moving average of points for each team
 * `nwsl-rank`: Python visualizations of teams' relative ranking in 2022
