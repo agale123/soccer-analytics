@@ -4,7 +4,6 @@ import matplotlib.pyplot as plt
 def plot_standings(df, folder, playoff_cutoff, names, colors, text_colors, title, extra_cols=5):
     # Add extra columns as backdrop for team names
     week = int(df.columns[-1])
-    extra_cols = 5
     for i in range(1, extra_cols + 1):
         df[str(week + i)] = df[str(week)]
 
