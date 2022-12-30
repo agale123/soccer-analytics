@@ -2,6 +2,8 @@
 
 This repository contains different NWSL-related analytics projects.
 
+* `asa`: Plots using xG data from ASA, including performance relative to xG and xGA
+* `fawsl-rank`: Show changes in rankings over the FAWSL season
 * `goal-assist-combos`: Players who have combined for the most goals
 * `goal-heatmap`: Heatmap of scored goals
 * `golden-boot`: Goals scored over the course of the season by contenders for the golden boot
@@ -12,6 +14,7 @@ This repository contains different NWSL-related analytics projects.
 * `playoff-possibilities`: Enumerates all possible standings outcomes and shows the distribution
 * `reign-quilt`: Visualization of Reign match results as a quilt pattern
 * `schedule-distribution`: How rest duration for different teams is distributed
+* [`score-waterfall`](score-waterfall/README.md): Visualization of how the scores for each team's games evolved over the game
 
 ## Development
 
