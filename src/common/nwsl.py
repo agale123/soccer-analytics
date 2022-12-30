@@ -41,3 +41,52 @@ class NWSL:
         "ORL": "#ffffff",
         "KC": "#000000",
     }
+    MAPPING = {
+        "NJ/NY Gotham": "NJNY",
+        "NJ/NY Gotham FC": "NJNY",
+        "NJY": "NJNY",
+        "Portland Thorns": "POR",
+        "Angel City": "LA",
+        "Angel City FC": "LA",
+        "Chicago Red Stars": "CHI",
+        "Washington Spirit": "WAS",
+        "San Diego Wave": "SD",
+        "San Diego Wave FC": "SD",
+        "NC Courage": "NC",
+        "North Carolina Courage": "NC",
+        "OL Reign": "RGN",
+        "Racing Louisville FC": "LOU",
+        "Houston Dash": "HOU",
+        "Orlando Pride": "ORL",
+        "KC Current": "KC",
+        "Kansas City Current": "KC",
+    }
+
+    def map_team(t):
+        if t in NWSL.MAPPING:
+            return NWSL.MAPPING[t]
+        else:
+            return t
+
+    def color(t):
+        team = NWSL.map_team(t)
+        if team in NWSL.COLORS:
+            return NWSL.COLORS[team]
+        else:
+            return "gray"
+
+    def text_color(t):
+        team = NWSL.map_team(t)
+
+        if team in NWSL.TEXT_COLORS:
+            return NWSL.TEXT_COLORS[team]
+        else:
+            return "black"
+
+    def name(t):
+        team = NWSL.map_team(t)
+
+        if team in NWSL.NAMES:
+            return NWSL.NAMES[team]
+        else:
+            return t
