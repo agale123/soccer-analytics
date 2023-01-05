@@ -15,7 +15,7 @@ This repository contains different NWSL-related analytics projects.
 * [`reign-quilt`](reign-quilt/README.md): Visualization of Reign match results as a quilt pattern
 * [`schedule-distribution`](schedule-distribution/README.md): How rest duration for different teams is distributed
 * [`score-waterfall`](score-waterfall/README.md): Visualization of how the scores for each team's games evolved over the game
-* [`trends`](trends/README.md): Visualization of how each teams Google Search trends varied over the year
+* [`search-trends`](search-trends/README.md): Visualization of how each teams Google Search trends varied over the year
 
 ## Development
 
