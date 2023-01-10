@@ -13,7 +13,7 @@ This repository contains different NWSL-related analytics projects.
 * [`playoff-odds`](playoff-odds/README.md): Visualization of playoff odds over the 2022 season
 * [`playoff-possibilities`](playoff-possibilities/README.md): Enumerates all possible standings outcomes and shows the distribution
 * [`reign-quilt`](reign-quilt/README.md): Visualization of Reign match results as a quilt pattern
-* [`schedule-distribution`](schedule-distribution/README.md): How rest duration for different teams is distributed
+* [`schedule-infographic`](schedule-infographic/README.md): How rest duration for different teams is distributed
 * [`score-waterfall`](score-waterfall/README.md): Visualization of how the scores for each team's games evolved over the game
 * [`search-trends`](search-trends/README.md): Visualization of how each teams Google Search trends varied over the year
 
