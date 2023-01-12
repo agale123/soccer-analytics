@@ -2,7 +2,9 @@
 
 This repository contains different NWSL-related analytics projects.
 
+* [`age-breakdown`](age-breakdown/README.md): Looks at how team demographics have evolved over time
 * [`asa`](asa/README.md): Plots using xG data from ASA, including performance relative to xG and xGA
+* [`draft`](draft/README.md): Looks at minutes played by players in the latest NWSL draft
 * [`fawsl-rank`](fawsl-rank/README.md): Show changes in rankings over the FAWSL season
 * [`goal-assist-combos`](goal-assist-combos/README.md): Players who have combined for the most goals
 * [`goal-heatmap`](goal-heatmap/README.md): Heatmap of scored goals
