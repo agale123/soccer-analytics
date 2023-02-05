@@ -1,3 +1,4 @@
+team,player
 CHI,Abby Boyan
 CHI,Addie McCain
 CHI,Ally Schlegel
@@ -9,7 +10,7 @@ CHI,Bayleigh Chaviers
 CHI,Bianca St-Georges
 CHI,Brenna Lovera
 CHI,Brenna Ochoa
-CHI,Cari  Roccaro
+CHI,Cari Roccaro
 CHI,Carlee Giammona
 CHI,Casey Krueger
 CHI,Chelsie Dawber
@@ -30,7 +31,7 @@ CHI,Sami Feller
 CHI,Sarah Griffith
 CHI,Sophie Jones
 CHI,Tatumn Milazzo
-CHI,Tierna  Davidson
+CHI,Tierna Davidson
 CHI,Yuki Nagasato
 HOU,Jane Campbell
 HOU,Allysha Chapman
@@ -40,14 +41,14 @@ HOU,Nichelle Prince
 HOU,Shea Groom
 HOU,Ebony Salmon
 HOU,Julia Ashley
-HOU,Sophie  Schmidt
+HOU,Sophie Schmidt
 HOU,Marisa Viggiano
 HOU,Kelcie Hedge
 HOU,Emily Curran
 HOU,Elizabeth Eddy
 HOU,Ryan Gareis
 HOU,Michelle Alozie
-HOU,Ally  Prisock
+HOU,Ally Prisock
 HOU,Paulina Gramaglia
 HOU,Katie Lind
 HOU,Makamae Gomera-Stevens
@@ -57,7 +58,7 @@ HOU,Natalie Jacobs
 HOU,Ella Dederick
 HOU,Michaela Abam
 HOU,Devon Kerr
-HOU,Diana  Ordóñez
+HOU,Diana Ordoñez
 HOU,Havana Solaun
 HOU,Courtney Petersen
 HOU,Grace Barbara
@@ -80,11 +81,11 @@ KC,Cece Kizer
 KC,Elizabeth Ball
 KC,Kate Del Fava
 KC,Mimmi Larsson
-KC,Lo’eau LaBonta
+KC,Lo'eau LaBonta
 KC,Desiree Scott
 KC,Chardonnay Curran
 KC,Sam Mewis
-KC,Vanessa  DiBernardo
+KC,Vanessa DiBernardo
 KC,Izzy Rodriguez
 KC,Jenna Winebrenner
 KC,Mallory Weber
@@ -106,7 +107,7 @@ KC,Jordan Silkowitz
 KC,Alexa Spaanstra
 LA,Sarah Gorden
 LA,Merritt Mathias
-LA,Paige  Nielsen
+LA,Paige Nielsen
 LA,M.A. Vignola
 LA,Ali Riley
 LA,Megan Reid
@@ -121,11 +122,11 @@ LA,Jun Endo
 LA,Sydney Leroux
 LA,Alyssa Thompson
 LA,Christen Press
-LA,Jasmyne  Spencer
+LA,Jasmyne Spencer
 LA,Simone Charley
 LA,Mia Minestrella
 LA,Brittany Isenhour
-LA,DiDi Haracic
+LA,DiDi Haračić
 LA,Angelina Anderson
 LA,Dani Weatherholt
 LA,Lily Nabet
@@ -144,11 +145,11 @@ LOU,Paige Monaghan
 LOU,Jaelin Howell
 LOU,Savannah DeMelo
 LOU,Ary Borges
-LOU,Nadia Nadim INJ
-LOU,Thembi Kgatlana 
+LOU,Nadia Nadim
+LOU,Thembi Kgatlana
 LOU,Taylor Malham
 LOU,Emina Ekic
-LOU,Jess McDonald
+LOU,Jessica McDonald
 LOU,Julia Lester
 LOU,Hillary Beall
 LOU,Abby Erceg
@@ -221,7 +222,7 @@ NJY,Nealy Martin
 NJY,Yazmeen Ryan
 NJY,Abby Smith
 NJY,Svava Rós Guðmundsdóttir
-NJY,Lynn  Williams
+NJY,Lynn Williams
 ORL,Haley McCutcheon
 ORL,Megan Montefusco
 ORL,Haley Bugeja
@@ -231,11 +232,11 @@ ORL,Celia
 ORL,Viviana Villacorta
 ORL,Erika Tymrak
 ORL,Mikayla Cluff
-ORL,Kaylie  Collins
+ORL,Kaylie Collins
 ORL,Julie Doyle
 ORL,Anna Moorhouse
 ORL,Kylie Strom
-ORL,Kerry  Abello
+ORL,Kerry Abello
 ORL,Caitlin Cosme
 ORL,Ally Watt
 ORL,Jordyn Listro
@@ -256,7 +257,7 @@ POR,Emily Menges
 POR,Hina Sugita
 POR,Sophia Smith
 POR,Lindsey Horan
-POR,Rocky Rodriguez
+POR,Raquel Rodríguez
 POR,Christine Sinclair
 POR,Olivia Moultrie
 POR,Natalia Kuikka
@@ -299,9 +300,9 @@ RGN,Alyssa Malonson
 RGN,Phoebe McClernon
 RGN,Ryanne Brown
 RGN,Tziarra King
-RGN,Veronica Latkso
+RGN,Veronica Latsko
 RGN,Claudia Dickey
-RGN,Olivia van der Jagt
+RGN,Olivia Van der Jagt
 RGN,Elyse Bennett
 RGN,Phallon Tullis-Joyce
 RGN,Shae Holmes
@@ -310,7 +311,7 @@ SD,Kailen Sheridan
 SD,Abby Dahlkemper
 SD,Naomi Girma
 SD,Emily van Egmond
-SD,Kelsey  Turnbow
+SD,Kelsey Turnbow
 SD,Amirah Ali
 SD,Sofia Jakobsson
 SD,Jaedyn Shaw
@@ -321,7 +322,7 @@ SD,Madison Pogarch
 SD,Kaleigh Riehl
 SD,Christen Westphal
 SD,Carly Telford
-SD,Taylor  Kornieck
+SD,Taylor Kornieck
 SD,Belle Briede
 SD,Mia Gyau
 SD,Rachel Hill
@@ -332,7 +333,7 @@ WAS,Trinity Rodman
 WAS,Sam Staab
 WAS,Tara McKeown
 WAS,Ashley Sanchez
-WAS,Jordan  Baggett
+WAS,Jordan Baggett
 WAS,Andi Sullivan
 WAS,Bayley Feist
 WAS,Gabrielle Carle
@@ -346,11 +347,11 @@ WAS,Nicole Barnhart
 WAS,Camryn Biegalski
 WAS,Ashley Hatch
 WAS,Katie Murray
-WAS,Jordan  Thompson
+WAS,Jordan Thompson
 WAS,Abbey Burdette
 WAS,Mariana Speckmaier
 WAS,Chloe Ricketts
-WAS,Paige  Metayer
+WAS,Paige Metayer
 WAS,Melina Rebimbas
 WAS,Nicole Douglas
 WAS,Lyza Bosselmann
