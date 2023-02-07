@@ -12,4 +12,4 @@ include Challenge Cup games.
 Here is a rough draft of a visualization for the 2023 schedule using data
 from 2022.
 
-![Schedule](2022_schedule.png)
+![Schedule](2022_season.png)
