@@ -8,3 +8,8 @@ little rest while other teams had much more balanced schedules. This does
 include Challenge Cup games.
 
 ![Gaps in games](2022_gaps.png)
+
+Here is a rough draft of a visualization for the 2023 schedule using data
+from 2022.
+
+![Schedule](2022_schedule.png)
