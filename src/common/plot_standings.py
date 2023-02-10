@@ -1,4 +1,4 @@
-from common import Fonts, Images, Colors
+from common import Fonts, Images, Colors, add_twitter_handle
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.interpolate import interp1d
@@ -25,8 +25,7 @@ def plot_standings_v2(
     title,
     label_width=0.37,
     twitter_x=0.88,
-    handle_x=0.9,
-    cubic_p=0.1,
+    cubic_p=0.1
 ):
     # Make deep copy to avoid changing the input
     df = df_original.copy()
@@ -165,22 +164,8 @@ def plot_standings_v2(
         title, fontproperties=Fonts.BARLOW_BOLD, size=48, color=Colors.BLACK, y=0.98
     )
 
-    # Username and Twitter logo
-    plt.text(
-        handle_x,
-        -0.06,
-        "@agale137",
-        transform=ax.transAxes,
-        color=Colors.BLACK,
-        fontsize=22,
-        fontproperties=Fonts.BARLOW,
-        va="center",
-        ha="right",
-    )
-    newax = fig.add_axes([twitter_x, 0.02, 0.028, 0.028])
-    newax.imshow(Images.TWITTER)
-    newax.set_ylim([200, -20])
-    newax.axis("off")
+    # Twitter logo and username
+    add_twitter_handle(fig, x=twitter_x, y=0.02, fs=24, w=0.03)
 
     # Save image
     fig.tight_layout()
@@ -268,22 +253,8 @@ def plot_standings(df, folder, playoff_cutoff, names, colors, text_colors, title
         (week * 0.5) / (week + extra_cols), -0.05, transform=ax.transAxes
     )
 
-    # Username and Twitter logo
-    plt.text(
-        0.97,
-        -0.07,
-        "@agale137",
-        transform=ax.transAxes,
-        color="black",
-        fontsize=20,
-        alpha=0.7,
-        fontproperties=Fonts.BARLOW,
-        va="center",
-        ha="right",
-    )
-    newax = fig.add_axes([0.79, 0.06, 0.03, 0.03], anchor="SE", zorder=1)
-    newax.imshow(Images.TWITTER)
-    newax.axis("off")
+    # Twitter logo and username
+    add_twitter_handle(fig, x=0.79, y=0.06, fs=26, w=0.03)
 
     # Save image
     plt.savefig(folder + "/week" + str(week) + ".png", bbox_inches="tight", pad_inches=0.5)
