@@ -55,6 +55,7 @@ class NWSL:
         "NC Courage": "NC",
         "North Carolina Courage": "NC",
         "OL Reign": "RGN",
+        "Racing Louisville": "LOU",
         "Racing Louisville FC": "LOU",
         "Houston Dash": "HOU",
         "Orlando Pride": "ORL",
