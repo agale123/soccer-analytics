@@ -1,5 +1,6 @@
 from .nwsl import NWSL
 from .fawsl import FAWSL
+from .wnba import WNBA
 from .fonts import Fonts
 from .images import Images
 from .colors import Colors
