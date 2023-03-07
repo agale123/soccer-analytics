@@ -61,6 +61,7 @@ class NWSL:
         "Orlando Pride": "ORL",
         "KC Current": "KC",
         "Kansas City Current": "KC",
+        "KCC": "KC",
     }
 
     def map_team(t):
