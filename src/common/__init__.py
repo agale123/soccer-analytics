@@ -4,5 +4,5 @@ from .wnba import WNBA
 from .fonts import Fonts
 from .images import Images
 from .colors import Colors
-from .plot_twitter_handle import add_twitter_handle
+from .utils import add_twitter_handle, add_source
 from .plot_standings import plot_standings, plot_standings_v2
