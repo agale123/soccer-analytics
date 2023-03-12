@@ -14,27 +14,27 @@ class NWSL:
         "KC": "KC Current",
     }
     COLORS = {
-        "NJNY": "#000000",
+        "NJNY": "#a9f1f5", # or #000000
         "POR": "#97262c",
         "LA": "#f8d5ce",
-        "CHI": "#3cb5e4",
-        "WAS": "#c20032",
-        "SD": "#011e40",
-        "NC": "#00416b",
+        "CHI": "#3cb5e4", # or #C8102E
+        "WAS": "#000000",
+        "SD": "#fc1896", # or #011e40
+        "NC": "#d7c38b", # or #00416b
         "RGN": "#002f87",
         "LOU": "#c5b4e1",
         "HOU": "#ff6a01",
         "ORL": "#60269e",
-        "KC": "#62cac9",
+        "KC": "#62cac9", # or #cf3339
     }
     TEXT_COLORS = {
-        "NJNY": "#ffffff",
+        "NJNY": "#000000",
         "POR": "#ffffff",
         "LA": "#000000",
         "CHI": "#000000",
         "WAS": "#ffffff",
-        "SD": "#ffffff",
-        "NC": "#ffffff",
+        "SD": "#000000",
+        "NC": "#000000",
         "RGN": "#ffffff",
         "LOU": "#000000",
         "HOU": "#000000",
