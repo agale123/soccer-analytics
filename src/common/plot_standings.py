@@ -18,7 +18,6 @@ def plot_standings_v2(
     df_original,
     df_table_original,
     folder,
-    playoff_cutoff,
     names,
     colors,
     text_colors,
@@ -119,7 +118,7 @@ def plot_standings_v2(
         )
 
         # Team stats
-        for i, col in enumerate(df_table.columns[1:]):
+        for i, col in enumerate(df_table.columns):
             ax.text(
                 label_width + 0.11 + i * 0.12,
                 df.at[team, str(week)],
@@ -142,7 +141,7 @@ def plot_standings_v2(
         va="center",
         ha="left",
     )
-    for i, col in enumerate(df_table.columns[1:]):
+    for i, col in enumerate(df_table.columns):
         ax.text(
             label_width + 0.11 + i * 0.12,
             0,
@@ -170,7 +169,7 @@ def plot_standings_v2(
     # Save image
     fig.tight_layout()
     plt.savefig(
-        folder + "/week" + str(week) + "v2.png", bbox_inches="tight", pad_inches=0.5
+        folder + "/week" + str(week) + ".png", bbox_inches="tight", pad_inches=0.5
     )
 
 
