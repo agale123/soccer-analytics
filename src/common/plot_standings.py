@@ -4,7 +4,7 @@ import numpy as np
 from scipy.interpolate import interp1d
 
 def interpolate(x1, y1, x2, y2, cubic_p):
-    steps = np.linspace(0, cubic_p, 4)
+    steps = np.linspace(0, cubic_p, 7)
     x = list(map(lambda i: x1 + i, steps)) + list(map(lambda i: x2 - i, steps[::-1]))
     y = [y1] * len(steps) + [y2] * len(steps)
     f = interp1d(x, y, kind="quadratic")
@@ -82,7 +82,7 @@ def plot_standings_v2(
 
     # x-axis
     ax.set_xticks(range(0, week))
-    ax.set_xlim([-0.5, week])
+    ax.set_xlim([-0.25, week-0.75])
     ax.xaxis.grid(True, color=Colors.LIGHT_GRAY)
     ax.tick_params(
         axis="x", which="major", labelsize=20, color=Colors.GRAY, bottom=False
@@ -171,7 +171,6 @@ def plot_standings_v2(
     plt.savefig(
         folder + "/week" + str(week) + ".png", bbox_inches="tight", pad_inches=0.5
     )
-
 
 def plot_standings(df, folder, playoff_cutoff, names, colors, text_colors, title, extra_cols=5):
     # Add extra columns as backdrop for team names
