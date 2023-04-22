@@ -3,7 +3,7 @@ from common import Fonts, Images, Colors
 def add_twitter_handle(fig, x=0.75, y=0, fs=28, w=0.03):
     """Plot the twitter logo and handle at the spcified position."""
     logo_dim = w
-    label_ax = fig.add_axes([x + logo_dim, y, 0.11, 0.05])
+    label_ax = fig.add_axes([x + logo_dim, y, 0.10, 0.05])
     label_ax.text(
         0.06,
         0.06,
