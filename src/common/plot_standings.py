@@ -24,7 +24,8 @@ def plot_standings_v2(
     title,
     label_width=0.37,
     twitter_x=0.88,
-    cubic_p=0.1
+    cubic_p=0.1,
+    plot_ratio=0.8,
 ):
     # Make deep copy to avoid changing the input
     df = df_original.copy()
@@ -38,10 +39,11 @@ def plot_standings_v2(
 
     # Set up the plot and axes
     plt.clf()
-    plt.rcParams["figure.figsize"] = (20 + 4 * (week - 5) / 15, 13.5)
-    plt.figure(dpi=100)
-    fig, axs = plt.subplots(1, 2, width_ratios=[3, 1])
-    fig.patch.set_facecolor(Colors.WHITE)
+    fig = plt.figure(dpi=100, figsize=(20 + 4 * (week - 5) / 15, 13.5), facecolor=Colors.WHITE)
+    ax0 = fig.add_axes([0, 0, plot_ratio, 0.85])
+    ax1 = fig.add_axes([plot_ratio-0.06, 0, 1-(plot_ratio-0.06), 0.85])
+    axs = [ax0, ax1]
+    
     for ax in axs:
         ax.set_facecolor(Colors.WHITE)
 
@@ -88,7 +90,7 @@ def plot_standings_v2(
         axis="x", which="major", labelsize=20, color=Colors.GRAY, bottom=False
     )
     ax.set_xlabel(
-        "Week", fontproperties=Fonts.BARLOW, size=32, color=Colors.BLACK, ha="right"
+        "Week", fontproperties=Fonts.BARLOW, size=32, color=Colors.BLACK, ha="center"
     )
     ax.xaxis.set_label_coords(0.5, -0.05)
 
@@ -160,11 +162,11 @@ def plot_standings_v2(
 
     # Title
     plt.suptitle(
-        title, fontproperties=Fonts.BARLOW_BOLD, size=48, color=Colors.BLACK, y=0.98
+        title, fontproperties=Fonts.BARLOW_BOLD, size=48, color=Colors.BLACK, y=0.98, x=0.5+0.08
     )
 
     # Twitter logo and username
-    add_twitter_handle(fig, x=twitter_x, y=0.02, fs=24, w=0.03)
+    add_twitter_handle(fig, x=twitter_x, y=-0.065, fs=24, w=0.03)
 
     # Save image
     fig.tight_layout()
