@@ -3,13 +3,25 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.interpolate import interp1d
 
-def interpolate(x1, y1, x2, y2, cubic_p):
-    steps = np.linspace(0, cubic_p, 7)
+def interpolate_base(cubic_p):
+    x1 = 0
+    y1 = 0
+    x2 = 1
+    y2 = 1
+    steps = np.linspace(0, cubic_p, 10)
     x = list(map(lambda i: x1 + i, steps)) + list(map(lambda i: x2 - i, steps[::-1]))
     y = [y1] * len(steps) + [y2] * len(steps)
     f = interp1d(x, y, kind="quadratic")
     xs = np.linspace(x1, x2, num=40)
     ys = f(xs)
+
+    return (xs, ys)
+
+def interpolate(x1, y1, x2, y2):
+    (xs, ys) = interpolate_base(0.15)
+    for i in range(0, len(xs)):
+        xs[i] = x1 + xs[i] * (x2-x1)
+        ys[i] = y1 + ys[i] * (y2-y1)
 
     return (xs, ys)
 
@@ -24,7 +36,6 @@ def plot_standings_v2(
     title,
     label_width=0.37,
     twitter_x=0.88,
-    cubic_p=0.1,
     plot_ratio=0.8,
 ):
     # Make deep copy to avoid changing the input
@@ -62,7 +73,7 @@ def plot_standings_v2(
                 x2.append(xi)
                 y2.append(yi)
             else:
-                xs, ys = interpolate(x2[-1], y2[-1], xi, yi, cubic_p)
+                xs, ys = interpolate(x2[-1], y2[-1], xi, yi)
                 x2.extend(xs)
                 y2.extend(ys)
         ax.plot(x2, y2, linewidth=5, color=colors[team], solid_capstyle="round")
@@ -87,7 +98,7 @@ def plot_standings_v2(
     ax.set_xlim([-0.25, week-0.75])
     ax.xaxis.grid(True, color=Colors.LIGHT_GRAY)
     ax.tick_params(
-        axis="x", which="major", labelsize=20, color=Colors.GRAY, bottom=False
+        axis="x", which="major", labelsize=22, color=Colors.GRAY, bottom=False
     )
     ax.set_xlabel(
         "Week", fontproperties=Fonts.BARLOW, size=32, color=Colors.BLACK, ha="center"
@@ -109,14 +120,14 @@ def plot_standings_v2(
         )
         # Team label
         ax.text(
-            0,
+            label_width/2,
             df.at[team, str(week)],
             names[team],
             color=text_colors[team],
-            fontsize=20,
+            fontsize=22,
             fontproperties=Fonts.BARLOW,
             va="center",
-            ha="left",
+            ha="center",
         )
 
         # Team stats
@@ -126,7 +137,7 @@ def plot_standings_v2(
                 df.at[team, str(week)],
                 df_table.at[team, col],
                 color=Colors.BLACK,
-                fontsize=20,
+                fontsize=22,
                 fontproperties=Fonts.BARLOW,
                 va="center",
                 ha="center",
@@ -138,7 +149,7 @@ def plot_standings_v2(
         0,
         "Team",
         color=Colors.BLACK,
-        fontsize=20,
+        fontsize=22,
         fontproperties=Fonts.BARLOW_BOLD,
         va="center",
         ha="left",
@@ -149,7 +160,7 @@ def plot_standings_v2(
             0,
             col,
             color=Colors.BLACK,
-            fontsize=20,
+            fontsize=22,
             fontproperties=Fonts.BARLOW_BOLD,
             va="center",
             ha="center",
