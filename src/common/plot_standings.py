@@ -80,7 +80,7 @@ def plot_standings_v2(
 
     # Circles for each week
     for team in df.index:
-        ax.scatter(df.columns, df.loc[team], s=800, color=colors[team], zorder=10)
+        ax.scatter(df.columns, df.loc[team], s=1200, color=colors[team], zorder=10)
 
     # General
     ax.spines["top"].set_visible(False)
@@ -98,7 +98,7 @@ def plot_standings_v2(
     ax.set_xlim([-0.25, week-0.75])
     ax.xaxis.grid(True, color=Colors.LIGHT_GRAY)
     ax.tick_params(
-        axis="x", which="major", labelsize=22, color=Colors.GRAY, bottom=False
+        axis="x", which="major", labelsize=26, color=Colors.GRAY, bottom=False
     )
     ax.set_xlabel(
         "Week", fontproperties=Fonts.BARLOW, size=32, color=Colors.BLACK, ha="center"
@@ -113,7 +113,7 @@ def plot_standings_v2(
         ax.plot(
             [0, label_width],
             [df.at[team, str(week)], df.at[team, str(week)]],
-            linewidth=30,
+            linewidth=36,
             color=colors[team],
             solid_capstyle="round",
             clip_on=False,
@@ -124,7 +124,7 @@ def plot_standings_v2(
             df.at[team, str(week)],
             names[team],
             color=text_colors[team],
-            fontsize=22,
+            fontsize=26,
             fontproperties=Fonts.BARLOW,
             va="center",
             ha="center",
@@ -137,7 +137,7 @@ def plot_standings_v2(
                 df.at[team, str(week)],
                 df_table.at[team, col],
                 color=Colors.BLACK,
-                fontsize=22,
+                fontsize=26,
                 fontproperties=Fonts.BARLOW,
                 va="center",
                 ha="center",
@@ -149,7 +149,7 @@ def plot_standings_v2(
         0,
         "Team",
         color=Colors.BLACK,
-        fontsize=22,
+        fontsize=26,
         fontproperties=Fonts.BARLOW_BOLD,
         va="center",
         ha="left",
@@ -160,7 +160,7 @@ def plot_standings_v2(
             0,
             col,
             color=Colors.BLACK,
-            fontsize=22,
+            fontsize=26,
             fontproperties=Fonts.BARLOW_BOLD,
             va="center",
             ha="center",
