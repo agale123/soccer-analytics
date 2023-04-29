@@ -11,21 +11,29 @@ class NWSL:
         "LOU": "Racing Louisville",
         "HOU": "Houston Dash",
         "ORL": "Orlando Pride",
-        "KC": "KC Current",
+        "KCC": "KC Current",
+        "KC": "FC Kansas City",
+        "BOS": "Boston Breakers",
+        "UTA": "Utah Royals",
+        "WNY": "Western NY Flash",
     }
     COLORS = {
-        "NJNY": "#a9f1f5", # or #000000
-        "POR": "#97262c",
-        "LA": "#f8d5ce",
+        "BOS": "#234B8D",
         "CHI": "#3cb5e4", # or #C8102E
-        "WAS": "#000000",
-        "SD": "#fc1896", # or #011e40
-        "NC": "#d7c38b", # or #00416b
-        "RGN": "#002f87",
-        "LOU": "#c5b4e1",
         "HOU": "#ff6a01",
+        "KC": "#0082B9",
+        "KCC": "#62cac9", # or #cf3339
+        "LA": "#f8d5ce",
+        "LOU": "#c5b4e1",
+        "NC": "#d7c38b", # or #00416b
+        "NJNY": "#a9f1f5", # or #000000
         "ORL": "#60269e",
-        "KC": "#62cac9", # or #cf3339
+        "POR": "#97262c",
+        "RGN": "#002f87",
+        "SD": "#fc1896", # or #011e40
+        "UTA": "#fdb71a",
+        "WAS": "#000000", 
+        "WNY": "#d12121",
     }
     TEXT_COLORS = {
         "NJNY": "#000000",
@@ -39,7 +47,7 @@ class NWSL:
         "LOU": "#000000",
         "HOU": "#000000",
         "ORL": "#ffffff",
-        "KC": "#000000",
+        "KCC": "#000000",
     }
     MAPPING = {
         "NJ/NY Gotham": "NJNY",
@@ -59,9 +67,8 @@ class NWSL:
         "Racing Louisville FC": "LOU",
         "Houston Dash": "HOU",
         "Orlando Pride": "ORL",
-        "KC Current": "KC",
-        "Kansas City Current": "KC",
-        "KCC": "KC",
+        "KC Current": "KCC",
+        "Kansas City Current": "KCC",
     }
 
     def map_team(t):
@@ -70,12 +77,12 @@ class NWSL:
         else:
             return t
 
-    def color(t):
-        team = NWSL.map_team(t)
+    def color(t, old = False):
+        team = NWSL.map_team(t) if not (old and t == "KC") else t
         if team in NWSL.COLORS:
             return NWSL.COLORS[team]
         else:
-            return "gray"
+            return "#808080"
 
     def text_color(t):
         team = NWSL.map_team(t)
