@@ -1,0 +1,8 @@
+slug,date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,red_cards,is_playoff,is_challenge_cup,is_fall_series,position
+ol-reign-vs-portland-thorns-fc-2022-03-18,2022-03-18,2022 Challenge Cup,POR,1,1,0,0,90,1,0,False,True,False,LB
+angel-city-fc-vs-ol-reign-2022-03-26,2022-03-26,2022 Challenge Cup,LA,3,1,0,0,90,1,0,False,True,False,LB
+portland-thorns-fc-vs-ol-reign-2022-04-02,2022-04-02,2022 Challenge Cup,POR,1,0,0,0,0,0,0,False,True,False,
+ol-reign-vs-san-diego-wave-fc-2022-04-14,2022-04-14,2022 Challenge Cup,SD,3,1,0,0,90,0,0,False,True,False,LB
+ol-reign-vs-angel-city-fc-2022-04-17,2022-04-17,2022 Challenge Cup,LA,2,1,0,1,90,0,0,False,True,False,LB
+san-diego-wave-fc-vs-ol-reign-2022-04-23,2022-04-23,2022 Challenge Cup,SD,1,1,0,0,90,0,0,False,True,False,LB
+ol-reign-vs-washington-spirit-2022-05-04,2022-05-04,2022 Challenge Cup,WAS,0,0,0,0,89,0,0,True,True,False,LB

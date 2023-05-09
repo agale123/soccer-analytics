@@ -1,0 +1,5 @@
+slug,date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,red_cards,is_playoff,is_challenge_cup,is_fall_series,position
+utah-royals-vs-ol-reign-2020-09-26,2020-09-26,2020 Fall Series,UTA,2,2,0,0,0,0,0,False,False,True,
+portland-thorns-fc-vs-ol-reign-2020-09-30,2020-09-30,2020 Fall Series,POR,1,4,0,0,0,0,0,False,False,True,
+ol-reign-vs-portland-thorns-fc-2020-10-10,2020-10-10,2020 Fall Series,POR,1,2,0,0,0,0,0,False,False,True,
+ol-reign-vs-utah-royals-2020-10-17,2020-10-17,2020 Fall Series,UTA,2,0,0,0,0,0,0,False,False,True,

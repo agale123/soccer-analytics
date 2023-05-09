@@ -1,0 +1,6 @@
+slug,date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,red_cards,is_playoff,is_challenge_cup,is_fall_series,position
+ol-reign-vs-sky-blue-fc-2020-06-30,2020-06-30,2020 Challenge Cup,NJY,0,0,0,0,90,0,0,False,True,False,LCB
+houston-dash-vs-ol-reign-2020-07-04,2020-07-04,2020 Challenge Cup,HOU,0,2,0,0,90,0,0,False,True,False,LCB
+utah-royals-vs-ol-reign-2020-07-08,2020-07-08,2020 Challenge Cup,UTA,1,0,0,0,0,0,0,False,True,False,
+ol-reign-vs-portland-thorns-fc-2020-07-13,2020-07-13,2020 Challenge Cup,POR,0,0,0,0,90,0,0,False,True,False,LCB
+ol-reign-vs-chicago-red-stars-2020-07-18,2020-07-18,2020 Challenge Cup,CHI,0,0,0,0,90,0,0,False,True,False,LB

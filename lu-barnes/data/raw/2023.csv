@@ -1,7 +1,7 @@
-slug,date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,red_cards
-washington-spirit-vs-ol-reign-2023-03-26,2023-03-26,2023,WAS,0,1,0,0,90,0,0
-nj-ny-gotham-fc-vs-ol-reign-2023-04-01,2023-04-01,2023,NJY,2,0,0,0,90,0,0
-ol-reign-vs-san-diego-wave-fc-2023-04-15,2023-04-15,2023,SD,1,0,0,1,90,0,0
-ol-reign-vs-chicago-red-stars-2023-04-22,2023-04-22,2023,CHI,5,2,0,1,90,0,0
-racing-louisville-fc-vs-ol-reign-2023-04-29,2023-04-29,2023,LOU,2,2,0,1,90,0,0
-ol-reign-vs-houston-dash-2023-05-06,2023-05-06,2023,HOU,2,0,0,0,90,0,0
+slug,date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,red_cards,is_playoff,is_challenge_cup,is_fall_series
+washington-spirit-vs-ol-reign-2023-03-26,2023-03-26,2023,WAS,0,1,0,0,90,0,0,False,False,False
+nj-ny-gotham-fc-vs-ol-reign-2023-04-01,2023-04-01,2023,NJY,2,0,0,0,90,0,0,False,False,False
+ol-reign-vs-san-diego-wave-fc-2023-04-15,2023-04-15,2023,SD,1,0,0,0,90,0,0,False,False,False
+ol-reign-vs-chicago-red-stars-2023-04-22,2023-04-22,2023,CHI,5,2,0,1,90,0,0,False,False,False
+racing-louisville-fc-vs-ol-reign-2023-04-29,2023-04-29,2023,LOU,2,2,0,0,90,0,0,False,False,False
+ol-reign-vs-houston-dash-2023-05-06,2023-05-06,2023,HOU,2,0,0,0,90,0,0,False,False,False

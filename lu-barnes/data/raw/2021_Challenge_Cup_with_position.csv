@@ -1,0 +1,5 @@
+slug,date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,red_cards,is_playoff,is_challenge_cup,is_fall_series,position
+ol-reign-vs-houston-dash-2021-04-16,2021-04-16,2021 Challenge Cup,HOU,0,0,0,0,0,0,0,False,True,False,
+portland-thorns-fc-vs-ol-reign-2021-04-21,2021-04-21,2021 Challenge Cup,POR,0,2,0,0,0,0,0,False,True,False,
+ol-reign-vs-chicago-red-stars-2021-04-27,2021-04-27,2021 Challenge Cup,CHI,3,2,0,0,90,0,0,False,True,False,LB
+kansas-city-current-vs-ol-reign-2021-05-03,2021-05-03,2021 Challenge Cup,KCC,2,1,0,1,90,0,0,False,True,False,LB
