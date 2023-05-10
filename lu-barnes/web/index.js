@@ -50,27 +50,28 @@ const STEPS = {
   INIT: 0,
   GAMES: 1,
   RESULT: 2,
-  SHIELD: 3,
-  GOAL_DIFF: 4,
-  POSITION: 5,
+  POSITION: 3,
+  MINUTES: 4,
+  GOAL_DIFF: 5,
   ASSISTS: 6,
   GOALS: 7,
+  SHIELD: 8,
 };
 
-function hexPoints(r) {
-  const halfWidth = (r * Math.sqrt(3)) / 2;
+function hexPoints(r, c = [0, 0], scale = 1) {
+  const halfWidth = (r * Math.sqrt(3)) / 2* scale;
   return [
-    [0, -r],
-    [halfWidth, -r / 2],
-    [halfWidth, r / 2],
-    [0, r],
-    [-halfWidth, r / 2],
-    [-halfWidth, -r / 2],
+    [c[0] + 0, c[1] + -r],
+    [c[0] + halfWidth, c[1] + -r / 2],
+    [c[0] + halfWidth, c[1] + r / 2],
+    [c[0] + 0, c[1] + r],
+    [c[0] + -halfWidth, c[1] + r / 2],
+    [c[0] + -halfWidth, c[1] + -r / 2],
   ];
 }
 
-function hexPointsString(r) {
-  return hexPoints(r)
+function hexPointsString(r, c = [0, 0], scale = 1) {
+  return hexPoints(r, c, scale)
     .map((x) => x.join(","))
     .join(" ");
 }
@@ -169,42 +170,20 @@ function draw(data, step) {
     return;
   }
 
-  // Step 3: Shield wins
-  games
-    .append("path")
-    .filter((d) => SHIELD_SEASONS.includes(d["label"]))
-    .attr("fill", BLUE)
-    .attr("d", SHIELD);
-  if (step === STEPS.SHIELD) {
-    return;
-  }
-
-  // Step 4: Goal differential
-  strokePolygons.attr("stroke-dasharray", (d) => {
-    if (d["goals_against"] === 0 || d["minutes"] <= 0) {
-      return "none";
-    } else {
-      return d["goals_for"] * 4 + "," + d["goals_against"] * 4;
-    }
-  });
-  if (step === STEPS.GOAL_DIFF) {
-    return;
-  }
-
-  // Step 5: Position
+  // Step 3: Position
   const polygons = svg
     .append("g")
     .selectAll("polygon")
     .data(data)
     .join("polygon")
     .attr("points", hexPointsString(R))
-    .attr("clip-path", "url(#hex-clip)")
+    .attr("clip-path", "url(#hex-clip-9)")
     .attr("transform", indexTransform);
   strokePolygons.raise();
   polygons
     .attr("fill", (d) => {
       if (d["minutes"] > 0) {
-        return `url(#${d["position"] || "LB"}-${getResult(d)})`;
+        return `url(#${d["position"]}-${getResult(d)})`;
       } else {
         return "none";
       }
@@ -214,6 +193,27 @@ function draw(data, step) {
       () => `url(#waterColor${Math.floor(Math.random() * FILTER_N)})`
     );
   if (step === STEPS.POSITION) {
+    return;
+  }
+
+  // Step 4: Minutes
+  polygons.attr(
+    "clip-path",
+    (d) => `url(#hex-clip-${Math.min(Math.ceil(d["minutes"] / 10), 9)})`
+  );
+  if (step === STEPS.MINUTES) {
+    return;
+  }
+
+  // Step 5: Goal differential
+  strokePolygons.attr("stroke-dasharray", (d) => {
+    if (d["goals_against"] === 0 || d["minutes"] <= 0) {
+      return "none";
+    } else {
+      return d["goals_for"] * 4 + "," + d["goals_against"] * 4;
+    }
+  });
+  if (step === STEPS.GOAL_DIFF) {
     return;
   }
 
@@ -266,6 +266,16 @@ function draw(data, step) {
   if (step === STEPS.GOALS) {
     return;
   }
+
+  // Step 8: Shield wins
+  games
+    .append("path")
+    .filter((d) => SHIELD_SEASONS.includes(d["label"]))
+    .attr("fill", BLUE)
+    .attr("d", SHIELD);
+  if (step === STEPS.SHIELD) {
+    return;
+  }
 }
 
 function addGradient(defs, name, percent, result) {
@@ -282,7 +292,7 @@ function addGradient(defs, name, percent, result) {
     .append("stop")
     .attr("offset", "0%")
     .attr("stop-color", color)
-    .attr("stop-opacity", 0.4);
+    .attr("stop-opacity", 0.3);
 
   gradient
     .append("stop")
@@ -294,7 +304,7 @@ function addGradient(defs, name, percent, result) {
     .append("stop")
     .attr("offset", "100%")
     .attr("stop-color", color)
-    .attr("stop-opacity", 0.4);
+    .attr("stop-opacity", 0.3);
 }
 
 function addFilters(defs) {
@@ -322,6 +332,22 @@ function addFilters(defs) {
   }
 }
 
+function addClipPaths(defs) {
+  
+  for (let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
+    const points = hexPoints((Math.sqrt(i) / 3) * 0.43, [0.5, 0.5], 1.2).map(
+      (p, i) => (i === 0 ? "M " : "L ") + p.join(",")
+    );
+
+    defs
+      .append("clipPath")
+      .attr("clipPathUnits", "objectBoundingBox")
+      .attr("id", "hex-clip-" + i)
+      .append("path")
+      .attr("d", points.join(" "));
+  }
+}
+
 function setupSvg() {
   const svg = d3
     .select("#host svg")
@@ -339,6 +365,8 @@ function setupSvg() {
   }
 
   addFilters(defs);
+
+  addClipPaths(defs);
 }
 
 async function initialize() {
@@ -354,7 +382,7 @@ async function initialize() {
     data[i]["index"] = i;
   }
   setupSvg();
-  draw(data, STEPS.GOALS);
+  draw(data, STEPS.SHIELD);
 }
 
 initialize();
