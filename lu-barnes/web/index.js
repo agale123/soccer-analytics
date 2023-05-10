@@ -1,12 +1,22 @@
-const R = 30;
+const N = 230;
 const STROKE_W = 3;
 const GAP = 5;
-const COLS = 20;
-const ROWS = Math.ceil(230 / COLS);
-const WIDTH = (COLS + 0.5) * R * Math.sqrt(3);
-const HEIGHT = ((ROWS + 0.5) * R * 3) / 2;
-
 const FILTER_N = 20;
+
+let ROWS, COLS, R, WIDTH, HEIGHT;
+
+function calculateDimensions() {
+  const height = document.body.clientHeight;
+  const width = document.body.clientWidth;
+
+  ROWS = Math.ceil(Math.sqrt((N * height) / width));
+  COLS = Math.ceil(N / ROWS);
+  R = Math.floor(width / COLS / 2);
+  WIDTH = (COLS + 0.5) * R * Math.sqrt(3);
+  HEIGHT = ((ROWS + 0.5) * R * 3) / 2;
+}
+
+calculateDimensions();
 
 const BLUE = "#002f87";
 const RED = "#e62929";
@@ -59,7 +69,7 @@ const STEPS = {
 };
 
 function hexPoints(r, c = [0, 0], scale = 1) {
-  const halfWidth = (r * Math.sqrt(3)) / 2* scale;
+  const halfWidth = ((r * Math.sqrt(3)) / 2) * scale;
   return [
     [c[0] + 0, c[1] + -r],
     [c[0] + halfWidth, c[1] + -r / 2],
@@ -117,8 +127,10 @@ function arcPath(a, b) {
   ].join(" ");
 }
 
-function draw(data, step) {
-  const svg = d3.select("#host svg");
+function draw() {
+  const svg = d3.select("#background svg");
+
+  svg.selectAll("g").remove();
 
   // Step 0: All Reign games
   const games = svg
@@ -139,18 +151,18 @@ function draw(data, step) {
     .text((d) => d["label"]?.replace("20", ""))
     .style("text-anchor", "middle")
     .style("dominant-baseline", "middle")
-    .style("font-size", "10pt")
+    .style("font-size", Math.floor(R / 2) + "pt")
     .style("font-family", "'Open Sans', sans-serif");
-  if (step === STEPS.INIT) {
+  if (currentStep === STEPS.INIT) {
     return;
   }
 
   // Step 1: Games played
-  data = data.filter((g) => g["minutes"] > 0);
+  const filteredData = data.filter((g) => g["minutes"] > 0);
   const strokePolygons = svg
     .append("g")
     .selectAll("polygon")
-    .data(data)
+    .data(filteredData)
     .join("polygon")
     .attr("points", hexPointsString(R - GAP))
     .attr("transform", indexTransform);
@@ -158,7 +170,7 @@ function draw(data, step) {
     .attr("fill", "none")
     .attr("stroke-width", "3")
     .attr("stroke", BLUE);
-  if (step === STEPS.GAMES) {
+  if (currentStep === STEPS.GAMES) {
     return;
   }
 
@@ -166,7 +178,7 @@ function draw(data, step) {
   strokePolygons.attr("stroke", (d) =>
     d["minutes"] > 0 ? COLORS[getResult(d)] : GREY
   );
-  if (step === STEPS.RESULT) {
+  if (currentStep === STEPS.RESULT) {
     return;
   }
 
@@ -174,7 +186,7 @@ function draw(data, step) {
   const polygons = svg
     .append("g")
     .selectAll("polygon")
-    .data(data)
+    .data(filteredData)
     .join("polygon")
     .attr("points", hexPointsString(R))
     .attr("clip-path", "url(#hex-clip-9)")
@@ -188,11 +200,8 @@ function draw(data, step) {
         return "none";
       }
     })
-    .attr(
-      "filter",
-      () => `url(#waterColor${Math.floor(Math.random() * FILTER_N)})`
-    );
-  if (step === STEPS.POSITION) {
+    .attr("filter", (d, i) => `url(#waterColor${i % FILTER_N})`);
+  if (currentStep === STEPS.POSITION) {
     return;
   }
 
@@ -201,7 +210,7 @@ function draw(data, step) {
     "clip-path",
     (d) => `url(#hex-clip-${Math.min(Math.ceil(d["minutes"] / 10), 9)})`
   );
-  if (step === STEPS.MINUTES) {
+  if (currentStep === STEPS.MINUTES) {
     return;
   }
 
@@ -213,12 +222,12 @@ function draw(data, step) {
       return d["goals_for"] * 4 + "," + d["goals_against"] * 4;
     }
   });
-  if (step === STEPS.GOAL_DIFF) {
+  if (currentStep === STEPS.GOAL_DIFF) {
     return;
   }
 
   // Step 6: Assists
-  const assists = data.filter((row) => row["assists"] > 0);
+  const assists = filteredData.filter((row) => row["assists"] > 0);
   svg
     .append("g")
     .selectAll("path")
@@ -232,12 +241,12 @@ function draw(data, step) {
     .attr("opacity", 0.5)
     .attr("stroke-width", 2)
     .attr("fill", "none");
-  if (step === STEPS.ASSISTS) {
+  if (currentStep === STEPS.ASSISTS) {
     return;
   }
 
   // Step 7: Goals
-  const goals = data.filter((row) => row["goals"] > 0);
+  const goals = filteredData.filter((row) => row["goals"] > 0);
   svg
     .append("g")
     .selectAll("path")
@@ -263,7 +272,7 @@ function draw(data, step) {
     .attr("opacity", 0.5)
     .attr("stroke-width", 2)
     .attr("fill", "none");
-  if (step === STEPS.GOALS) {
+  if (currentStep === STEPS.GOALS) {
     return;
   }
 
@@ -273,7 +282,7 @@ function draw(data, step) {
     .filter((d) => SHIELD_SEASONS.includes(d["label"]))
     .attr("fill", BLUE)
     .attr("d", SHIELD);
-  if (step === STEPS.SHIELD) {
+  if (currentStep === STEPS.SHIELD) {
     return;
   }
 }
@@ -333,7 +342,6 @@ function addFilters(defs) {
 }
 
 function addClipPaths(defs) {
-  
   for (let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
     const points = hexPoints((Math.sqrt(i) / 3) * 0.43, [0.5, 0.5], 1.2).map(
       (p, i) => (i === 0 ? "M " : "L ") + p.join(",")
@@ -350,7 +358,7 @@ function addClipPaths(defs) {
 
 function setupSvg() {
   const svg = d3
-    .select("#host svg")
+    .select("#background svg")
     .attr("width", WIDTH)
     .attr("height", HEIGHT);
 
@@ -369,8 +377,27 @@ function setupSvg() {
   addClipPaths(defs);
 }
 
+let currentStep = STEPS.INIT;
+let data;
+
+function addScrollListeners() {
+  for (const i of Object.values(STEPS)) {
+    const observer = new IntersectionObserver(
+      (entry) => {
+        if (entry[0].isIntersecting) {
+          currentStep = i;
+          draw();
+        }
+      },
+      { root: document.querySelector(`#story`), threshold: 1 }
+    );
+
+    observer.observe(document.querySelector(`#story  div:nth-child(${i + 1})`));
+  }
+}
+
 async function initialize() {
-  const data = await d3.csv("all_matches.csv");
+  data = await d3.csv("all_matches.csv");
   // Add placeholders for season labels
   const seasons = [...new Set(data.map((d) => d["season"]))];
   for (const season of seasons) {
@@ -382,7 +409,18 @@ async function initialize() {
     data[i]["index"] = i;
   }
   setupSvg();
-  draw(data, STEPS.SHIELD);
+  draw();
+
+  addScrollListeners();
+
+  //Resize the d3 charts on a page resize
+  window.addEventListener("resize", () => {
+    calculateDimensions();
+
+    d3.select("#background svg").attr("width", WIDTH).attr("height", HEIGHT);
+
+    draw();
+  });
 }
 
 initialize();
