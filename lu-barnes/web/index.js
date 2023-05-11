@@ -380,7 +380,7 @@ function addGradient(defs, name, percent, result) {
     .append("stop")
     .attr("offset", "0%")
     .attr("stop-color", color)
-    .attr("stop-opacity", 0.3);
+    .attr("stop-opacity", 0.2);
 
   gradient
     .append("stop")
@@ -392,7 +392,7 @@ function addGradient(defs, name, percent, result) {
     .append("stop")
     .attr("offset", "100%")
     .attr("stop-color", color)
-    .attr("stop-opacity", 0.3);
+    .attr("stop-opacity", 0.2);
 }
 
 function addFilters(defs) {
@@ -422,7 +422,7 @@ function addFilters(defs) {
 
 function addClipPaths(defs) {
   for (let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
-    const points = hexPoints((Math.sqrt(i) / 3) * 0.36, [0.5, 0.5], 1.2).map(
+    const points = hexPoints((Math.sqrt(i) / 3) * 0.38, [0.5, 0.5], 1.2).map(
       (p, i) => (i === 0 ? "M " : "L ") + p.join(",")
     );
 
