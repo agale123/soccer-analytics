@@ -207,7 +207,7 @@ function draw() {
     .selectAll("polygon")
     .data(filteredData)
     .join("polygon")
-    .attr("points", hexPointsString(R+2))
+    .attr("points", hexPointsString(R + 2))
     .attr("clip-path", "url(#hex-clip-9)")
     .attr("transform", indexTransform)
     .attr("opacity", 0)
@@ -223,11 +223,13 @@ function draw() {
 
   if (currentStep === STEPS.RESULT) {
     if (currentStep > previousStep) {
-    strokePolygons
-      .attr("stroke", BLUE)
-      .transition()
-      .duration(500)
-      .attr("stroke", (d) => (d["minutes"] > 0 ? COLORS[getResult(d)] : GREY));
+      strokePolygons
+        .attr("stroke", BLUE)
+        .transition()
+        .duration(500)
+        .attr("stroke", (d) =>
+          d["minutes"] > 0 ? COLORS[getResult(d)] : GREY
+        );
     } else if (currentStep < previousStep) {
       fadeIn(polygons, 1, 0);
     }
@@ -245,9 +247,9 @@ function draw() {
         .duration(500)
         .attrTween("clip-path", (d, i, a) => {
           return (val) => {
-            return `url(#hex-clip-${Math.min(
-              Math.ceil((d["minutes"] + val * (90 - d["minutes"])) / 10),
-              9
+            const minutes = parseInt(d["minutes"]);
+            return `url(#hex-clip-${minuteBin(
+              minutes + val * (90 - minutes)
             )})`;
           };
         });
@@ -255,10 +257,14 @@ function draw() {
     return;
   }
 
+  function minuteBin(minutes) {
+    return Math.ceil(Math.max(Math.min(minutes, 90), 0) / 10);
+  }
+
   // Step 4: Minutes
   polygons.attr(
     "clip-path",
-    (d) => `url(#hex-clip-${Math.min(Math.ceil(d["minutes"] / 10), 9)})`
+    (d) => `url(#hex-clip-${minuteBin(parseInt(d["minutes"]))})`
   );
   if (currentStep === STEPS.MINUTES) {
     if (currentStep > previousStep) {
@@ -267,9 +273,9 @@ function draw() {
         .duration(500)
         .attrTween("clip-path", (d, i, a) => {
           return (val) => {
-            return `url(#hex-clip-${Math.min(
-              Math.ceil((d["minutes"] + (1 - val) * (90 - d["minutes"])) / 10),
-              9
+            const minutes = parseInt(d["minutes"]);
+            return `url(#hex-clip-${minuteBin(
+              minutes + (1 - val) * (90 - minutes)
             )})`;
           };
         });
@@ -416,7 +422,7 @@ function addFilters(defs) {
 
 function addClipPaths(defs) {
   for (let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
-    const points = hexPoints((Math.sqrt(i) / 3) * 0.4, [0.5, 0.5], 1.2).map(
+    const points = hexPoints((Math.sqrt(i) / 3) * 0.36, [0.5, 0.5], 1.2).map(
       (p, i) => (i === 0 ? "M " : "L ") + p.join(",")
     );
 
