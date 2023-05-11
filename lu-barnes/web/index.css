@@ -18,6 +18,17 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-between;
+}
+
+#scroll {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #d3d3d3;
+  fill: #d3d3d3;
+  font-size: 18px;
+  padding-bottom: 16px;
 }
 
 #story {
@@ -27,11 +38,27 @@ body {
 
 #story div {
   padding: 16px;
-  margin: 100% auto;
+  margin: 100vh auto;
   width: 400px;
-  background-color: rgba(255, 255, 255, 0.8);
+  background-color: rgba(255, 255, 255, 0.85);
   border: lightgray 1px solid;
   border-radius: 16px;
+  text-align: justify; 
+}
+
+.red {
+  color: #e62929;
+  font-weight: bold;
+}
+
+.blue {
+  color: #002f87;
+  font-weight: bold;
+}
+
+.gold {
+  color: #be892c;
+  font-weight: bold;
 }
 
 @media only screen and (max-width: 600px) {

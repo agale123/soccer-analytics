@@ -1,13 +1,15 @@
 const N = 230;
-const STROKE_W = 3;
-const GAP = 5;
 const FILTER_N = 20;
+const MAX_WIDTH = 1200;
 
-let ROWS, COLS, R, WIDTH, HEIGHT;
+let ROWS, COLS, R, WIDTH, HEIGHT, STROKE_W, GAP;
 
 function calculateDimensions() {
-  const height = document.body.clientHeight;
-  const width = document.body.clientWidth;
+  const height = document.body.clientHeight - 25;
+  const width = Math.min(document.body.clientWidth, MAX_WIDTH);
+
+  STROKE_W = Math.ceil((width / MAX_WIDTH) * 3);
+  GAP = 2 + STROKE_W;
 
   ROWS = Math.ceil(Math.sqrt((N * height) / width));
   COLS = Math.ceil(N / ROWS);
@@ -127,6 +129,10 @@ function arcPath(a, b) {
   ].join(" ");
 }
 
+function fadeIn(els, min = 0, max = 1) {
+  els.attr("opacity", min).transition().duration(500).attr("opacity", max);
+}
+
 function draw() {
   const svg = d3.select("#background svg");
 
@@ -140,11 +146,11 @@ function draw() {
     .append("g")
     .attr("transform", indexTransform);
 
-  games
+  const gameEls = games
     .append("polygon")
     .attr("points", hexPointsString(R - GAP))
     .attr("fill", "none")
-    .attr("stroke-width", "3")
+    .attr("stroke-width", STROKE_W)
     .attr("stroke", GREY);
   games
     .append("text")
@@ -154,6 +160,13 @@ function draw() {
     .style("font-size", Math.floor(R / 2) + "pt")
     .style("font-family", "'Open Sans', sans-serif");
   if (currentStep === STEPS.INIT) {
+    if (previousStep > currentStep) {
+      gameEls
+        .attr("stroke", (d) => (d["minutes"] > 0 ? BLUE : GREY))
+        .transition()
+        .duration(500)
+        .attr("stroke", GREY);
+    }
     return;
   }
 
@@ -168,9 +181,18 @@ function draw() {
     .attr("transform", indexTransform);
   strokePolygons
     .attr("fill", "none")
-    .attr("stroke-width", "3")
+    .attr("stroke-width", STROKE_W)
     .attr("stroke", BLUE);
   if (currentStep === STEPS.GAMES) {
+    if (previousStep < currentStep) {
+      fadeIn(strokePolygons);
+    } else if (previousStep > currentStep) {
+      strokePolygons
+        .attr("stroke", (d) => (d["minutes"] > 0 ? COLORS[getResult(d)] : GREY))
+        .transition()
+        .duration(500)
+        .attr("stroke", BLUE);
+    }
     return;
   }
 
@@ -178,21 +200,17 @@ function draw() {
   strokePolygons.attr("stroke", (d) =>
     d["minutes"] > 0 ? COLORS[getResult(d)] : GREY
   );
-  if (currentStep === STEPS.RESULT) {
-    return;
-  }
 
-  // Step 3: Position
+  // Create position polygons early to support fade out.
   const polygons = svg
     .append("g")
     .selectAll("polygon")
     .data(filteredData)
     .join("polygon")
-    .attr("points", hexPointsString(R))
+    .attr("points", hexPointsString(R+2))
     .attr("clip-path", "url(#hex-clip-9)")
-    .attr("transform", indexTransform);
-  strokePolygons.raise();
-  polygons
+    .attr("transform", indexTransform)
+    .attr("opacity", 0)
     .attr("fill", (d) => {
       if (d["minutes"] > 0) {
         return `url(#${d["position"]}-${getResult(d)})`;
@@ -201,7 +219,39 @@ function draw() {
       }
     })
     .attr("filter", (d, i) => `url(#waterColor${i % FILTER_N})`);
+  strokePolygons.raise();
+
+  if (currentStep === STEPS.RESULT) {
+    if (currentStep > previousStep) {
+    strokePolygons
+      .attr("stroke", BLUE)
+      .transition()
+      .duration(500)
+      .attr("stroke", (d) => (d["minutes"] > 0 ? COLORS[getResult(d)] : GREY));
+    } else if (currentStep < previousStep) {
+      fadeIn(polygons, 1, 0);
+    }
+    return;
+  }
+
+  // Step 3: Position
+  polygons.attr("opacity", 1);
   if (currentStep === STEPS.POSITION) {
+    if (currentStep > previousStep) {
+      fadeIn(polygons);
+    } else if (currentStep < previousStep) {
+      polygons
+        .transition()
+        .duration(500)
+        .attrTween("clip-path", (d, i, a) => {
+          return (val) => {
+            return `url(#hex-clip-${Math.min(
+              Math.ceil((d["minutes"] + val * (90 - d["minutes"])) / 10),
+              9
+            )})`;
+          };
+        });
+    }
     return;
   }
 
@@ -211,6 +261,19 @@ function draw() {
     (d) => `url(#hex-clip-${Math.min(Math.ceil(d["minutes"] / 10), 9)})`
   );
   if (currentStep === STEPS.MINUTES) {
+    if (currentStep > previousStep) {
+      polygons
+        .transition()
+        .duration(500)
+        .attrTween("clip-path", (d, i, a) => {
+          return (val) => {
+            return `url(#hex-clip-${Math.min(
+              Math.ceil((d["minutes"] + (1 - val) * (90 - d["minutes"])) / 10),
+              9
+            )})`;
+          };
+        });
+    }
     return;
   }
 
@@ -228,7 +291,7 @@ function draw() {
 
   // Step 6: Assists
   const assists = filteredData.filter((row) => row["assists"] > 0);
-  svg
+  const assistsEls = svg
     .append("g")
     .selectAll("path")
     .data(assists)
@@ -238,16 +301,19 @@ function draw() {
       return arcPath(3, 1) + " " + arcPath(5, 3) + " " + arcPath(1, 5);
     })
     .attr("stroke", "white")
-    .attr("opacity", 0.5)
     .attr("stroke-width", 2)
+    .attr("opacity", 0.5)
     .attr("fill", "none");
   if (currentStep === STEPS.ASSISTS) {
+    if (currentStep > previousStep) {
+      fadeIn(assistsEls, 0, 0.5);
+    }
     return;
   }
 
   // Step 7: Goals
   const goals = filteredData.filter((row) => row["goals"] > 0);
-  svg
+  const goalsEls = svg
     .append("g")
     .selectAll("path")
     .data(goals)
@@ -269,20 +335,27 @@ function draw() {
       );
     })
     .attr("stroke", "white")
-    .attr("opacity", 0.5)
     .attr("stroke-width", 2)
+    .attr("opacity", 0.5)
     .attr("fill", "none");
   if (currentStep === STEPS.GOALS) {
+    if (currentStep > previousStep) {
+      fadeIn(goalsEls, 0, 0.5);
+    }
     return;
   }
 
   // Step 8: Shield wins
-  games
+  const shieldEls = games
     .append("path")
     .filter((d) => SHIELD_SEASONS.includes(d["label"]))
     .attr("fill", BLUE)
-    .attr("d", SHIELD);
+    .attr("d", SHIELD)
+    .attr("transform", () => `scale(${0.3 + (1 * WIDTH) / MAX_WIDTH})`);
   if (currentStep === STEPS.SHIELD) {
+    if (currentStep > previousStep) {
+      fadeIn(shieldEls);
+    }
     return;
   }
 }
@@ -343,7 +416,7 @@ function addFilters(defs) {
 
 function addClipPaths(defs) {
   for (let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
-    const points = hexPoints((Math.sqrt(i) / 3) * 0.43, [0.5, 0.5], 1.2).map(
+    const points = hexPoints((Math.sqrt(i) / 3) * 0.4, [0.5, 0.5], 1.2).map(
       (p, i) => (i === 0 ? "M " : "L ") + p.join(",")
     );
 
@@ -378,6 +451,7 @@ function setupSvg() {
 }
 
 let currentStep = STEPS.INIT;
+let previousStep = undefined;
 let data;
 
 function addScrollListeners() {
@@ -385,6 +459,7 @@ function addScrollListeners() {
     const observer = new IntersectionObserver(
       (entry) => {
         if (entry[0].isIntersecting) {
+          previousStep = currentStep;
           currentStep = i;
           draw();
         }
