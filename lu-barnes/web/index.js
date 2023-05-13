@@ -288,7 +288,7 @@ function draw() {
     if (d["goals_against"] === 0 || d["minutes"] <= 0) {
       return "none";
     } else {
-      return d["goals_for"] * 4 + "," + d["goals_against"] * 4;
+      return 8+ "," + d["goals_against"] * 4;
     }
   });
   if (currentStep === STEPS.GOAL_DIFF) {
