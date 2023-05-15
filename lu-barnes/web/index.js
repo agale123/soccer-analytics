@@ -138,8 +138,15 @@ function draw() {
 
   svg.selectAll("g").remove();
 
+  // Define layer order at the beginning for proper layering.
+  const positionGroup = svg.append("g").attr("class", "position");
+  const gamesGroup = svg.append("g").attr("class", "games");
+  const strokeGroup = svg.append("g").attr("class", "stroke");
+  const assistsGroup = svg.append("g").attr("class", "assists");
+  const goalsGroup = svg.append("g").attr("class", "goals");
+
   // Step 0: All Reign games
-  const games = svg
+  const games = gamesGroup
     .selectAll("g")
     .data(data)
     .enter()
@@ -172,8 +179,7 @@ function draw() {
 
   // Step 1: Games played
   const filteredData = data.filter((g) => g["minutes"] > 0);
-  const strokePolygons = svg
-    .append("g")
+  const strokePolygons = strokeGroup
     .selectAll("polygon")
     .data(filteredData)
     .join("polygon")
@@ -202,8 +208,7 @@ function draw() {
   );
 
   // Create position polygons early to support fade out.
-  const polygons = svg
-    .append("g")
+  const polygons = positionGroup
     .selectAll("polygon")
     .data(filteredData)
     .join("polygon")
@@ -219,8 +224,6 @@ function draw() {
       }
     })
     .attr("filter", (d, i) => `url(#waterColor${i % FILTER_N})`);
-  gamePolygons.raise();
-  strokePolygons.raise();
 
   if (currentStep === STEPS.RESULT) {
     if (currentStep > previousStep) {
@@ -298,8 +301,7 @@ function draw() {
 
   // Step 6: Assists
   const assists = filteredData.filter((row) => row["assists"] > 0);
-  const assistsEls = svg
-    .append("g")
+  const assistsEls = assistsGroup
     .selectAll("path")
     .data(assists)
     .join("path")
@@ -320,8 +322,7 @@ function draw() {
 
   // Step 7: Goals
   const goals = filteredData.filter((row) => row["goals"] > 0);
-  const goalsEls = svg
-    .append("g")
+  const goalsEls = goalsGroup
     .selectAll("path")
     .data(goals)
     .join("path")
@@ -423,9 +424,11 @@ function addFilters(defs) {
 
 function addClipPaths(defs) {
   for (let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
-    const points = hexPoints((Math.sqrt(i) / 3) * 0.33 + (5-STROKE_W)* 0.008, [0.5, 0.5], 1.2).map(
-      (p, i) => (i === 0 ? "M " : "L ") + p.join(",")
-    );
+    const points = hexPoints(
+      (Math.sqrt(i) / 3) * 0.33 + (5 - STROKE_W) * 0.008,
+      [0.5, 0.5],
+      1.2
+    ).map((p, i) => (i === 0 ? "M " : "L ") + p.join(","));
 
     defs
       .append("clipPath")
