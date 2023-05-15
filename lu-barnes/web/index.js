@@ -5,7 +5,7 @@ const MAX_WIDTH = 1200;
 let ROWS, COLS, R, WIDTH, HEIGHT, STROKE_W, GAP;
 
 function calculateDimensions() {
-  const height = document.body.clientHeight - 25;
+  const height = document.body.clientHeight - 160;
   const width = Math.min(document.body.clientWidth, MAX_WIDTH);
 
   STROKE_W = Math.ceil((width / MAX_WIDTH) * 3);
@@ -146,7 +146,7 @@ function draw() {
     .append("g")
     .attr("transform", indexTransform);
 
-  const gameEls = games
+  const gamePolygons = games
     .append("polygon")
     .attr("points", hexPointsString(R - GAP))
     .attr("fill", "none")
@@ -161,7 +161,7 @@ function draw() {
     .style("font-family", "'Open Sans', sans-serif");
   if (currentStep === STEPS.INIT) {
     if (previousStep > currentStep) {
-      gameEls
+      gamePolygons
         .attr("stroke", (d) => (d["minutes"] > 0 ? BLUE : GREY))
         .transition()
         .duration(500)
@@ -207,7 +207,7 @@ function draw() {
     .selectAll("polygon")
     .data(filteredData)
     .join("polygon")
-    .attr("points", hexPointsString(R + 2))
+    .attr("points", hexPointsString(R + STROKE_W))
     .attr("clip-path", "url(#hex-clip-9)")
     .attr("transform", indexTransform)
     .attr("opacity", 0)
@@ -219,6 +219,7 @@ function draw() {
       }
     })
     .attr("filter", (d, i) => `url(#waterColor${i % FILTER_N})`);
+  gamePolygons.raise();
   strokePolygons.raise();
 
   if (currentStep === STEPS.RESULT) {
@@ -288,7 +289,7 @@ function draw() {
     if (d["goals_against"] === 0 || d["minutes"] <= 0) {
       return "none";
     } else {
-      return 8+ "," + d["goals_against"] * 4;
+      return 8 + "," + d["goals_against"] * 4;
     }
   });
   if (currentStep === STEPS.GOAL_DIFF) {
@@ -422,7 +423,7 @@ function addFilters(defs) {
 
 function addClipPaths(defs) {
   for (let i of [1, 2, 3, 4, 5, 6, 7, 8, 9]) {
-    const points = hexPoints((Math.sqrt(i) / 3) * 0.38, [0.5, 0.5], 1.2).map(
+    const points = hexPoints((Math.sqrt(i) / 3) * 0.33 + (5-STROKE_W)* 0.008, [0.5, 0.5], 1.2).map(
       (p, i) => (i === 0 ? "M " : "L ") + p.join(",")
     );
 
