@@ -35,6 +35,15 @@ h2 {
   justify-content: space-between;
 }
 
+#host {
+  flex-grow: 1;
+  width: 100%;
+  margin: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
 #scroll {
   display: flex;
   flex-direction: column;

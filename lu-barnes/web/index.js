@@ -1,18 +1,19 @@
-const N = 230;
+const N = 210;
 const FILTER_N = 20;
 const MAX_WIDTH = 1200;
 
 let ROWS, COLS, R, WIDTH, HEIGHT, STROKE_W, GAP;
 
 function calculateDimensions() {
-  const height = document.body.clientHeight - 160;
-  const width = Math.min(document.body.clientWidth, MAX_WIDTH);
+  const hostEl = document.querySelector("#host");
+  const height = hostEl.clientHeight;
+  const width = Math.min(hostEl.clientWidth, MAX_WIDTH);
 
   STROKE_W = Math.ceil((width / MAX_WIDTH) * 3);
   GAP = 2 + STROKE_W;
 
-  ROWS = Math.ceil(Math.sqrt((N * height) / width));
-  COLS = Math.ceil(N / ROWS);
+  ROWS = Math.ceil(Math.sqrt((N * height) / width / 0.85));
+  COLS = Math.ceil(N / ROWS/0.95);
   R = Math.floor(width / COLS / 2);
   WIDTH = (COLS + 0.5) * R * Math.sqrt(3);
   HEIGHT = ((ROWS + 0.5) * R * 3) / 2;
