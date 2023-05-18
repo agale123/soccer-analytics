@@ -1,0 +1,553 @@
+number,position,name,birthday,age,caps,goals,club,country
+1,GK,Solène Durand,20 November 1994,24,0,0,France Guingamp,France
+2,DF,Ève Périsset,24 December 1994,24,14,0,France Paris Saint-Germain,France
+3,DF,Wendie Renard,20 July 1990,28,109,20,France Lyon,France
+4,DF,Marion Torrent,17 April 1992,27,21,0,France Montpellier,France
+5,DF,Aïssatou Tounkara,16 March 1995,24,11,0,Spain Atlético Madrid,France
+6,MF,Amandine Henry,28 September 1989,29,83,11,France Lyon,France
+7,DF,Sakina Karchaoui,26 January 1996,23,24,0,France Montpellier,France
+8,MF,Grace Geyoro,2 July 1997,21,21,1,France Paris Saint-Germain,France
+9,FW,Eugénie Le Sommer,18 May 1989,30,159,73,France Lyon,France
+10,DF,Amel Majri,25 January 1993,26,46,4,France Lyon,France
+11,FW,Kadidiatou Diani,1 April 1995,24,46,5,France Paris Saint-Germain,France
+12,FW,Emelyne Laurent,4 November 1998,20,4,0,France Guingamp,France
+13,FW,Valérie Gauvin,1 June 1996,23,18,10,France Montpellier,France
+14,MF,Charlotte Bilbault,5 June 1990,29,15,0,France Paris FC,France
+15,MF,Élise Bussaglia,24 September 1985,33,187,29,France Dijon,France
+16,GK,Sarah Bouhaddi,17 October 1986,32,140,0,France Lyon,France
+17,MF,Gaëtane Thiney,28 October 1985,33,155,58,France Paris FC,France
+18,FW,Viviane Asseyi,20 November 1993,25,31,4,France Bordeaux,France
+19,DF,Griedge Mbock Bathy,26 February 1995,24,50,4,France Lyon,France
+20,FW,Delphine Cascarino,5 February 1997,22,12,1,France ,France
+21,GK,Pauline Peyraud-Magnin,17 March 1992,27,1,0,England Arsenal,France
+22,DF,Julie Debever,18 April 1988,31,2,0,France Guingamp,France
+23,MF,Maéva Clemaron,10 November 1992,26,3,0,France Fleury,France
+1,GK,Tochukwu Oluehi,2 May 1987,32,,,Nigeria Rivers Angels,Nigeria
+2,MF,Amarachi Okoronkwo,12 December 1992,26,,,Nigeria Nasarawa Amazons,Nigeria
+3,DF,Osinachi Ohale,21 December 1991,27,26,1,Sweden Växjö,Nigeria
+4,DF,Ngozi Ebere,5 August 1991,27,20,1,Norway Arna-Bjørnar,Nigeria
+5,DF,Onome Ebi,8 May 1983,36,81,0,China Henan Huishang,Nigeria
+6,MF,Evelyn Nwabuoku,14 November 1985,33,42,3,Nigeria Rivers Angels,Nigeria
+7,FW,Anam Imo,30 November 2000,18,,,Sweden Rosengård,Nigeria
+8,FW,Asisat Oshoala,9 October 1994,24,17,11,Spain Barcelona,Nigeria
+9,FW,Desire Oparanozie,17 December 1993,25,35,22,France Guingamp,Nigeria
+10,MF,Rita Chikwelu,6 March 1988,31,33,15,Sweden Kristianstads,Nigeria
+11,FW,Chinaza Uchendu,3 December 1997,21,,,Portugal Braga,Nigeria
+12,FW,Uchenna Kanu,27 June 1997,21,1,0,United States Southeastern Fire,Nigeria
+13,MF,Ngozi Okobi-Okeoghene,14 December 1993,25,27,4,Sweden Eskilstuna United,Nigeria
+14,DF,Faith Michael,28 February 1987,32,53,0,Sweden Piteå,Nigeria
+15,FW,Rasheedat Ajibade,8 December 1999,19,,,Norway Avaldsnes,Nigeria
+16,GK,Chiamaka Nnadozie,8 December 2000,18,,,Nigeria Rivers Angels,Nigeria
+17,FW,Francisca Ordega,19 October 1993,25,26,7,China Shanghai [zh],Nigeria
+18,MF,Halimatu Ayinde,16 May 1995,24,12,0,Sweden Eskilstuna United,Nigeria
+19,FW,Chinwendu Ihezuo,30 April 1997,22,,,China Henan Huishang,Nigeria
+20,DF,Chidinma Okeke,11 August 2000,18,,,Nigeria Robo Queens,Nigeria
+21,GK,Alaba Jonathan,1 June 1992,27,,,Nigeria Bayelsa Queens,Nigeria
+22,FW,Alice Ogebe,30 March 1995,24,7,0,Nigeria Rivers Angels,Nigeria
+23,MF,Ogonna Chukwudi,14 September 1988,30,20,3,Sweden Djurgården,Nigeria
+1,GK,Ingrid Hjelmseth,10 April 1980,39,132,0,Norway Stabæk,Norway
+2,DF,Ingrid Moe Wold,29 January 1990,29,60,3,Norway LSK Kvinner,Norway
+3,DF,Maria Thorisdottir,5 June 1993,26,32,1,England Chelsea,Norway
+4,DF,Stine Hovland,31 January 1991,28,7,0,Norway Sandviken,Norway
+5,MF,Synne Skinnes Hansen,12 August 1995,23,14,0,Norway LSK Kvinner,Norway
+6,DF,Maren Mjelde,6 November 1989,29,136,19,England Chelsea,Norway
+7,FW,Elise Thorsnes,14 August 1988,30,116,19,Norway LSK Kvinner,Norway
+8,MF,Vilde Bøe Risa,13 July 1995,23,19,2,Sweden Kopparbergs/Göteborg,Norway
+9,FW,Isabell Herlovsen,23 June 1988,30,126,60,Norway Kolbotn,Norway
+10,FW,Caroline Graham Hansen,18 February 1995,24,72,25,Germany VfL Wolfsburg,Norway
+11,FW,Lisa-Marie Karlseng Utland,19 September 1992,26,41,14,Sweden Rosengård,Norway
+12,GK,Cecilie Fiskerstrand,20 March 1996,23,21,0,Norway LSK Kvinner,Norway
+13,FW,Therese Åsland,26 August 1995,23,6,1,Norway LSK Kvinner,Norway
+14,MF,Ingrid Syrstad Engen,29 April 1998,21,16,2,Norway LSK Kvinner,Norway
+15,MF,Amalie Eikeland,26 August 1995,23,6,0,Norway Sandviken,Norway
+16,FW,Guro Reiten,26 July 1994,24,37,5,Norway LSK Kvinner,Norway
+17,MF,Kristine Minde,8 August 1992,26,97,9,Germany VfL Wolfsburg,Norway
+18,MF,Frida Maanum,16 July 1999,19,20,0,Sweden Linköping,Norway
+19,DF,Cecilie Redisch Kvamme,9 November 1995,23,3,0,Norway Sandviken,Norway
+20,FW,Emilie Haavi,16 June 1992,26,82,16,Norway LSK Kvinner,Norway
+21,MF,Karina Sævik,24 March 1996,23,4,1,Norway Kolbotn,Norway
+22,FW,Emilie Nautnes,13 January 1999,20,6,1,Norway Arna-Bjørnar,Norway
+23,GK,Oda Maria Hove Bogstad,24 April 1996,23,0,0,Norway Arna-Bjørnar,Norway
+1,GK,Kang Ga-ae,10 December 1990,28,13,0,South Korea Gumi Sportstoto,South Korea
+2,DF,Lee Eun-mi,18 August 1988,30,87,14,South Korea Suwon UDC,South Korea
+3,DF,Jeong Yeong-a,9 December 1990,28,12,0,South Korea Gyeongju KHNP,South Korea
+4,DF,Hwang Bo-ram,6 October 1987,31,42,0,South Korea Hwacheon KSPO,South Korea
+5,DF,Kim Do-yeon,7 December 1988,30,79,1,South Korea Hyundai Steel Red Angels,South Korea
+6,DF,Lim Seon-joo,27 November 1990,28,76,5,South Korea Hyundai Steel Red Angels,South Korea
+7,MF,Lee Min-a,8 November 1991,27,56,14,Japan INAC Kobe Leonessa,South Korea
+8,MF,Cho So-hyun,24 June 1988,30,120,20,England West Ham United,South Korea
+9,MF,Moon Mi-ra,28 February 1992,27,22,11,South Korea Suwon UDC,South Korea
+10,FW,Ji So-yun,21 February 1991,28,115,54,England Chelsea,South Korea
+11,FW,Jung Seol-bin,6 January 1990,29,74,21,South Korea Hyundai Steel Red Angels,South Korea
+12,FW,Kang Yu-mi,5 October 1991,27,25,8,South Korea Hwacheon KSPO,South Korea
+13,FW,Yeo Min-ji,27 April 1993,26,34,12,South Korea Suwon UDC,South Korea
+14,DF,Shin Dam-yeong,2 October 1993,25,37,1,South Korea Hyundai Steel Red Angels,South Korea
+15,MF,Lee Young-ju,22 April 1992,27,28,2,South Korea Hyundai Steel Red Angels,South Korea
+16,DF,Jang Sel-gi,31 May 1994,25,54,11,South Korea Hyundai Steel Red Angels,South Korea
+17,FW,Lee Geum-min,7 April 1994,25,50,16,South Korea Gyeongju KHNP,South Korea
+18,GK,Kim Min-jeong,12 September 1996,22,2,0,South Korea Hyundai Steel Red Angels,South Korea
+19,MF,Lee So-dam,12 October 1994,24,49,5,South Korea Hyundai Steel Red Angels,South Korea
+20,DF,Kim Hye-ri,25 June 1990,28,80,1,South Korea Hyundai Steel Red Angels,South Korea
+21,GK,Jung Bo-ram,22 July 1991,27,3,0,South Korea Hwacheon KSPO,South Korea
+22,FW,Son Hwa-yeon,15 March 1997,22,20,7,South Korea Changnyeong,South Korea
+23,FW,Kang Chae-rim,23 March 1998,21,1,0,South Korea Hyundai Steel Red Angels,South Korea
+1,GK,Xu Huan,6 March 1999,20,1,0,China Beijing Phoenix,China
+2,DF,Liu Shanshan,16 March 1992,27,110,1,China Beijing Phoenix,China
+3,DF,Lin Yuping,28 February 1992,27,13,0,China Wuhan Jianghan University,China
+4,MF,Lou Jiahui,26 May 1991,28,112,4,China Henan Huishang,China
+5,DF,Wu Haiyan,26 February 1993,26,114,0,China Wuhan Jianghan University,China
+6,DF,Han Peng,20 December 1989,29,93,4,China Guangdong Huijun,China
+7,MF,Wang Shuang,23 January 1995,24,96,26,France Paris Saint-Germain,China
+8,DF,Li Jiayue,8 June 1990,28,67,1,China Shanghai [zh],China
+9,FW,Yang Li,26 February 1993,26,59,31,China Jiangsu Suning [zh],China
+10,FW,Li Ying,7 January 1993,26,108,26,China Guangdong Huijun,China
+11,FW,Wang Shanshan,27 January 1990,29,132,46,China Dalian Quanjian,China
+12,GK,Peng Shimeng,12 May 1998,21,15,0,China Jiangsu Suning [zh],China
+13,MF,Wang Yan,22 August 1991,27,28,0,China Beijing Phoenix,China
+14,DF,Wang Ying,18 November 1997,21,4,0,China Wuhan Jianghan University,China
+15,FW,Song Duan,2 August 1995,23,23,7,China Dalian Quanjian,China
+16,MF,Li Wen,21 February 1989,30,32,3,China Dalian Quanjian,China
+17,MF,Gu Yasha,28 November 1990,28,117,13,China Beijing Phoenix,China
+18,GK,Bi Xiaolin,18 September 1989,29,35,0,China Dalian Quanjian,China
+19,MF,Tan Ruyin,17 July 1994,24,52,1,China Guangdong Huijun,China
+20,MF,Zhang Rui,17 January 1989,30,145,24,China Changchun Zhuoyue,China
+21,MF,Yao Wei,1 September 1997,21,14,3,China Wuhan Jianghan University,China
+22,DF,Luo Guiping,20 April 1993,26,1,0,China Guangdong Huijun,China
+23,MF,Liu Yanqiu,31 December 1995,23,2,0,China Wuhan Jianghan University,China
+1,GK,Almuth Schult,9 February 1991,28,59,0,Germany VfL Wolfsburg,Germany
+2,DF,Carolin Simon,24 November 1992,26,15,3,France Lyon,Germany
+3,DF,Kathrin Hendrich,6 April 1992,27,29,4,Germany Bayern Munich,Germany
+4,DF,Leonie Maier,29 September 1992,26,69,10,Germany Bayern Munich,Germany
+5,DF,Marina Hegering,17 April 1990,29,3,0,Germany SGS Essen,Germany
+6,MF,Lena Oberdorf,19 December 2001,17,3,0,Germany SGS Essen,Germany
+7,FW,Lea Schüller,12 November 1997,21,13,8,Germany SGS Essen,Germany
+8,MF,Lena Goeßling,8 March 1986,33,105,10,Germany VfL Wolfsburg,Germany
+9,FW,Svenja Huth,25 January 1991,28,44,7,Germany Turbine Potsdam,Germany
+10,MF,Dzsenifer Marozsán,18 April 1992,27,90,32,France Lyon,Germany
+11,FW,Alexandra Popp,6 April 1991,28,96,46,Germany VfL Wolfsburg,Germany
+12,GK,Laura Benkarth,14 October 1992,26,8,0,Germany Bayern Munich,Germany
+13,MF,Sara Däbritz,15 February 1995,24,60,10,Germany Bayern Munich,Germany
+14,DF,Johanna Elsig,1 November 1992,26,12,0,Germany Turbine Potsdam,Germany
+15,DF,Giulia Gwinn,2 July 1999,19,8,1,Germany SC Freiburg,Germany
+16,MF,Linda Dallmann,2 September 1994,24,21,5,Germany SGS Essen,Germany
+17,DF,Verena Schweers,22 May 1989,30,44,3,Germany Bayern Munich,Germany
+18,MF,Melanie Leupolz,14 April 1994,25,58,8,Germany Bayern Munich,Germany
+19,FW,Klara Bühl,7 December 2000,18,2,0,Germany SC Freiburg,Germany
+20,MF,Lina Magull,15 August 1994,24,31,7,Germany Bayern Munich,Germany
+21,GK,Merle Frohms,28 January 1995,24,4,0,Germany SC Freiburg,Germany
+22,FW,Turid Knaak,24 January 1991,28,8,1,Germany SGS Essen,Germany
+23,DF,Sara Doorsoun,17 November 1991,27,25,0,Germany VfL Wolfsburg,Germany
+1,GK,Mapaseka Mpuru,9 April 1998,21,0,0,South Africa University of Pretoria,South Africa
+2,DF,Lebogang Ramalepe,3 December 1991,27,63,1,South Africa MaIndies,South Africa
+3,DF,Nothando Vilakazi,28 October 1988,30,130,6,Lithuania Gintra Universitetas,South Africa
+4,DF,Noko Matlou,30 September 1985,33,153,61,South Africa MaIndies,South Africa
+5,DF,Janine van Wyk,17 April 1987,32,166,11,South Africa JVW,South Africa
+6,MF,Mamello Makhabane,24 February 1988,31,96,18,South Africa JVW,South Africa
+7,MF,Karabo Dhlamini,18 September 2001,17,5,0,South Africa Mamelodi Sundowns,South Africa
+8,FW,Ode Fulutudilu,6 February 1990,29,12,1,Spain Málaga,South Africa
+9,FW,Amanda Mthandi,23 May 1996,23,10,2,South Africa University of Johannesburg,South Africa
+10,FW,Linda Motlhalo,1 July 1998,20,43,9,China Beijing Phoenix,South Africa
+11,FW,Thembi Kgatlana,2 May 1996,23,53,7,China Beijing Phoenix,South Africa
+12,FW,Jermaine Seoposenwe,12 October 1993,25,74,6,Lithuania Gintra Universitetas,South Africa
+13,MF,Bambanani Mbane,12 March 1990,29,44,0,South Africa Bloemfontein Celtic,South Africa
+14,DF,Tiisetso Makhubela,24 April 1997,22,2,0,South Africa Mamelodi Sundowns,South Africa
+15,MF,Refiloe Jane,4 August 1992,26,105,12,Unattached,South Africa
+16,GK,Andile Dlamini,2 September 1992,26,38,0,South Africa Mamelodi Sundowns,South Africa
+17,MF,Leandra Smeda,22 July 1989,29,95,10,Sweden Vittsjö,South Africa
+18,DF,Bongeka Gamede,22 May 1999,20,1,0,South Africa University of the Western Cape,South Africa
+19,MF,Kholosa Biyana,16 April 1994,25,18,1,South Africa University of KwaZulu-Natal,South Africa
+20,GK,Kaylin Swart,30 September 1994,24,18,0,South Africa Golden Stars,South Africa
+21,FW,Busisiwe Ndimeni,25 June 1991,27,27,0,South Africa Tshwane University of Technology,South Africa
+22,FW,Rhoda Mulaudzi,2 December 1989,29,23,0,Unattached,South Africa
+23,MF,Sibulele Holweni,28 April 2001,18,2,0,South Africa Sophakama Ladies/HPC,South Africa
+1,GK,Lola Gallardo,10 June 1993,25,29,0,Spain Atlético Madrid,Spain
+2,DF,Celia Jiménez,20 June 1995,23,22,0,United States Reign FC,Spain
+3,DF,Leila Ouahabi,22 March 1993,26,27,1,Spain Barcelona,Spain
+4,DF,Irene Paredes,4 July 1991,27,62,8,France Paris Saint-Germain,Spain
+5,DF,Ivana Andrés,13 July 1994,24,21,0,Spain Levante,Spain
+6,MF,Vicky Losada,5 March 1991,28,62,13,Spain Barcelona,Spain
+7,DF,Marta Corredera,8 August 1991,27,67,5,Spain Levante,Spain
+8,DF,Marta Torrejón,27 February 1990,29,86,9,Spain Barcelona,Spain
+9,FW,Mariona Caldentey,19 March 1996,23,21,2,Spain Barcelona,Spain
+10,FW,Jennifer Hermoso,9 May 1990,29,67,28,Spain Atlético Madrid,Spain
+11,FW,Alexia Putellas,4 February 1994,25,66,13,Spain Barcelona,Spain
+12,MF,Patricia Guijarro,17 May 1998,21,17,3,Spain Barcelona,Spain
+13,GK,Sandra Paños,4 November 1992,26,29,0,Spain Barcelona,Spain
+14,MF,Virginia Torrecilla,4 September 1994,24,54,6,France Montpellier,Spain
+15,MF,Silvia Meseguer,12 March 1989,30,65,5,Spain Atlético Madrid,Spain
+16,DF,María Pilar León,13 June 1995,23,24,0,Spain Barcelona,Spain
+17,FW,Lucía García,14 July 1998,20,14,0,Spain Athletic Bilbao,Spain
+18,MF,Aitana Bonmatí,18 January 1998,21,13,1,Spain Barcelona,Spain
+19,FW,Amanda Sampedro,26 June 1993,25,46,11,Spain Atlético Madrid,Spain
+20,DF,Andrea Pereira,19 September 1993,25,26,0,Spain Barcelona,Spain
+21,MF,Andrea Falcón,28 February 1997,22,7,1,Spain Atlético Madrid,Spain
+22,FW,Nahikari García,10 March 1997,22,8,1,Spain Real Sociedad,Spain
+23,GK,María Asunción Quiñones,29 October 1996,22,3,0,Spain Real Sociedad,Spain
+1,GK,Lydia Williams,13 May 1988,31,78,0,United States Reign FC,Australia
+2,DF,Gema Simon,19 July 1990,28,11,0,Australia Newcastle Jets,Australia
+3,MF,Aivi Luik,18 March 1985,34,21,0,Spain Levante,Australia
+4,DF,Clare Polkinghorne,1 February 1989,30,117,9,United States Houston Dash,Australia
+5,DF,Karly Roestbakken,17 January 2001,18,0,0,Australia Canberra United,Australia
+6,MF,Chloe Logarzo,22 December 1994,24,38,6,United States Washington Spirit,Australia
+7,DF,Steph Catley,26 January 1994,25,72,2,United States Reign FC,Australia
+8,MF,Elise Kellond-Knight,10 August 1990,28,106,1,United States Reign FC,Australia
+9,FW,Caitlin Foord,11 November 1994,24,72,16,United States Portland Thorns,Australia
+10,MF,Emily van Egmond,12 July 1993,25,86,18,United States Orlando Pride,Australia
+11,FW,Lisa De Vanna,14 November 1984,34,148,47,Australia Sydney FC,Australia
+12,GK,Teagan Micah,20 October 1997,21,0,0,United States UCLA Bruins,Australia
+13,MF,Tameka Yallop,16 June 1991,27,79,10,Norway Klepp,Australia
+14,DF,Alanna Kennedy,21 January 1995,24,78,7,United States Orlando Pride,Australia
+15,FW,Emily Gielnik,13 May 1992,27,29,7,Australia Melbourne Victory,Australia
+16,FW,Hayley Raso,5 September 1994,24,35,3,United States Portland Thorns,Australia
+17,MF,Mary Fowler,14 February 2003,16,4,0,Australia Bankstown City,Australia
+18,GK,Mackenzie Arnold,25 February 1994,25,23,0,Australia Brisbane Roar,Australia
+19,MF,Katrina Gorry,13 August 1992,26,74,14,Australia Brisbane Roar,Australia
+20,FW,Sam Kerr,10 September 1993,25,77,31,United States Chicago Red Stars,Australia
+21,DF,Ellie Carpenter,28 April 2000,19,32,1,United States Portland Thorns,Australia
+22,MF,Amy Harrison,21 April 1996,23,10,0,United States Washington Spirit,Australia
+23,DF,Teigen Allen,12 February 1994,25,40,0,Australia Melbourne Victory,Australia
+1,GK,Bárbara,4 July 1988,30,70,0,Brazil Kindermann,Brazil
+2,DF,Poliana,6 February 1991,28,61,5,Brazil São José,Brazil
+3,DF,Daiane,7 September 1997,21,4,0,France Paris Saint-Germain,Brazil
+4,DF,Tayla,9 May 1992,27,17,1,Portugal Benfica,Brazil
+5,MF,Thaisa,17 December 1988,30,78,5,Italy Milan,Brazil
+6,DF,Tamires,10 October 1987,31,90,4,Denmark Fortuna Hjørring,Brazil
+7,FW,Andressa,10 November 1992,26,82,18,Spain Barcelona,Brazil
+8,MF,Formiga,3 March 1978,41,186,26,France Paris Saint-Germain,Brazil
+9,FW,Debinha,20 October 1991,27,81,28,United States North Carolina Courage,Brazil
+10,FW,Marta,19 February 1986,33,144,105,United States Orlando Pride,Brazil
+11,FW,Cristiane,15 May 1985,34,138,89,Brazil São Paulo,Brazil
+12,GK,Aline,15 April 1989,30,8,0,Spain Granadilla,Brazil
+13,DF,Letícia Santos,2 December 1994,24,20,0,Germany SC Sand,Brazil
+14,DF,Kathellen,26 April 1996,23,4,0,France Bordeaux,Brazil
+15,DF,Camila,10 October 1994,24,17,2,United States Orlando Pride,Brazil
+16,FW,Beatriz,17 December 1993,25,68,22,South Korea Hyundai Steel Red Angels,Brazil
+17,MF,Andressinha,1 May 1995,24,69,10,United States Portland Thorns,Brazil
+18,MF,Luana,2 May 1993,26,7,0,South Korea Hwacheon KSPO,Brazil
+19,FW,Ludmila,11 December 1994,24,12,1,Spain Atlético Madrid,Brazil
+20,FW,Raquel,21 March 1991,28,46,8,Spain Sporting Huelva,Brazil
+21,DF,Mônica,21 April 1987,32,58,9,Brazil Corinthians,Brazil
+22,GK,Letícia Izidoro,13 August 1994,24,1,0,Brazil Corinthians,Brazil
+23,FW,Geyse,27 March 1998,21,7,0,Portugal Benfica,Brazil
+1,GK,Laura Giuliani,6 June 1993,26,35,0,Italy Juventus,Italy
+2,MF,Valentina Bergamaschi,22 January 1997,22,15,3,Italy Milan,Italy
+3,DF,Sara Gama,27 March 1989,30,96,5,Italy Juventus,Italy
+4,MF,Aurora Galli,13 December 1996,22,23,1,Italy Juventus,Italy
+5,DF,Elena Linari,15 April 1994,25,29,0,Spain Atlético Madrid,Italy
+6,MF,Martina Rosucci,9 May 1992,27,36,1,Italy Juventus,Italy
+7,DF,Alia Guagni,1 October 1987,31,62,5,Italy Fiorentina,Italy
+8,MF,Alice Parisi,11 December 1990,28,46,5,Italy Fiorentina,Italy
+9,FW,Daniela Sabatino,26 June 1985,33,46,21,Italy Milan,Italy
+10,FW,Cristiana Girelli,23 April 1990,29,52,28,Italy Juventus,Italy
+11,FW,Barbara Bonansea,13 June 1991,27,49,17,Italy Juventus,Italy
+12,GK,Chiara Marchitelli,4 May 1985,34,40,0,Italy Florentia,Italy
+13,DF,Elisa Bartoli,7 May 1991,28,46,1,Italy Roma,Italy
+14,FW,Stefania Tarenzi,29 February 1988,31,3,1,Italy ChievoVerona Valpo [it],Italy
+15,MF,Annamaria Serturini,13 May 1998,21,0,0,Italy Roma,Italy
+16,DF,Laura Fusetti,8 October 1990,28,0,0,Italy Milan,Italy
+17,DF,Lisa Boattin,3 May 1997,22,11,0,Italy Juventus,Italy
+18,FW,Ilaria Mauro,22 May 1988,31,25,8,Italy Fiorentina,Italy
+19,FW,Valentina Giacinti,2 January 1994,25,20,3,Italy Milan,Italy
+20,DF,Linda Tucceri Cimini,4 April 1991,28,8,1,Italy Milan,Italy
+21,MF,Valentina Cernoia,22 June 1991,27,31,6,Italy Juventus,Italy
+22,GK,Rosalia Pipitone,3 August 1985,33,3,0,Italy Roma,Italy
+23,MF,Manuela Giugliano,18 August 1997,21,21,3,Italy Milan,Italy
+1,GK,Sydney Schneider,31 August 1999,19,11,0,United States UNC Wilmington Seahawks,Jamaica
+2,DF,Lauren Silver,22 March 1993,26,19,1,Norway Trondheims-Ørn,Jamaica
+3,FW,Chanel Hudson-Marks,14 September 1997,21,4,0,United States Memphis Tigers,Jamaica
+4,MF,Chantelle Swaby,6 August 1998,20,10,0,United States Rutgers Scarlet Knights,Jamaica
+5,DF,Konya Plummer,2 August 1997,21,17,1,United States UCF Knights,Jamaica
+6,MF,Havana Solaun,23 March 1993,26,2,0,Norway Klepp,Jamaica
+7,MF,Chinyelu Asher,20 May 1993,26,23,3,Norway Stabæk,Jamaica
+8,FW,Ashleigh Shim,11 November 1993,25,6,1,Unattached,Jamaica
+9,MF,Marlo Sweatman,1 December 1994,24,14,3,Hungary Szent Mihály,Jamaica
+10,FW,Jody Brown,16 April 2002,17,13,8,United States Montverde Academy,Jamaica
+11,FW,Khadija Shaw,31 January 1997,22,22,31,United States Tennessee Volunteers,Jamaica
+12,DF,Sashana Campbell,2 March 1991,28,9,2,Israel Maccabi Kishronot Hadera,Jamaica
+13,GK,Nicole McClure,16 November 1989,29,10,0,Northern Ireland Sion Swifts,Jamaica
+14,DF,Deneisha Blackwood,7 March 1997,22,14,2,United States West Florida Argonauts,Jamaica
+15,FW,Tiffany Cameron,16 October 1991,27,3,0,Norway Stabæk,Jamaica
+16,DF,Dominique Bond-Flasza,11 September 1996,22,17,2,Netherlands PSV,Jamaica
+17,DF,Allyson Swaby,3 October 1996,22,10,0,Italy Roma,Jamaica
+18,FW,Trudi Carter,18 November 1994,24,14,3,Italy Roma,Jamaica
+19,MF,Toriana Patterson,2 February 1994,25,10,0,Italy Pink Sport Time,Jamaica
+20,FW,Cheyna Matthews,10 November 1993,25,3,0,United States Washington Spirit,Jamaica
+21,MF,Olufolasade Adamolekun,21 February 2001,18,4,0,United States United Soccer Alliance,Jamaica
+22,FW,Mireya Grey,7 September 1998,20,1,0,United States Seattle Sounders,Jamaica
+23,GK,Yazmeen Jamieson,17 March 1998,21,3,0,New Zealand Papakura City,Jamaica
+1,GK,Vanina Correa,14 August 1983,35,31,0,Argentina Rosario Central,Argentina
+2,DF,Agustina Barroso,20 May 1993,26,36,0,Spain Madrid CFF,Argentina
+3,DF,Eliana Stábile,26 November 1993,25,13,2,Argentina Boca Juniors,Argentina
+4,DF,Adriana Sachs,25 December 1993,25,24,0,Argentina UAI Urquiza,Argentina
+5,MF,Vanesa Santana,3 September 1990,28,31,0,Spain Logroño,Argentina
+6,DF,Aldana Cometti,3 March 1996,23,32,3,Spain Sevilla,Argentina
+7,FW,Yael Oviedo,22 May 1992,27,24,2,Spain Rayo Vallecano,Argentina
+8,MF,Ruth Bravo,6 March 1992,27,18,1,Spain Tacón,Argentina
+9,FW,Sole Jaimes,20 January 1989,30,21,5,France Lyon,Argentina
+10,FW,Estefanía Banini,21 June 1990,28,32,9,Spain Levante,Argentina
+11,FW,Florencia Bonsegundo,14 July 1993,25,34,10,Spain Sporting Huelva,Argentina
+12,GK,Gaby Garton,27 May 1990,29,2,0,Unattached,Argentina
+13,DF,Virginia Gómez,26 February 1991,28,8,0,Argentina Rosario Central,Argentina
+14,MF,Miriam Mayorga,20 November 1989,29,9,0,Argentina UAI Urquiza,Argentina
+15,FW,Belén Potassa,12 December 1988,30,28,7,Argentina UAI Urquiza,Argentina
+16,MF,Lorena Benítez,3 December 1998,20,2,0,Argentina Boca Juniors,Argentina
+17,MF,Mariela Coronel,20 June 1981,37,34,2,Spain Granada,Argentina
+18,DF,Gabriela Chávez,9 April 1989,30,18,0,Argentina River Plate,Argentina
+19,DF,Mariana Larroquette,24 October 1992,26,36,8,Argentina UAI Urquiza,Argentina
+20,MF,Dalila Ippólito,24 March 2002,17,1,0,Argentina River Plate,Argentina
+21,DF,Natalie Juncos,28 December 1990,28,6,0,Unattached,Argentina
+22,FW,Milagros Menéndez,23 March 1997,22,3,0,Argentina UAI Urquiza,Argentina
+23,GK,Solana Pereyra,5 April 1999,20,0,0,Argentina UAI Urquiza,Argentina
+,Argentina1,GK,Karen Bardsley,14 October 1984,34,75,0,England Manchester City,England
+2,DF,Lucy Bronze,28 October 1991,27,67,7,France Lyon,England
+3,DF,Alex Greenwood,7 September 1993,25,36,2,England Manchester United,England
+4,MF,Keira Walsh,8 April 1997,22,15,0,England Manchester City,England
+5,DF,Steph Houghton,23 April 1988,31,105,12,England Manchester City,England
+6,DF,Millie Bright,21 August 1993,25,26,0,England Chelsea,England
+7,FW,Nikita Parris,10 March 1994,25,33,11,England Manchester City,England
+8,MF,Jill Scott,2 February 1987,32,135,22,England Manchester City,England
+9,FW,Jodie Taylor,17 May 1986,33,40,17,United States Reign FC,England
+10,MF,Fran Kirby,29 June 1993,25,38,12,England Chelsea,England
+11,FW,Toni Duggan,25 July 1991,27,72,22,Spain Barcelona,England
+12,DF,Demi Stokes,12 December 1991,27,49,1,England Manchester City,England
+13,GK,Carly Telford,7 July 1987,31,17,0,England Chelsea,England
+14,DF,Leah Williamson,29 March 1997,22,6,0,England Arsenal,England
+15,DF,Abbie McManus,14 January 1993,26,13,0,England Manchester City,England
+16,MF,Jade Moore,22 October 1990,28,45,1,England Reading,England
+17,DF,Rachel Daly,6 December 1991,27,21,3,United States Houston Dash,England
+18,FW,Ellen White,9 May 1989,30,81,28,England Birmingham City,England
+19,MF,Georgia Stanway,3 January 1999,20,7,1,England Manchester City,England
+20,MF,Karen Carney,1 August 1987,31,139,32,England Chelsea,England
+21,GK,Mary Earps,7 March 1993,26,5,0,Germany VfL Wolfsburg,England
+22,FW,Beth Mead,9 May 1995,24,13,5,England Arsenal,England
+23,MF,Lucy Staniforth,2 October 1992,26,9,2,England Birmingham City,England
+1,GK,Sakiko Ikeda,8 September 1992,26,14,0,Japan Urawa Red Diamonds,Japan
+2,MF,Rumi Utsugi,5 December 1988,30,113,6,United States Reign FC,Japan
+3,DF,Aya Sameshima,16 June 1987,31,109,5,Japan INAC Kobe Leonessa,Japan
+4,DF,Saki Kumagai,17 October 1990,28,104,0,France Lyon,Japan
+5,DF,Nana Ichise,4 August 1997,21,16,0,Japan Vegalta Sendai,Japan
+6,MF,Hina Sugita,31 January 1997,22,7,0,Japan INAC Kobe Leonessa,Japan
+7,MF,Emi Nakajima,27 September 1990,28,70,14,Japan INAC Kobe Leonessa,Japan
+8,FW,Mana Iwabuchi,18 March 1993,26,61,20,Japan INAC Kobe Leonessa,Japan
+9,FW,Yuika Sugasawa,5 October 1990,28,63,18,Japan Urawa Red Diamonds,Japan
+10,MF,Mizuho Sakaguchi,15 October 1987,31,124,29,Japan Nippon TV Beleza,Japan
+11,FW,Rikako Kobayashi,21 July 1997,21,5,2,Japan Nippon TV Beleza,Japan
+12,DF,Moeka Minami,7 December 1998,20,5,0,Japan Urawa Red Diamonds,Japan
+13,MF,Saori Takarada,27 December 1999,19,0,0,Japan Cerezo Osaka Sakai,Japan
+14,MF,Yui Hasegawa,29 January 1997,22,36,6,Japan Nippon TV Beleza,Japan
+15,FW,Yuka Momiki,9 April 1996,23,25,8,Japan Nippon TV Beleza,Japan
+16,DF,Asato Miyagawa,24 February 1998,21,5,0,Japan Nippon TV Beleza,Japan
+17,MF,Narumi Miura,3 July 1997,21,9,0,Japan Nippon TV Beleza,Japan
+18,GK,Ayaka Yamashita,29 September 1995,23,27,0,Japan Nippon TV Beleza,Japan
+19,FW,Jun Endo,24 May 2000,19,5,0,Japan Nippon TV Beleza,Japan
+20,FW,Kumi Yokoyama,13 August 1993,25,41,17,Japan AC Nagano Parceiro,Japan
+21,GK,Chika Hirao,31 December 1996,22,2,0,Japan Albirex Niigata,Japan
+22,DF,Risa Shimizu,15 June 1996,22,24,0,Japan Nippon TV Beleza,Japan
+23,DF,Shiori Miyake,13 October 1995,23,18,0,Japan INAC Kobe Leonessa,Japan
+1,GK,Lee Alexander,23 September 1991,27,17,0,Scotland Glasgow City,Scotland
+2,DF,Kirsty Smith,6 January 1994,25,35,0,England Manchester United,Scotland
+3,DF,Nicola Docherty,23 August 1992,26,19,0,Scotland Glasgow City,Scotland
+4,DF,Rachel Corsie,17 August 1989,29,109,16,United States Utah Royals,Scotland
+5,DF,Jen Beattie,13 May 1991,28,124,22,England Manchester City,Scotland
+6,MF,Joanne Love,6 December 1985,33,191,13,Scotland Glasgow City,Scotland
+7,DF,Hayley Lauder,4 June 1990,29,99,9,Scotland Glasgow City,Scotland
+8,MF,Kim Little,29 June 1990,28,133,53,England Arsenal,Scotland
+9,MF,Caroline Weir,20 June 1995,23,63,8,England Manchester City,Scotland
+10,MF,Leanne Crichton,6 August 1987,31,63,3,Scotland Glasgow City,Scotland
+11,FW,Lisa Evans,21 May 1992,27,78,17,England Arsenal,Scotland
+12,GK,Shannon Lynn,22 October 1985,33,30,0,Sweden Vittsjö,Scotland
+13,FW,Jane Ross,18 September 1989,29,127,58,England West Ham United,Scotland
+14,DF,Chloe Arthur,21 January 1995,24,19,0,England Birmingham City,Scotland
+15,DF,Sophie Howard,17 September 1993,25,14,1,England Reading,Scotland
+16,MF,Christie Murray,3 May 1990,29,61,4,England Liverpool,Scotland
+17,DF,Joelle Murray,7 November 1986,32,48,1,Scotland Hibernian,Scotland
+18,FW,Claire Emslie,8 March 1994,25,21,3,England Manchester City,Scotland
+19,FW,Lana Clelland,26 January 1993,26,25,3,Italy Fiorentina,Scotland
+20,FW,Fiona Brown,31 March 1995,24,37,2,Sweden Rosengård,Scotland
+21,GK,Jenna Fife,1 December 1995,23,4,0,Scotland Hibernian,Scotland
+22,FW,Erin Cuthbert,19 July 1998,20,30,10,England Chelsea,Scotland
+23,FW,Lizzie Arnot,1 March 1996,23,26,2,England Manchester United,Scotland
+1,GK,Annette Ngo Ndom,3 June 1985,34,50,0,Cameroon Amazone FAP,Cameroon
+2,DF,Christine Manie,4 May 1984,35,63,10,France Yzeure,Cameroon
+3,FW,Ajara Nchout,12 January 1993,26,49,5,Norway Vålerenga,Cameroon
+4,DF,Yvonne Leuko,20 November 1991,27,29,0,France Strasbourg,Cameroon
+5,DF,Augustine Ejangue,19 January 1989,30,62,0,Norway Arna-Bjørnar,Cameroon
+6,DF,Estelle Johnson,21 July 1988,30,,,United States Sky Blue FC,Cameroon
+7,FW,Gabrielle Onguéné,25 February 1989,30,58,17,Russia CSKA Moscow,Cameroon
+8,MF,Raissa Feudjio,29 September 1995,23,60,1,Spain Granadilla,Cameroon
+9,FW,Madeleine Ngono Mani,16 October 1983,35,128,49,France Ambilly [fr],Cameroon
+10,MF,Jeannette Yango,12 June 1993,25,38,1,France Saint-Malo,Cameroon
+11,DF,Aurelle Awona,2 February 1993,26,4,0,France Dijon,Cameroon
+12,DF,Claudine Meffometou,1 July 1990,28,31,1,France Guingamp,Cameroon
+13,MF,Charlène Meyong,19 November 1998,20,,,Cameroon Louves Miniproff [de],Cameroon
+14,MF,Ninon Abena,5 September 1994,24,,,Cameroon Louves Miniproff [de],Cameroon
+15,DF,Ysis Sonkeng,20 September 1989,29,,,Cameroon Amazone FAP,Cameroon
+16,GK,Isabelle Mambingo,10 April 1985,34,,,Nigeria Sunshine Queens,Cameroon
+17,FW,Gaëlle Enganamouit,9 June 1992,26,43,5,Unattached,Cameroon
+18,FW,Henriette Akaba,7 June 1992,27,38,0,Turkey Beşiktaş,Cameroon
+19,FW,Marlyse Ngo Ndoumbouk,3 January 1985,34,,,France Nancy,Cameroon
+20,MF,Genevieve Ngo Mbeleck,10 March 1993,26,14,1,Cameroon Amazone FAP,Cameroon
+21,FW,Alexandra Takounda,7 July 2000,18,,,Cameroon Eclair,Cameroon
+22,MF,Michaela Abam,13 June 1997,21,,,France Paris FC,Cameroon
+23,GK,Marthe Ongmahan,12 June 1992,26,0,0,Cameroon AWA Yaoundé,Cameroon
+1,GK,Stephanie Labbé,10 October 1986,32,61,0,United States North Carolina Courage,Canada
+2,DF,Allysha Chapman,25 January 1989,30,64,1,United States Houston Dash,Canada
+3,DF,Kadeisha Buchanan,5 November 1995,23,88,3,France Lyon,Canada
+4,DF,Shelina Zadorsky,24 August 1992,26,52,1,United States Orlando Pride,Canada
+5,MF,Quinn[note 1],11 August 1995,23,48,5,France Paris FC,Canada
+6,FW,Deanne Rose,3 March 1999,20,40,8,United States Florida Gators,Canada
+7,MF,Julia Grosso,29 August 2000,18,16,0,United States Texas Longhorns,Canada
+8,DF,Jayde Riviere,22 January 2001,18,5,0,Canada Vancouver Whitecaps,Canada
+9,FW,Jordyn Huitema,8 May 2001,18,21,6,Canada Vancouver Whitecaps,Canada
+10,DF,Ashley Lawrence,11 June 1995,23,76,5,France Paris Saint-Germain,Canada
+11,MF,Desiree Scott,31 July 1987,31,143,0,United States Utah Royals,Canada
+12,FW,Christine Sinclair,12 June 1983,35,282,181,United States Portland Thorns,Canada
+13,MF,Sophie Schmidt,28 June 1988,30,184,19,United States Houston Dash,Canada
+14,MF,Gabrielle Carle,12 October 1998,20,13,1,United States Florida State Seminoles,Canada
+15,FW,Nichelle Prince,19 February 1995,24,50,10,United States Houston Dash,Canada
+16,FW,Janine Beckie,20 August 1994,24,56,25,England Manchester City,Canada
+17,MF,Jessie Fleming,11 March 1998,21,65,8,United States UCLA Bruins,Canada
+18,GK,Kailen Sheridan,16 July 1995,23,7,0,United States Sky Blue FC,Canada
+19,FW,Adriana Leon,2 October 1992,26,57,15,England West Ham United,Canada
+20,DF,Shannon Woeller,31 January 1990,29,20,0,Sweden Eskilstuna United,Canada
+21,GK,Sabrina D'Angelo,11 May 1993,26,6,0,Sweden Vittsjö,Canada
+22,DF,Lindsay Agnew,31 March 1995,24,11,0,United States Houston Dash,Canada
+23,DF,Jenna Hellstrom,2 April 1995,24,4,0,Sweden KIF Örebro,Canada
+,Canada1,GK,Sari van Veenendaal,3 April 1990,29,53,0,England Arsenal,Netherlands
+2,DF,Desiree van Lunteren,30 December 1992,26,71,0,Germany SC Freiburg,Netherlands
+3,DF,Stefanie van der Gragt,16 August 1992,26,56,7,Spain Barcelona,Netherlands
+4,DF,Merel van Dongen,11 February 1993,26,27,1,Spain Real Betis,Netherlands
+5,DF,Kika van Es,11 October 1991,27,58,0,Netherlands Ajax,Netherlands
+6,DF,Anouk Dekker,15 November 1986,32,77,6,France Montpellier,Netherlands
+7,FW,Shanice van de Sanden,2 October 1992,26,64,17,France Lyon,Netherlands
+8,MF,Sherida Spitse,29 May 1990,29,162,30,Norway Vålerenga,Netherlands
+9,FW,Vivianne Miedema,15 July 1996,22,75,58,England Arsenal,Netherlands
+10,MF,Daniëlle van de Donk,5 August 1991,27,89,16,England Arsenal,Netherlands
+11,FW,Lieke Martens,16 December 1992,26,103,42,Spain Barcelona,Netherlands
+12,MF,Victoria Pelova,3 June 1999,20,3,0,Netherlands ADO Den Haag,Netherlands
+13,FW,Renate Jansen,7 December 1990,28,36,3,Netherlands Twente,Netherlands
+14,MF,Jackie Groenen,17 December 1994,24,46,2,Germany 1. FFC Frankfurt,Netherlands
+15,MF,Inessa Kaagman,17 April 1996,23,2,0,England Everton,Netherlands
+16,GK,Lize Kop,17 March 1998,21,1,0,Netherlands Ajax,Netherlands
+17,FW,Ellen Jansen,6 October 1992,26,14,1,Netherlands Ajax,Netherlands
+18,DF,Danique Kerkdijk,1 May 1996,23,19,0,England Bristol City,Netherlands
+19,MF,Jill Roord,22 April 1997,22,41,3,Germany Bayern Munich,Netherlands
+20,DF,Dominique Bloodworth,17 January 1995,24,47,0,England Arsenal,Netherlands
+21,FW,Lineth Beerensteyn,11 October 1996,22,40,9,Germany Bayern Munich,Netherlands
+22,DF,Liza van der Most,8 October 1993,25,13,0,Netherlands Ajax,Netherlands
+23,GK,Loes Geurts,12 January 1986,33,123,0,Sweden Kopparbergs/Göteborg,Netherlands
+1,GK,Erin Nayler,17 April 1992,27,63,0,France Bordeaux,New Zealand
+2,MF,Ria Percival,7 December 1989,29,141,14,England West Ham United,New Zealand
+3,DF,Anna Green,20 August 1990,28,73,7,New Zealand Miramar Rangers,New Zealand
+4,DF,C. J. Bott,22 April 1995,24,17,1,Sweden Vittsjö,New Zealand
+5,DF,Nicole Stratford,1 February 1989,30,0,0,New Zealand Glenfield Rovers,New Zealand
+6,DF,Rebekah Stott,17 June 1993,25,73,4,Norway Avaldsnes,New Zealand
+7,DF,Ali Riley,30 October 1987,31,125,1,England Chelsea,New Zealand
+8,DF,Abby Erceg,20 November 1989,29,137,6,United States North Carolina Courage,New Zealand
+9,FW,Emma Kete,1 September 1987,31,51,3,Unattached,New Zealand
+10,MF,Annalie Longo,1 July 1991,27,115,15,Unattached,New Zealand
+11,FW,Sarah Gregorius,6 August 1987,31,93,34,New Zealand Miramar Rangers,New Zealand
+12,MF,Betsy Hassett,4 August 1990,28,113,13,Iceland KR Reykjavik,New Zealand
+13,MF,Rosie White,6 June 1993,26,101,24,Unattached,New Zealand
+14,MF,Katie Bowen,15 April 1994,25,61,3,United States Utah Royals,New Zealand
+15,DF,Sarah Morton,28 August 1998,20,6,1,New Zealand Western Springs,New Zealand
+16,MF,Katie Duncan,1 February 1988,31,122,1,New Zealand Onehunga Sports,New Zealand
+17,FW,Hannah Wilkinson,28 May 1992,27,89,25,Unattached,New Zealand
+18,DF,Stephanie Skilton,27 October 1994,24,9,0,New Zealand Papakura City,New Zealand
+19,FW,Paige Satchell,13 April 1998,21,13,1,New Zealand Three Kings United,New Zealand
+20,MF,Daisy Cleverley,30 April 1997,22,8,2,United States California Golden Bears,New Zealand
+21,GK,Victoria Esson,6 March 1991,28,3,0,Norway Avaldsnes,New Zealand
+22,MF,Olivia Chance,5 October 1993,25,13,0,England Everton,New Zealand
+23,GK,Nadia Olla,7 February 2000,19,1,0,New Zealand Western Springs,New Zealand
+1,GK,Christiane Endler,23 July 1991,27,21,0,France Paris Saint-Germain,Chile
+2,DF,Rocío Soto,21 September 1993,25,13,2,Spain Zaragoza,Chile
+3,DF,Carla Guerrero,23 December 1987,31,15,4,Spain Rayo Vallecano,Chile
+4,MF,Francisca Lara,29 July 1990,28,23,9,Spain Sevilla,Chile
+5,DF,Valentina Díaz,30 March 2001,18,2,0,Chile Colo-Colo,Chile
+6,MF,Claudia Soto,6 July 1993,25,15,0,Brazil Santos,Chile
+7,FW,María José Rojas,17 December 1987,31,21,12,Czech Republic Slavia Praha,Chile
+8,MF,Karen Araya,16 October 1990,28,21,6,Spain Sevilla,Chile
+9,FW,María José Urrutia,17 December 1993,25,7,0,Brazil 3B da Amazônia [pt],Chile
+10,FW,Yanara Aedo,5 August 1993,25,20,9,Spain Valencia,Chile
+11,MF,Yessenia López,20 October 1990,28,21,3,Spain Sporting Huelva,Chile
+12,GK,Natalia Campos,12 January 1992,27,3,0,Chile Universidad Católica,Chile
+13,FW,Javiera Grez,11 July 2000,18,9,1,Chile Curicó Unido,Chile
+14,MF,Daniela Pardo,5 September 1988,30,5,0,Chile Santiago Morning,Chile
+15,DF,Su Helen Galaz,27 May 1991,28,11,0,Spain Zaragoza,Chile
+16,DF,Fernanda Pinilla,6 November 1993,25,16,0,Spain Córdoba,Chile
+17,DF,Javiera Toro,22 April 1998,21,3,0,Chile Santiago Morning,Chile
+18,DF,Camila Sáez,17 October 1994,24,21,3,Spain Rayo Vallecano,Chile
+19,FW,Yessenia Huenteo,30 October 1992,26,16,1,Spain Cáceres,Chile
+20,FW,Daniela Zamora,13 November 1990,28,11,0,Chile Universidad de Chile,Chile
+21,FW,Rosario Balmaceda,23 March 1999,20,4,0,Chile Colo-Colo,Chile
+22,MF,Elisa Durán,16 January 2002,17,0,0,Chile Colo-Colo,Chile
+23,GK,Ryann Torrero,1 September 1990,28,0,0,Unattached,Chile
+1,GK,Hedvig Lindahl,29 April 1983,36,158,0,England Chelsea,Sweden
+2,DF,Jonna Andersson,2 January 1993,26,41,0,England Chelsea,Sweden
+3,DF,Linda Sembrant,15 May 1987,32,110,8,France Montpellier,Sweden
+4,DF,Hanna Glas,16 April 1993,26,22,0,France Paris Saint-Germain,Sweden
+5,DF,Nilla Fischer,2 August 1984,34,176,23,Germany VfL Wolfsburg,Sweden
+6,DF,Magdalena Eriksson,8 September 1993,25,49,5,England Chelsea,Sweden
+7,FW,Madelen Janogy,12 November 1995,23,4,1,Sweden Piteå,Sweden
+8,FW,Lina Hurtig,15 September 1995,23,18,3,Sweden Linköping,Sweden
+9,FW,Kosovare Asllani,29 July 1989,29,127,32,Sweden Linköping,Sweden
+10,FW,Sofia Jakobsson,23 April 1990,29,101,17,France Montpellier,Sweden
+11,FW,Stina Blackstenius,5 February 1996,23,44,10,Sweden Linköping,Sweden
+12,GK,Jennifer Falk,26 April 1993,26,0,0,Sweden Kopparbergs/Göteborg,Sweden
+13,DF,Amanda Ilestedt,17 January 1993,26,26,2,Germany Turbine Potsdam,Sweden
+14,MF,Julia Roddar,16 February 1992,27,6,0,Sweden Kopparbergs/Göteborg,Sweden
+15,DF,Nathalie Björn,4 May 1997,22,9,2,Sweden Rosengård,Sweden
+16,FW,Julia Zigiotti Olme,24 December 1997,21,7,0,Sweden Kopparbergs/Göteborg,Sweden
+17,MF,Caroline Seger,19 March 1985,34,193,27,Sweden Rosengård,Sweden
+18,FW,Fridolina Rolfö,24 November 1993,25,35,8,Germany Bayern Munich,Sweden
+19,FW,Anna Anvegård,10 May 1997,22,9,1,Sweden Växjö,Sweden
+20,FW,Mimmi Larsson,9 April 1994,25,20,6,Sweden Linköping,Sweden
+21,GK,Zećira Mušović,26 May 1996,23,2,0,Sweden Rosengård,Sweden
+22,MF,Olivia Schough,11 March 1991,28,72,9,Sweden Djurgården,Sweden
+23,MF,Elin Rubensson,11 May 1993,26,63,2,Sweden Kopparbergs/Göteborg,Sweden
+1,GK,Waraporn Boonsing,16 February 1990,29,,,Thailand Bundit Asia,Thailand
+2,DF,Kanjanaporn Saengkoon,18 July 1996,22,,,Thailand Bundit Asia,Thailand
+3,DF,Natthakarn Chinwong,15 March 1992,27,,,Thailand Bundit Asia,Thailand
+4,DF,Duangnapa Sritala,4 February 1986,33,,,Thailand Bangkok,Thailand
+5,DF,Ainon Phancha,26 January 1992,27,,,Thailand Chonburi Sriprathum,Thailand
+6,MF,Pikul Khueanpet,20 September 1988,30,,,Thailand Bundit Asia,Thailand
+7,MF,Silawan Intamee,22 January 1994,25,,,Thailand Chonburi Sriprathum,Thailand
+8,FW,Miranda Nild,1 April 1997,22,,,United States California Golden Bears,Thailand
+9,DF,Warunee Phetwiset,13 December 1990,28,,,Thailand Chonburi Sriprathum,Thailand
+10,DF,Sunisa Srangthaisong,6 May 1988,31,,,Thailand Bundit Asia,Thailand
+11,MF,Sudarat Chuchuen,19 June 1997,21,,,Thailand Sisaket,Thailand
+12,MF,Rattikan Thongsombut,7 July 1991,27,,,Thailand Bundit Asia,Thailand
+13,FW,Orathai Srimanee,12 June 1988,30,,,Thailand Bundit Asia,Thailand
+14,FW,Saowalak Pengngam,30 November 1996,22,,,Thailand Chonburi Sriprathum,Thailand
+15,MF,Orapin Waenngoen,7 October 1995,23,,,Thailand Bundit Asia,Thailand
+16,DF,Khwanrudi Saengchan,16 May 1991,28,,,Thailand Bundit Asia,Thailand
+17,FW,Taneekarn Dangda,15 December 1992,26,,,Thailand Bangkok,Thailand
+18,GK,Sukanya Chor Charoenying,24 November 1987,31,,,Thailand Air Force United,Thailand
+19,DF,Pitsamai Sornsai,19 January 1989,30,,,Thailand Chonburi Sriprathum,Thailand
+20,MF,Wilaiporn Boothduang,25 June 1987,31,,,Thailand Bangkok,Thailand
+21,MF,Kanjana Sungngoen,21 September 1986,32,,,Thailand Bangkok,Thailand
+22,GK,Tiffany Sornpao,22 May 1998,21,,,United States Kennesaw State Owls,Thailand
+23,DF,Phornphirun Philawan,8 April 1999,20,,,Thailand Bundit Asia,Thailand
+1,GK,Alyssa Naeher,20 April 1988,31,43,0,United States Chicago Red Stars,United States
+2,FW,Mallory Pugh,29 April 1998,21,50,15,United States Washington Spirit,United States
+3,MF,Sam Mewis,9 October 1992,26,47,9,United States North Carolina Courage,United States
+4,DF,Becky Sauerbrunn,6 June 1985,34,155,0,United States Utah Royals,United States
+5,DF,Kelley O'Hara,4 August 1988,30,115,2,United States Utah Royals,United States
+6,MF,Morgan Brian,26 February 1993,26,82,6,United States Chicago Red Stars,United States
+7,DF,Abby Dahlkemper,13 May 1993,26,37,0,United States North Carolina Courage,United States
+8,MF,Julie Ertz,6 April 1992,27,79,18,United States Chicago Red Stars,United States
+9,MF,Lindsey Horan,26 May 1994,25,66,8,United States Portland Thorns,United States
+10,FW,Carli Lloyd (co-captain,16 July 1982,36,271,107,United States Sky Blue FC,United States
+11,DF,Ali Krieger,28 July 1984,34,99,1,United States Orlando Pride,United States
+12,DF,Tierna Davidson,19 September 1998,20,19,1,United States Chicago Red Stars,United States
+13,FW,Alex Morgan (co-captain,2 July 1989,29,160,101,United States Orlando Pride,United States
+14,DF,Emily Sonnett,25 November 1993,25,31,0,United States Portland Thorns,United States
+15,FW,Megan Rapinoe (co-captain,5 July 1985,33,150,44,United States Reign FC,United States
+16,MF,Rose Lavelle,14 May 1995,24,24,6,United States Washington Spirit,United States
+17,FW,Tobin Heath,29 May 1988,31,147,28,United States Portland Thorns,United States
+18,GK,Ashlyn Harris,19 October 1985,33,21,0,United States Orlando Pride,United States
+19,DF,Crystal Dunn,3 July 1992,26,83,24,United States North Carolina Courage,United States
+20,MF,Allie Long,13 August 1987,31,42,6,United States Reign FC,United States
+21,GK,Adrianna Franch,12 November 1990,28,1,0,United States Portland Thorns,United States
+22,FW,Jessica McDonald,28 February 1988,31,7,2,United States North Carolina Courage,United States
+23,FW,Christen Press,29 December 1988,30,113,47,United States Utah Royals,United States

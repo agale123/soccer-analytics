@@ -15,17 +15,17 @@ class WNBA:
     }
     COLORS = {
         "LV": "#000000",
-        "CHI": "#418FDE",
+        "CHI": "#FFCD00", # "#418FDE",
         "CONN": "#DC4405",
         "DAL": "#C4D600",
         "SEA": "#2C5234",
         "MIN": "#236192",
-        "PHX": "#201747",
+        "PHX": "#3c286e",
         "WSH": "#C8102E",
         "NY": "#6ECEB2",
         "LA": "#702F8A",
-        "ATL": "#C8102E",
-        "IND": "#041E42",
+        "ATL": "#418fde", #"#C8102E",
+        "IND": "#041E42", # "#C8102E"
     }
     TEXT_COLORS = {
         "LV": "#ffffff",
