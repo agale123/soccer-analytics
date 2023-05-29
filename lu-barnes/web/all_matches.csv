@@ -74,7 +74,7 @@ date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,
 2016-05-29,2016,POR,0,0,0,0,90,0,0,False,False,False,LB
 2016-06-12,2016,HOU,1,0,0,0,90,0,0,False,False,False,LB
 2016-06-19,2016,NJY,0,0,0,0,90,0,0,False,False,False,LB
-2016-06-25,2016,KC,0,0,0,0,66,0,0,False,False,False,RB
+2016-06-25,2016,KC,0,0,0,0,66,0,0,False,False,False,LB
 2016-07-02,2016,BOS,2,0,0,0,90,0,0,False,False,False,LB
 2016-07-09,2016,WNY,2,3,0,0,90,0,0,False,False,False,LB
 2016-07-16,2016,WNY,1,1,0,0,90,0,0,False,False,False,LCB
@@ -207,3 +207,6 @@ date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,
 2023-04-22,2023,CHI,5,2,0,1,90,0,0,False,False,False,LB
 2023-04-29,2023,LOU,2,2,0,0,90,0,0,False,False,False,LB
 2023-05-06,2023,HOU,2,0,0,0,90,0,0,False,False,False,LB
+2023-05-14,2023,NC,0,1,0,0,83,0,0,False,False,False,LB
+2023-05-21,2023,NJY,1,4,0,0,64,0,0,False,False,False,LB
+2023-05-27,2023,LA,4,1,0,0,90,0,0,False,False,False,LB

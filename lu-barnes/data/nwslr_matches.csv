@@ -145,3 +145,6 @@ date,season,opponent,goals_for,goals_against,goals,assists,minutes,yellow_cards,
 2023-04-22,2023,CHI,5,2,0,1,90,0,0,LB,False,False,False
 2023-04-29,2023,LOU,2,2,0,0,90,0,0,LB,False,False,False
 2023-05-06,2023,HOU,2,0,0,0,90,0,0,LB,False,False,False
+2023-05-14,2023,NC,0,1,0,0,83,0,0,LB,False,False,False
+2023-05-21,2023,NJY,1,4,0,0,64,0,0,LB,False,False,False
+2023-05-27,2023,LA,4,1,0,0,90,0,0,LB,False,False,False
