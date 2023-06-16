@@ -1,0 +1,58 @@
+,number,position,name,birthday,age,caps,goals,club,country
+162,2,DF,Celia Jiménez,20 June 1995,23,22.0,0.0,Reign FC,Spain
+184,1,GK,Lydia Williams,13 May 1988,31,78.0,0.0,Reign FC,Australia
+187,4,DF,Clare Polkinghorne,1 February 1989,30,117.0,9.0,Houston Dash,Australia
+189,6,MF,Chloe Logarzo,22 December 1994,24,38.0,6.0,Washington Spirit,Australia
+190,7,DF,Steph Catley,26 January 1994,25,72.0,2.0,Reign FC,Australia
+191,8,MF,Elise Kellond-Knight,10 August 1990,28,106.0,1.0,Reign FC,Australia
+192,9,FW,Caitlin Foord,11 November 1994,24,72.0,16.0,Portland Thorns,Australia
+193,10,MF,Emily van Egmond,12 July 1993,25,86.0,18.0,Orlando Pride,Australia
+197,14,DF,Alanna Kennedy,21 January 1995,24,78.0,7.0,Orlando Pride,Australia
+199,16,FW,Hayley Raso,5 September 1994,24,35.0,3.0,Portland Thorns,Australia
+203,20,FW,Sam Kerr,10 September 1993,25,77.0,31.0,Chicago Red Stars,Australia
+204,21,DF,Ellie Carpenter,28 April 2000,19,32.0,1.0,Portland Thorns,Australia
+205,22,MF,Amy Harrison,21 April 1996,23,10.0,0.0,Washington Spirit,Australia
+215,9,FW,Debinha,20 October 1991,27,81.0,28.0,North Carolina Courage,Brazil
+216,10,FW,Marta,19 February 1986,33,144.0,105.0,Orlando Pride,Brazil
+221,15,DF,Camila,10 October 1994,24,17.0,2.0,Orlando Pride,Brazil
+223,17,MF,Andressinha,1 May 1995,24,69.0,10.0,Portland Thorns,Brazil
+272,20,FW,Cheyna Matthews,10 November 1993,25,3.0,0.0,Washington Spirit,Jamaica
+307,9,FW,Jodie Taylor,17 May 1986,33,40.0,17.0,Reign FC,England
+315,17,DF,Rachel Daly,6 December 1991,27,21.0,3.0,Houston Dash,England
+323,2,MF,Rumi Utsugi,5 December 1988,30,113.0,6.0,Reign FC,Japan
+348,4,DF,Rachel Corsie,17 August 1989,29,109.0,16.0,Utah Royals,Scotland
+373,6,DF,Estelle Johnson,21 July 1988,30,,,Sky Blue FC,Cameroon
+391,1,GK,Stephanie Labbé,10 October 1986,32,61.0,0.0,North Carolina Courage,Canada
+392,2,DF,Allysha Chapman,25 January 1989,30,64.0,1.0,Houston Dash,Canada
+394,4,DF,Shelina Zadorsky,24 August 1992,26,52.0,1.0,Orlando Pride,Canada
+401,11,MF,Desiree Scott,31 July 1987,31,143.0,0.0,Utah Royals,Canada
+402,12,FW,Christine Sinclair,12 June 1983,35,282.0,181.0,Portland Thorns,Canada
+403,13,MF,Sophie Schmidt,28 June 1988,30,184.0,19.0,Houston Dash,Canada
+405,15,FW,Nichelle Prince,19 February 1995,24,50.0,10.0,Houston Dash,Canada
+408,18,GK,Kailen Sheridan,16 July 1995,23,7.0,0.0,Sky Blue FC,Canada
+412,22,DF,Lindsay Agnew,31 March 1995,24,11.0,0.0,Houston Dash,Canada
+444,8,DF,Abby Erceg,20 November 1989,29,137.0,6.0,North Carolina Courage,New Zealand
+450,14,MF,Katie Bowen,15 April 1994,25,61.0,3.0,Utah Royals,New Zealand
+529,1,GK,Alyssa Naeher,20 April 1988,31,43.0,0.0,Chicago Red Stars,United States
+530,2,FW,Mallory Pugh,29 April 1998,21,50.0,15.0,Washington Spirit,United States
+531,3,MF,Sam Mewis,9 October 1992,26,47.0,9.0,North Carolina Courage,United States
+532,4,DF,Becky Sauerbrunn,6 June 1985,34,155.0,0.0,Utah Royals,United States
+533,5,DF,Kelley O'Hara,4 August 1988,30,115.0,2.0,Utah Royals,United States
+534,6,MF,Morgan Brian,26 February 1993,26,82.0,6.0,Chicago Red Stars,United States
+535,7,DF,Abby Dahlkemper,13 May 1993,26,37.0,0.0,North Carolina Courage,United States
+536,8,MF,Julie Ertz,6 April 1992,27,79.0,18.0,Chicago Red Stars,United States
+537,9,MF,Lindsey Horan,26 May 1994,25,66.0,8.0,Portland Thorns,United States
+538,10,FW,Carli Lloyd (co-captain,16 July 1982,36,271.0,107.0,Sky Blue FC,United States
+539,11,DF,Ali Krieger,28 July 1984,34,99.0,1.0,Orlando Pride,United States
+540,12,DF,Tierna Davidson,19 September 1998,20,19.0,1.0,Chicago Red Stars,United States
+541,13,FW,Alex Morgan (co-captain,2 July 1989,29,160.0,101.0,Orlando Pride,United States
+542,14,DF,Emily Sonnett,25 November 1993,25,31.0,0.0,Portland Thorns,United States
+543,15,FW,Megan Rapinoe (co-captain,5 July 1985,33,150.0,44.0,Reign FC,United States
+544,16,MF,Rose Lavelle,14 May 1995,24,24.0,6.0,Washington Spirit,United States
+545,17,FW,Tobin Heath,29 May 1988,31,147.0,28.0,Portland Thorns,United States
+546,18,GK,Ashlyn Harris,19 October 1985,33,21.0,0.0,Orlando Pride,United States
+547,19,DF,Crystal Dunn,3 July 1992,26,83.0,24.0,North Carolina Courage,United States
+548,20,MF,Allie Long,13 August 1987,31,42.0,6.0,Reign FC,United States
+549,21,GK,Adrianna Franch,12 November 1990,28,1.0,0.0,Portland Thorns,United States
+550,22,FW,Jessica McDonald,28 February 1988,31,7.0,2.0,North Carolina Courage,United States
+551,23,FW,Christen Press,29 December 1988,30,113.0,47.0,Utah Royals,United States

@@ -53,6 +53,7 @@ class NWSL:
         "NJ/NY Gotham": "NJNY",
         "NJ/NY Gotham FC": "NJNY",
         "NJY": "NJNY",
+        "Sky Blue FC": "NJNY",
         "Portland Thorns": "POR",
         "Angel City": "LA",
         "Angel City FC": "LA",
@@ -63,12 +64,14 @@ class NWSL:
         "NC Courage": "NC",
         "North Carolina Courage": "NC",
         "OL Reign": "RGN",
+        "Reign FC": "RGN",
         "Racing Louisville": "LOU",
         "Racing Louisville FC": "LOU",
         "Houston Dash": "HOU",
         "Orlando Pride": "ORL",
         "KC Current": "KCC",
         "Kansas City Current": "KCC",
+        "Utah Royals": "UTA",
     }
 
     def map_team(t):

@@ -298,7 +298,7 @@ number,position,name,birthday,age,caps,goals,club,country
 21,DF,Natalie Juncos,28 December 1990,28,6,0,Unattached,Argentina
 22,FW,Milagros Menéndez,23 March 1997,22,3,0,Argentina UAI Urquiza,Argentina
 23,GK,Solana Pereyra,5 April 1999,20,0,0,Argentina UAI Urquiza,Argentina
-,Argentina1,GK,Karen Bardsley,14 October 1984,34,75,0,England Manchester City,England
+1,GK,Karen Bardsley,14 October 1984,34,75,0,England Manchester City,England
 2,DF,Lucy Bronze,28 October 1991,27,67,7,France Lyon,England
 3,DF,Alex Greenwood,7 September 1993,25,36,2,England Manchester United,England
 4,MF,Keira Walsh,8 April 1997,22,15,0,England Manchester City,England
@@ -413,7 +413,7 @@ number,position,name,birthday,age,caps,goals,club,country
 21,GK,Sabrina D'Angelo,11 May 1993,26,6,0,Sweden Vittsjö,Canada
 22,DF,Lindsay Agnew,31 March 1995,24,11,0,United States Houston Dash,Canada
 23,DF,Jenna Hellstrom,2 April 1995,24,4,0,Sweden KIF Örebro,Canada
-,Canada1,GK,Sari van Veenendaal,3 April 1990,29,53,0,England Arsenal,Netherlands
+1,GK,Sari van Veenendaal,3 April 1990,29,53,0,England Arsenal,Netherlands
 2,DF,Desiree van Lunteren,30 December 1992,26,71,0,Germany SC Freiburg,Netherlands
 3,DF,Stefanie van der Gragt,16 August 1992,26,56,7,Spain Barcelona,Netherlands
 4,DF,Merel van Dongen,11 February 1993,26,27,1,Spain Real Betis,Netherlands
