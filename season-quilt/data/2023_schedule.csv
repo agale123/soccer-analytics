@@ -83,6 +83,8 @@ date,home,away,is_challenge_cup,is_playoff,home_goals,away_goals,home_penalty,aw
 2023-06-14,LOU,HOU,True,False,3,0,0,0,False
 2023-06-17,NC,ORL,False,False,3,0,0,0,False
 2023-06-17,SD,LA,False,False,1,2,0,0,False
+2023-06-17,NC,ORL,False,False,3,0,0,0,False
+2023-06-17,SD,LA,False,False,1,2,0,0,False
 2023-06-17,HOU,RGN,False,False,0,0,0,0,False
 2023-06-18,LOU,NJY,False,False,2,0,0,0,False
 2023-06-18,CHI,POR,False,False,2,3,0,0,False
