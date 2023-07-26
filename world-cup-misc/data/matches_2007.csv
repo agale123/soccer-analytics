@@ -1,0 +1,33 @@
+match_number,date,stage,home,away,attendance,home_score,away_score,home_penalty_score,away_penalty_score,home_placeholder,away_placeholder,completed,humidity,temperature,wind,group,stadium,winner,match_id,result_id,competition_id,stage_id,season_id
+1,2007-09-10T20:00:00Z,First Stage,GER,ARG,,11,0,,,A1,A4,0,,,,A,Shanghai Hongkou Football Stadium,GER,56313,56313,103,248549,10232
+3,2007-09-11T17:00:00Z,First Stage,USA,PRK,,2,2,,,B2,B3,0,,,,B,Chengdu Sports Center Stadium,,56319,56319,103,248549,10232
+4,2007-09-11T20:00:00Z,First Stage,NGA,SWE,,1,1,,,B1,B4,0,,,,B,Chengdu Sports Center Stadium,,56318,56318,103,248549,10232
+2,2007-09-11T20:00:00Z,First Stage,JPN,ENG,,2,2,,,A2,A3,0,,,,A,Shanghai Hongkou Football Stadium,,56312,56312,103,248549,10232
+5,2007-09-12T17:00:00Z,First Stage,GHA,AUS,,1,4,,,C2,C3,0,,,,C,Hangzhou Dragon Stadium,AUS,56325,56325,103,248549,10232
+7,2007-09-12T17:00:00Z,First Stage,NZL,BRA,,0,5,,,D2,D3,0,,,,D,Wuhan Five Rings Sports Center Stadium,BRA,56331,56331,103,248549,10232
+6,2007-09-12T20:00:00Z,First Stage,NOR,CAN,,2,1,,,C1,C4,0,,,,C,Hangzhou Dragon Stadium,NOR,56324,56324,103,248549,10232
+8,2007-09-12T20:00:00Z,First Stage,CHN,DEN,,3,2,,,D1,D4,0,,,,D,Wuhan Five Rings Sports Center Stadium,CHN,56330,56330,103,248549,10232
+11,2007-09-14T17:00:00Z,First Stage,SWE,USA,,0,2,,,B4,B2,0,,,,B,Chengdu Sports Center Stadium,USA,56317,56317,103,248549,10232
+9,2007-09-14T17:00:00Z,First Stage,ARG,JPN,,0,1,,,A4,A2,0,,,,A,Shanghai Hongkou Football Stadium,JPN,56311,56311,103,248549,10232
+10,2007-09-14T20:00:00Z,First Stage,ENG,GER,,0,0,,,A3,A1,0,,,,A,Shanghai Hongkou Football Stadium,,56310,56310,103,248549,10232
+12,2007-09-14T20:00:00Z,First Stage,PRK,NGA,,2,0,,,B3,B1,0,,,,B,Chengdu Sports Center Stadium,PRK,56316,56316,103,248549,10232
+15,2007-09-15T17:00:00Z,First Stage,DEN,NZL,,2,0,,,D4,D2,0,,,,D,Wuhan Five Rings Sports Center Stadium,DEN,56329,56329,103,248549,10232
+13,2007-09-15T17:00:00Z,First Stage,CAN,GHA,,4,0,,,C4,C2,0,,,,C,Hangzhou Dragon Stadium,CAN,56323,56323,103,248549,10232
+14,2007-09-15T20:00:00Z,First Stage,AUS,NOR,,1,1,,,C3,C1,0,,,,C,Hangzhou Dragon Stadium,,56322,56322,103,248549,10232
+16,2007-09-15T20:00:00Z,First Stage,BRA,CHN,,4,0,,,D3,D1,0,,,,D,Wuhan Five Rings Sports Center Stadium,BRA,56328,56328,103,248549,10232
+18,2007-09-17T20:00:00Z,First Stage,ENG,ARG,,6,1,,,A3,A4,0,,,,A,Chengdu Sports Center Stadium,ENG,56308,56308,103,248549,10232
+17,2007-09-17T20:00:00Z,First Stage,GER,JPN,,2,0,,,A1,A2,0,,,,A,Hangzhou Dragon Stadium,GER,56309,56309,103,248549,10232
+20,2007-09-18T20:00:00Z,First Stage,PRK,SWE,,1,2,,,B3,B4,0,,,,B,Tianjin Olympic Sports Center Stadium,SWE,56314,56314,103,248549,10232
+19,2007-09-18T20:00:00Z,First Stage,NGA,USA,,0,1,,,B1,B2,0,,,,B,Shanghai Hongkou Football Stadium,USA,56315,56315,103,248549,10232
+22,2007-09-20T17:00:00Z,First Stage,AUS,CAN,,2,2,,,C3,C4,0,,,,C,Chengdu Sports Center Stadium,,56320,56320,103,248549,10232
+21,2007-09-20T17:00:00Z,First Stage,NOR,GHA,,7,2,,,C1,C2,0,,,,C,Hangzhou Dragon Stadium,NOR,56321,56321,103,248549,10232
+23,2007-09-20T20:00:00Z,First Stage,CHN,NZL,,2,0,,,D1,D2,0,,,,D,Tianjin Olympic Sports Center Stadium,CHN,56327,56327,103,248549,10232
+24,2007-09-20T20:00:00Z,First Stage,BRA,DEN,,1,0,,,D3,D4,0,,,,D,Hangzhou Dragon Stadium,BRA,56326,56326,103,248549,10232
+25,2007-09-22T17:00:00Z,Quarter-final,GER,PRK,,3,0,,,1A,2B,0,,,,,Wuhan Five Rings Sports Center Stadium,GER,56339,56339,103,248553,10232
+26,2007-09-22T20:00:00Z,Quarter-final,USA,ENG,,3,0,,,1B,2A,0,,,,,Tianjin Olympic Sports Center Stadium,USA,56338,56338,103,248553,10232
+27,2007-09-23T17:00:00Z,Quarter-final,NOR,CHN,,1,0,,,1C,2D,0,,,,,Wuhan Five Rings Sports Center Stadium,NOR,56337,56337,103,248553,10232
+28,2007-09-23T20:00:00Z,Quarter-final,BRA,AUS,,3,2,,,1D,2C,0,,,,,Tianjin Olympic Sports Center Stadium,BRA,56336,56336,103,248553,10232
+29,2007-09-26T20:00:00Z,Semi-final,GER,NOR,,3,0,,,W25,W27,0,,,,,Tianjin Olympic Sports Center Stadium,GER,56335,56335,103,248552,10232
+30,2007-09-27T20:00:00Z,Semi-final,USA,BRA,,0,4,,,W26,W28,0,,,,,Hangzhou Dragon Stadium,BRA,56334,56334,103,248552,10232
+31,2007-09-30T17:00:00Z,Match for third place,NOR,USA,,1,4,,,L29,L30,0,,,,,Shanghai Hongkou Football Stadium,USA,56333,56333,103,248551,10232
+32,2007-09-30T20:00:00Z,Final,GER,BRA,,2,0,,,W29,W30,0,,,,,Shanghai Hongkou Football Stadium,GER,56332,56332,103,248550,10232

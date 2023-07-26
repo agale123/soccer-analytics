@@ -1,0 +1,27 @@
+match_number,date,stage,home,away,attendance,home_score,away_score,home_penalty_score,away_penalty_score,home_placeholder,away_placeholder,completed,humidity,temperature,wind,group,stadium,winner,match_id,result_id,competition_id,stage_id,season_id
+2,1995-06-05T14:00:00Z,Group Matches,GER,JPN,,1,0,,,,,0,,,,A,Tingvalla,GER,21903,21903,103,4655,4654
+1,1995-06-05T18:00:00Z,Group Matches,SWE,BRA,,0,1,,,,,0,,,,A,Olympia Stadium,BRA,21902,21902,103,4655,4654
+4,1995-06-06T19:00:00Z,Group Matches,ENG,CAN,,3,2,,,,,0,,,,B,Olympia Stadium,ENG,21909,21909,103,4655,4654
+6,1995-06-06T19:00:00Z,Group Matches,DEN,AUS,,5,0,,,,,0,,,,C,Arosvallen,DEN,21915,21915,103,4655,4654
+3,1995-06-06T19:00:00Z,Group Matches,NOR,NGA,,8,0,,,,,0,,,,B,Tingvalla,NOR,21908,21908,103,4655,4654
+5,1995-06-06T19:00:00Z,Group Matches,USA,CHN,,3,3,,,,,0,,,,C,Stromvallen,,21914,21914,103,4655,4654
+7,1995-06-07T19:00:00Z,Group Matches,SWE,GER,,3,2,,,,,0,,,,A,Olympia Stadium,SWE,21904,21904,103,4655,4654
+8,1995-06-07T19:00:00Z,Group Matches,BRA,JPN,,1,2,,,,,0,,,,A,Tingvalla,JPN,21905,21905,103,4655,4654
+10,1995-06-08T19:00:00Z,Group Matches,NGA,CAN,,3,3,,,,,0,,,,B,Olympia Stadium,,21911,21911,103,4655,4654
+11,1995-06-08T19:00:00Z,Group Matches,USA,DEN,,2,0,,,,,0,,,,C,Stromvallen,USA,21916,21916,103,4655,4654
+9,1995-06-08T19:00:00Z,Group Matches,NOR,ENG,,2,0,,,,,0,,,,B,Tingvalla,NOR,21910,21910,103,4655,4654
+12,1995-06-08T19:00:00Z,Group Matches,CHN,AUS,,4,2,,,,,0,,,,C,Arosvallen,CHN,21917,21917,103,4655,4654
+14,1995-06-09T19:00:00Z,Group Matches,BRA,GER,,1,6,,,,,0,,,,A,Tingvalla,GER,21907,21907,103,4655,4654
+13,1995-06-09T19:00:00Z,Group Matches,SWE,JPN,,2,0,,,,,0,,,,A,Arosvallen,SWE,21906,21906,103,4655,4654
+18,1995-06-10T16:00:00Z,Group Matches,CHN,DEN,,3,1,,,,,0,,,,C,Arosvallen,CHN,21919,21919,103,4655,4654
+16,1995-06-10T16:00:00Z,Group Matches,NGA,ENG,,2,3,,,,,0,,,,B,Tingvalla,ENG,21913,21913,103,4655,4654
+17,1995-06-10T16:00:00Z,Group Matches,USA,AUS,,4,1,,,,,0,,,,C,Olympia Stadium,USA,21918,21918,103,4655,4654
+15,1995-06-10T16:00:00Z,Group Matches,NOR,CAN,,7,0,,,,,0,,,,B,Stromvallen,NOR,21912,21912,103,4655,4654
+21,1995-06-13T17:15:00Z,Quarter-final,JPN,USA,,0,4,,,,,0,,,,,Stromvallen,USA,21922,21922,103,4659,4654
+22,1995-06-13T17:15:00Z,Quarter-final,NOR,DEN,,3,1,,,,,0,,,,,Tingvalla,NOR,21923,21923,103,4659,4654
+20,1995-06-13T20:15:00Z,Quarter-final,SWE,CHN,,1,1,3.0,4.0,,,0,,,,,Olympia Stadium,CHN,21921,21921,103,4659,4654
+19,1995-06-13T20:15:00Z,Quarter-final,GER,ENG,,3,0,,,,,0,,,,,Arosvallen,GER,21920,21920,103,4659,4654
+24,1995-06-15T17:15:00Z,Semi-final,USA,NOR,,0,1,,,,,0,,,,,Arosvallen,NOR,21925,21925,103,4660,4654
+23,1995-06-15T20:15:00Z,Semi-final,GER,CHN,,1,0,,,,,0,,,,,Olympia Stadium,GER,21924,21924,103,4660,4654
+25,1995-06-17T16:00:00Z,Match for third place,CHN,USA,,0,2,,,,,0,,,,,Stromvallen,USA,21927,21927,103,4661,4654
+26,1995-06-18T18:00:00Z,Final,GER,NOR,,0,2,,,,,0,,,,,Rasunda Stadium,NOR,21928,21928,103,4662,4654

@@ -1,0 +1,27 @@
+match_number,date,stage,home,away,attendance,home_score,away_score,home_penalty_score,away_penalty_score,home_placeholder,away_placeholder,completed,humidity,temperature,wind,group,stadium,winner,match_id,result_id,competition_id,stage_id,season_id
+1,1991-11-16T20:45:00Z,Group Matches,CHN,NOR,,4,0,,,,,0,,,,A,Tianhe Stadium,CHN,22004,22004,103,1309,3373
+6,1991-11-17T15:30:00Z,Group Matches,GER,NGA,,4,0,,,,,0,,,,C,Jiangmen Stadium,GER,21985,21985,103,1309,3373
+4,1991-11-17T19:45:00Z,Group Matches,SWE,USA,,2,3,,,,,0,,,,B,Ying Dong Stadium,USA,21958,21958,103,1309,3373
+2,1991-11-17T19:45:00Z,Group Matches,DEN,NZL,,3,0,,,,,0,,,,A,Tianhe Stadium,DEN,21930,21930,103,1309,3373
+3,1991-11-17T19:45:00Z,Group Matches,JPN,BRA,,0,1,,,,,0,,,,B,New Plaza Stadium,BRA,21957,21957,103,1309,3373
+5,1991-11-17T19:45:00Z,Group Matches,TPE,ITA,,0,5,,,,,0,,,,C,Jiangmen Stadium,ITA,21963,21963,103,1309,3373
+8,1991-11-19T15:30:00Z,Group Matches,NOR,NZL,,4,0,,,,,0,,,,A,Guangdong Provincial Stadium,NOR,21984,21984,103,1309,3373
+12,1991-11-19T15:30:00Z,Group Matches,ITA,NGA,,1,0,,,,,0,,,,C,Zhongshan Stadium,ITA,21986,21986,103,1309,3373
+10,1991-11-19T19:45:00Z,Group Matches,BRA,USA,,0,5,,,,,0,,,,B,Ying Dong Stadium,USA,21960,21960,103,1309,3373
+7,1991-11-19T19:45:00Z,Group Matches,CHN,DEN,,2,2,,,,,0,,,,A,Guangdong Provincial Stadium,,21931,21931,103,1309,3373
+11,1991-11-19T19:45:00Z,Group Matches,TPE,GER,,0,3,,,,,0,,,,C,Zhongshan Stadium,GER,21969,21969,103,1309,3373
+9,1991-11-19T19:45:00Z,Group Matches,JPN,SWE,,0,8,,,,,0,,,,B,New Plaza Stadium,SWE,21959,21959,103,1309,3373
+15,1991-11-21T15:30:00Z,Group Matches,JPN,USA,,0,3,,,,,0,,,,B,New Plaza Stadium,USA,21962,21962,103,1309,3373
+16,1991-11-21T15:30:00Z,Group Matches,BRA,SWE,,0,2,,,,,0,,,,B,Ying Dong Stadium,SWE,21961,21961,103,1309,3373
+14,1991-11-21T19:45:00Z,Group Matches,NOR,DEN,,2,1,,,,,0,,,,A,Ying Dong Stadium,NOR,22005,22005,103,1309,3373
+13,1991-11-21T19:45:00Z,Group Matches,CHN,NZL,,4,1,,,,,0,,,,A,New Plaza Stadium,CHN,21953,21953,103,1309,3373
+17,1991-11-21T19:45:00Z,Group Matches,TPE,NGA,,2,0,,,,,0,,,,C,Jiangmen Stadium,TPE,21971,21971,103,1309,3373
+18,1991-11-21T19:45:00Z,Group Matches,ITA,GER,,0,2,,,,,0,,,,C,Zhongshan Stadium,GER,21972,21972,103,1309,3373
+21,1991-11-24T15:30:00Z,Quarter-final,DEN,GER,,1,2,,,DEN,GER,0,,,,,Zhongshan Stadium,GER,9986,9986,103,1313,3373
+19,1991-11-24T19:45:00Z,Quarter-final,CHN,SWE,,0,1,,,,,0,,,,,Tianhe Stadium,SWE,21973,21973,103,1313,3373
+20,1991-11-24T19:45:00Z,Quarter-final,NOR,ITA,,3,2,,,NOR,ITA,0,,,,,Jiangmen Stadium,NOR,9985,9985,103,1313,3373
+22,1991-11-24T19:45:00Z,Quarter-final,USA,TPE,,7,0,,,,,0,,,,,New Plaza Stadium,USA,21974,21974,103,1313,3373
+23,1991-11-27T15:30:00Z,Semi-final,SWE,NOR,,1,4,,,SWE,NOR,0,,,,,Ying Dong Stadium,NOR,9988,9988,103,1314,3373
+24,1991-11-27T19:45:00Z,Semi-final,GER,USA,,2,5,,,GER,USA,0,,,,,Guangdong Provincial Stadium,USA,9989,9989,103,1314,3373
+25,1991-11-29T19:45:00Z,Match for third place,SWE,GER,,4,0,,,SWE,GER,0,,,,,Guangdong Provincial Stadium,SWE,9990,9990,103,1315,3373
+26,1991-11-30T19:45:00Z,Final,NOR,USA,,1,2,,,NOR,USA,0,,,,,Tianhe Stadium,USA,9991,9991,103,1316,3373
