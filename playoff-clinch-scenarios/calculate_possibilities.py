@@ -11,7 +11,7 @@ full_tiebreak = True
 
 def calc_table(matches):
     m = matches.copy().dropna()
-    
+
     # Calculate home/away wins
     m["home_wins"] = np.where(m["home_goals"] > m["away_goals"], 1, 0)
     m["away_wins"] = np.where(m["home_goals"] < m["away_goals"], 1, 0)
@@ -101,7 +101,7 @@ def calc_table(matches):
             ascending=False,
         ).reset_index()
         table.index = table.index + 1
-        
+
         prev = table.iloc[0][["points", "goals_diff", "wins", "goals_for"]]
         for i in range(1, len(table.index)):
             cur = table.iloc[i][["points", "goals_diff", "wins", "goals_for"]]
@@ -113,17 +113,14 @@ def calc_table(matches):
 
     return table
 
-# Calculate the current table
-table = calc_table(df.dropna())
-
 # Generate a list of all possible scores
 scores = list([
     (0, 0),
-    (8, 8),
+    (16, 16),
     (1, 0),
     (0, 1),
-    (8, 0),
-    (0, 8),
+    (16, 0),
+    (0, 16),
 ])
 
 # GD (normalized to 0.01 to 0.99)
@@ -134,13 +131,17 @@ def scale_GD(gd):
 def scale_W(w):
     return w/24/100
 
+REMAINING = 6
+POSS = pd.DataFrame(itertools.product(scores, repeat=REMAINING))
+
 # Calculate all outcomes
 def calculate_outcomes(df):
-    # Count the number of remaining games
-    remaining = 7  # sum(df["home_goals"].isna())
 
     # Each row represents a possible set of remaining scores for the final games
-    poss = pd.DataFrame(itertools.product(scores, repeat=remaining))
+    poss = POSS.copy()
+
+    # Calculate the current table
+    table = calc_table(df.dropna())
 
     # Fill in points, goal differential, and wins from already played games
     for i, row in table.iterrows():
@@ -149,7 +150,7 @@ def calculate_outcomes(df):
         poss[row["team"] + "_W"] = row["wins"]
 
     # Calculate points/goal differential/wins from future games
-    for i, row in df[df["home_goals"].isna()][:remaining].reset_index().iterrows():
+    for i, row in df[df["home_goals"].isna()].reset_index().iterrows():
         poss[row["home"] + "_Pts"] += np.where(
             poss[i].str[0] > poss[i].str[1],
             3,
@@ -177,23 +178,21 @@ def calculate_outcomes(df):
     cols = [t + "_Score" for t in table["team"]]
     poss = poss[cols]
 
+    clinched = []
+    eliminated = []
+
     # For each team, calculate if they made the playoffs
     for team in table["team"]:
         poss[team + "_Playoff"] = (
             poss.loc[:, cols].gt(poss.loc[:, team + "_Score"], axis=0).sum(axis=1)
         ) < 6
 
-    clinched = []
-    eliminated = []
-    # For each team, check if they always make or always miss the playoffs
-    for team in table["team"]:
         if poss[team + "_Playoff"].all():
             clinched.append(team)
         if not poss[team + "_Playoff"].any():
             eliminated.append(team)
 
-    results = {"clinched": clinched, "eliminated": eliminated}
-    return results
+    return (clinched, eliminated)
 
 
 def fill_scores(df, scores):
@@ -202,11 +201,13 @@ def fill_scores(df, scores):
         temp.loc[
             (temp["home"] == home) & (temp["away"] == away), ["home_goals", "away_goals"]
         ] = [home_score, away_score]
-        
+
     return temp
 
 week_21 = pd.DataFrame(itertools.product([(1, 0), (0, 0), (0, 1)], repeat=6))
 for i, row in week_21.iterrows():
+    if i % 50 == 0:
+        print("finished " + str(i))
     temp = fill_scores(
         df,
         [
@@ -232,4 +233,7 @@ week_21 = week_21.rename(
         5: "HOU-LA",
     }
 )
-week_21.to_csv("week_21.csv", index=False)
+# _1.csv: Using 1,0 0,0 0,1 results for week 21
+# _8.csv: using 8,0 0,0 0,8 results for week 21
+# _16.csv: using 16 instead of 8 for future weeks
+week_21.to_csv("week_21_16.csv", index=False)
