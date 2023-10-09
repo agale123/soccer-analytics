@@ -1,6 +1,5 @@
 from collections import defaultdict
 import itertools
-import math
 import random
 import numpy as np
 import pandas as pd
@@ -179,6 +178,8 @@ def calculate_outcomes(df):
     poss = poss[cols]
 
     clinched = []
+    host = []
+    bye = []
     eliminated = []
 
     # For each team, calculate if they made the playoffs
@@ -186,13 +187,23 @@ def calculate_outcomes(df):
         poss[team + "_Playoff"] = (
             poss.loc[:, cols].gt(poss.loc[:, team + "_Score"], axis=0).sum(axis=1)
         ) < 6
+        poss[team + "_Host"] = (
+            poss.loc[:, cols].gt(poss.loc[:, team + "_Score"], axis=0).sum(axis=1)
+        ) < 4
+        poss[team + "_Bye"] = (
+            poss.loc[:, cols].gt(poss.loc[:, team + "_Score"], axis=0).sum(axis=1)
+        ) < 2
 
         if poss[team + "_Playoff"].all():
             clinched.append(team)
+        if poss[team + "_Host"].all():
+            host.append(team)
+        if poss[team + "_Bye"].all():
+            bye.append(team)
         if not poss[team + "_Playoff"].any():
             eliminated.append(team)
 
-    return (clinched, eliminated)
+    return (clinched, host, bye, eliminated)
 
 
 def fill_scores(df, scores):
@@ -204,36 +215,37 @@ def fill_scores(df, scores):
 
     return temp
 
-week_21 = pd.DataFrame(itertools.product([(1, 0), (0, 0), (0, 1)], repeat=6))
+week_21 = pd.DataFrame(itertools.product([(1, 0), (0, 0), (0, 1)], repeat=1))
 for i, row in week_21.iterrows():
     if i % 50 == 0:
         print("finished " + str(i))
     temp = fill_scores(
         df,
         [
-            ("RGN", row[0][0], "WAS", row[0][1]),
-            ("LOU", row[1][0], "ORL", row[1][1]),
-            ("POR", row[2][0], "NJY", row[2][1]),
-            ("NC", row[3][0], "SD", row[3][1]),
-            ("KCC", row[4][0], "CHI", row[4][1]),
-            ("HOU", row[5][0], "LA", row[5][1]),
+            #("RGN", row[0][0], "WAS", row[0][1]),
+            #("LOU", row[1][0], "ORL", row[1][1]),
+            #("POR", row[0][0], "NJY", row[0][1]),
+            #("NC", row[1][0], "SD", row[1][1]),
+            #("KCC", row[2][0], "CHI", row[2][1]),
+            ("HOU", row[0][0], "LA", row[0][1]),
         ],
     )
-    (clinched, eliminated) = calculate_outcomes(temp)
+    (clinched, host, bye, eliminated) = calculate_outcomes(temp)
     week_21.at[i, "clinched"] = "[" + ",".join(clinched) + "]"
+    week_21.at[i, "host"] = "[" + ",".join(host) + "]"
+    week_21.at[i, "bye"] = "[" + ",".join(bye) + "]"
     week_21.at[i, "eliminated"] = "[" + ",".join(eliminated) + "]"
 
 week_21 = week_21.rename(
     columns={
-        0: "RGN-WAS",
-        1: "LOU-ORL",
-        2: "POR-NJY",
-        3: "NC-SD",
-        4: "KCC-CHI",
-        5: "HOU-LA",
+        #0: "RGN-WAS",
+        #1: "LOU-ORL",
+        #0: "POR-NJY",
+        #1: "NC-SD",
+        #2: "KCC-CHI",
+        0: "HOU-LA",
     }
 )
-# _1.csv: Using 1,0 0,0 0,1 results for week 21
-# _8.csv: using 8,0 0,0 0,8 results for week 21
-# _16.csv: using 16 instead of 8 for future weeks
-week_21.to_csv("week_21_16.csv", index=False)
+# _1.csv: using 16 instead of 8 for future weeks
+# _2.csv: after friday games
+week_21.to_csv("week_21_4.csv", index=False)
