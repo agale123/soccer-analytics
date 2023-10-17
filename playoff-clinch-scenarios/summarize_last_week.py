@@ -201,11 +201,6 @@ def to_english(results):
 
     return output
 
-#print("Clinched:")
-#init = {x: [] for x in ALREADY_CLINCHED}
-#init.update(evaluate(TEAMS_CLINCHED - ALREADY_CLINCHED, "clinched"))
-#print(repr(to_english(init)))
-
 print("Shield:")
 init = {x: [] for x in ALREADY_SHIELD}
 init.update(evaluate(TEAMS_SHIELD-ALREADY_SHIELD, "shield"))

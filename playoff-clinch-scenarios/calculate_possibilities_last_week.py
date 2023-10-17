@@ -120,7 +120,8 @@ scores =  [(0, 0)]
 for i in [1, 8]:
     scores.append((i, 0))
     scores.append((0, i))
-    scores.append((i, i))
+    if i != 1:
+        scores.append((i, i))
 
 # GD (normalized to 0.01 to 0.99)
 def scale_GD(gd):
@@ -228,12 +229,9 @@ def fill_scores(df, scores):
     return temp
 
 # Calculate week 22 options
-# TODO(agale): remove these temp scores
 temp = fill_scores(
     df,
-    [
-        ("HOU", 0, "LA", 0),
-    ],
+    [],
 )
 
 results = calculate_outcomes(temp)
