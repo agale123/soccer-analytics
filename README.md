@@ -18,21 +18,3 @@ This repository contains different NWSL-related analytics projects.
 * [`schedule-infographic`](schedule-infographic/README.md): How rest duration for different teams is distributed
 * [`score-waterfall`](score-waterfall/README.md): Visualization of how the scores for each team's games evolved over the game
 * [`search-trends`](search-trends/README.md): Visualization of how each teams Google Search trends varied over the year
-
-## Development
-
-### Package management
-
-Requirements for the Python libraries and notebooks in this project are
-defined in `requirements.txt`. The versions supported by these notebooks is
-defined in `requirements.lock.txt`. To update this file, run:
-
-```
- pip3 freeze > requirements.lock.txt
- ```
-
-To install the package containing shared code between notebooks:
-
-```
-pip3 install --editable .
-```
