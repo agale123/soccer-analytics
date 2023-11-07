@@ -1,12 +1,12 @@
 city,name
-BOS,Boston
-KC,Kansas City
-UTA,Salt Lake City
 CHI,Chicago
 POR,Portland
 RGN,Seattle
 NJNY,New Jersey
 WAS,Washington DC
+BOS,Boston
+KC,Kansas City
+UTA,Salt Lake City
 WNY,Rochester
 NC,"Cary, NC"
 HOU,Houston
@@ -14,3 +14,4 @@ ORL,Orlando
 LOU,Louisville
 LA,Los Angeles
 SD,San Diego
+SF,San Francisco
