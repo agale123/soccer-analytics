@@ -1,17 +1,17 @@
 city,name
-CHI,Chicago
 POR,Portland
-RGN,Seattle
-NJNY,New Jersey
-WAS,Washington DC
-BOS,Boston
+WNY,Rochester
+NC,North Carolina
 KC,Kansas City
 UTA,Salt Lake City
-WNY,Rochester
-NC,"Cary, NC"
+WAS,Washington DC
+NJNY,New Jersey
+RGN,Seattle
+CHI,Chicago
+BOS,Boston
 HOU,Houston
 ORL,Orlando
 LOU,Louisville
-LA,Los Angeles
 SD,San Diego
+LA,Los Angeles
 SF,San Francisco
