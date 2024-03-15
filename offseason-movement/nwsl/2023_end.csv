@@ -1,13 +1,13 @@
 team,player
 SD,Lauren Brzykcy
 SD,Kailen Sheridan
-SD,Shae Yanez
+SD,Shae Yáñez
 SD,Abby Dahlkemper
 SD,Naomi Girma
 SD,Kristen McNabb
 SD,Danielle Colaprico
 SD,Meggie Dougherty Howard
-SD,Taylor Kornieck
+SD,Taylor Flint
 SD,Jaedyn Shaw
 SD,Kelsey Turnbow
 SD,Melanie Barcenas
@@ -60,7 +60,7 @@ NC,Casey Murphy
 NC,Katelyn Rowland
 NC,Malia Berkely
 NC,Sydney Collins
-NC,Kaleigh Kurz
+NC,Kaleigh Kurtz
 NC,Estelle Johnson
 NC,Ryan Williams
 NC,Riley Jackson
@@ -70,15 +70,15 @@ NC,Narumi Miura
 NC,Denise O'Sullivan
 NC,Victoria Pickett
 NC,Brianna Pinto
-NC,Clara Robbins
+NC,Clara Schilke
 NC,Meredith Speck
 NC,Mille Gejl
 NC,Haley Hopkins
 NC,Tyler Lussi
-NC,Kerolin Nicoli
+NC,Kerolin
 NC,Olivia Wingate
 NC,Emily Fox
-NC,Kiki Pickett 
+NC,Kiki Pickett
 NC,Tess Boade
 NC,Rikke Madsen
 NC,Sarah Clark
@@ -91,7 +91,7 @@ RGN,Sofia Huerta
 RGN,Jimena López
 RGN,Phoebe McClernon
 RGN,Jess Fishlock
-RGN,Luany
+RGN,Luany Vitória da Silva Rosa
 RGN,Quinn
 RGN,Olivia Van der Jagt
 RGN,Bethany Balcer
@@ -108,7 +108,8 @@ RGN,Olivia Athens
 RGN,Ryanne Brown
 RGN,Laurel Ivory
 RGN,Alyssa Malonson
-RGN,Maia Perez
+RGN,Maia Pérez
+RGN,Shae Holmes
 LA,Angelina Anderson
 LA,DiDi Haračić
 LA,Vanessa Gilles
@@ -117,7 +118,7 @@ LA,Paige Nielsen
 LA,Megan Reid
 LA,Ali Riley
 LA,Jasmyne Spencer
-LA,M.A. Vignola
+LA,M. A. Vignola
 LA,Claire Emslie
 LA,Jun Endo
 LA,Amandine Henry
@@ -130,9 +131,6 @@ LA,Christen Press
 LA,Alyssa Thompson
 LA,Kelsey Hill
 LA,Mackenzie Pluck
-LA,Lily Nabet
-LA,Megan Reid
-LA,Clarisse Le Bihan
 LA,Savannah McCaskill
 LA,Sarah Gorden
 LA,Elizabeth Eddy
@@ -140,17 +138,15 @@ LA,Madison Hammond
 LA,Simone Charley
 LA,Brittany Isenhour
 LA,Dani Weatherholt
-LA,Jun Endo
-LA,Vanessa Gilles
 NJNY,Michelle Betos
 NJNY,Bruninha
 NJNY,Imani Dorsey
-NJNY,Esther
+NJNY,Esther González
 NJNY,Kristen Edmonds
 NJNY,Sinead Farrelly
 NJNY,Sabrina Flores
 NJNY,Mandy Freeman
-NJNY,Svava Guðmundsdóttir
+NJNY,Svava Gudmundsdóttir
 NJNY,Mandy Haught
 NJNY,Ellie Jean
 NJNY,Allie Long
@@ -159,7 +155,7 @@ NJNY,Nealy Martin
 NJNY,Kristie Mewis
 NJNY,Jenna Nighswonger
 NJNY,Kelley O'Hara
-NJNY,Ify Onumonu
+NJNY,Ifeoma Onumonu
 NJNY,Midge Purce
 NJNY,Yazmeen Ryan
 NJNY,Delanie Sheehan
@@ -185,14 +181,14 @@ ORL,Summer Yates
 ORL,Tori Hansen
 ORL,Celia
 ORL,Carrie Lawrence
-ORL,Emily Madril
+ORL,Emily Sams
 ORL,Haley McCutcheon
 ORL,Megan Montefusco
-ORL,Rafaelle
+ORL,Rafaelle Souza
 ORL,Kaylie Collins
 ORL,Anna Moorhouse
 ORL,Carly Nelson
-ORL,Brianna Martinez
+ORL,Brianna Martínez
 ORL,Kylie Strom
 ORL,Jordyn Listro
 ORL,McKinley Crone
@@ -228,7 +224,6 @@ WAS,Marissa Sheva
 LOU,Hillary Beall
 LOU,Jordyn Bloomer
 LOU,Katie Lund
-LOU,Olivia Sekany
 LOU,Abby Erceg
 LOU,Julia Lester
 LOU,Lauren Milliet
@@ -239,9 +234,9 @@ LOU,Ary Borges
 LOU,Savannah DeMelo
 LOU,Kayla Fischer
 LOU,Jaelin Howell
-LOU,Maddie Pokorny
+LOU,Madalyn Pokorny
 LOU,Wang Shuang
-LOU,Kirsten Davis
+LOU,Kirsten Wright
 LOU,Parker Goins
 LOU,Uchenna Kanu
 LOU,Thembi Kgatlana
@@ -252,22 +247,20 @@ LOU,Alex Chidiac
 LOU,Rebecca Holloway
 LOU,Taylor Aylmer
 LOU,Olivia Sekany
-LOU,Parker Goins
-LOU,Wang Shuang
 LOU,Emina Ekic
 HOU,Emily Alvarado
 HOU,Jane Campbell
 HOU,Savannah Madden
-HOU,Alysha Chapman
+HOU,Allysha Chapman
 HOU,Madelyn Desiano
 HOU,Jyllissa Harris
 HOU,Natalie Jacobs
 HOU,Katie Lind
 HOU,Courtney Petersen
 HOU,Ally Prisock
-HOU,Andressa Alves
+HOU,Andressa
 HOU,Sophie Hirst
-HOU,Barbara Olivieri
+HOU,Bárbara Olivieri
 HOU,Sarah Puntigam
 HOU,Sophie Schmidt
 HOU,Havana Solaun
@@ -280,29 +273,29 @@ HOU,Cameron Tucker
 HOU,Lindsi Jennings
 HOU,Ella Dederick
 HOU,Makamae Gomera-Stevens
-HOU,Devon Kerr 
+HOU,Devon Kerr
 HOU,Joelle Anderson
 HOU,Caprice Dydasco
 HOU,Shea Groom
 HOU,Emily Curran
-HOU,Maria Sanchez
-HOU,Marisa Viggiano
+HOU,María Sánchez
+HOU,Marisa DiGrande
 KC,Alex Loera
-KC,AD Franch
-KC,Jordan Silkowitz 
+KC,Adrianna Franch
+KC,Jordan Silkowitz
 KC,Lauren
 KC,Elizabeth Ball
-KC,Stine Ballisager Pedersen
+KC,Stine Ballisager
 KC,Kate Del Fava
 KC,Hanna Glas
 KC,Hailie Mace
-KC,Gabrielle Robinson 
+KC,Gabrielle Robinson
 KC,Debinha
 KC,Vanessa DiBernardo
 KC,Morgan Gautrat
 KC,Cece Kizer
 KC,Lo'eau LaBonta
-KC,Claire Lavogez 
+KC,Claire Lavogez
 KC,Michelle Cooper
 KC,Kristen Hamilton
 KC,Mimmi Larsson
@@ -323,12 +316,12 @@ CHI,Mackenzie Wood
 CHI,Samantha Feller
 CHI,Amanda Kowalski
 CHI,Tatumn Milazzo
-CHI,Arin Wright 
+CHI,Arin Wright
 CHI,Jill Aguilera
 CHI,Julia Bianchi
 CHI,Samantha Fisher
 CHI,Sophie Jones
-CHI,Addie McCain 
+CHI,Addie McCain
 CHI,Jenna Bike
 CHI,Ava Cook
 CHI,Sarah Griffith
