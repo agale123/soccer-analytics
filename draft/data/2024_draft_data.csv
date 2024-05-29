@@ -1,0 +1,57 @@
+year,round,pick,name,school,division,conference,team,signed,minutes,mins_through_10
+2024,1,1,Ally Sentnor,University of North Carolina,NCAA D1,ACC,UTA,TRUE,TRUE,890
+2024,1,2,Savy King,University of North Carolina,NCAA D1,ACC,BAY,TRUE,TRUE,730
+2024,1,3,Croix Bethune,University of Georgia,NCAA D1,SEC,WAS,TRUE,TRUE,857
+2024,1,4,Brecken Mozingo,Brigham Young University,NCAA D1,WCC,UTA,TRUE,TRUE,358
+2024,1,5,Hal Hershfelt,Clemson University,NCAA D1,ACC,WAS,TRUE,TRUE,848
+2024,1,6,Reilyn Turner,"University of California, Los Angeles",NCAA D1,Pac-12,LOU,TRUE,TRUE,440
+2024,1,7,Kate Wiesner,Penn State University,NCAA D1,Big Ten,WAS,TRUE,TRUE,276
+2024,1,8,Maya Doms,Stanford University,NCAA D1,Pac-12,BAY,TRUE,TRUE,14
+2024,1,9,Ally Lemos,"University of California, Los Angeles",NCAA D1,Pac-12,ORL,TRUE,TRUE,234
+2024,1,10,Leilanni Nesbeth,Florida State University,NCAA D1,ACC,CHI,TRUE,TRUE,324
+2024,1,11,Payton Linnehan,Penn State University,NCAA D1,Big Ten,POR,TRUE,TRUE,176
+2024,1,12,Kennedy Wesley,Stanford University,NCAA D1,Pac-12,SD,TRUE,TRUE,572
+2024,1,13,Makenna Morris,Clemson University,NCAA D1,ACC,WAS,TRUE,TRUE,25
+2024,1,14,Maycee Bell,University of North Carolina,NCAA D1,ACC,NJNY,TRUE,TRUE,266
+2024,2,15,Jameese Joseph,North Carolina State University,NCAA D1,ACC,CHI,TRUE,TRUE,295
+2024,2,16,Lauren Flynn,Florida State University,NCAA D1,ACC,UTA,TRUE,TRUE,540
+2024,2,17,Sam Meza,University of North Carolina,NCAA D1,ACC,RGN,TRUE,FALSE,0
+2024,2,18,Ellie Wheeler,Penn State University,NCAA D1,Big Ten,KCC,TRUE,TRUE,549
+2024,2,19,Avery Patterson,University of North Carolina,NCAA D1,ACC,HOU,TRUE,TRUE,738
+2024,2,20,Olivia Smith-Griffitts,Brigham Young University,NCAA D1,WCC,UTA,TRUE,TRUE,567
+2024,2,21,Kiki Van Zanten,University of Notre Dame,NCAA D1,ACC,HOU,TRUE,TRUE,107
+2024,2,22,Cori Dyke,Penn State University,NCAA D1,Big Ten,ORL,TRUE,TRUE,111
+2024,2,23,Olivia Wade-Katoa,Brigham Young University,NCAA D1,WCC,POR,TRUE,TRUE,16
+2024,2,24,Natalia Staude,University of Virginia,NCAA D1,ACC,NC,TRUE,FALSE,0
+2024,2,25,Kelsey Kaufusi,Utah State University,NCAA D1,Mountain West,POR,FALSE,FALSE,0
+2024,2,26,Emma Jaskaniec,University of Wisconsin,NCAA D1,Big Ten,UTA,FALSE,FALSE,0
+2024,2,27,Maddie Mercado,University of Notre Dame,NCAA D1,ACC,RGN,TRUE,TRUE,1
+2024,2,28,Emma Sears,Ohio State University,NCAA D1,Big Ten,LOU,TRUE,TRUE,540
+2024,3,29,Zoe Burns,University of Southern California,NCAA D1,Pac-12,UTA,TRUE,TRUE,328
+2024,3,30,Jamie Shepherd,Brigham Young University,NCAA D1,WCC,BAY,TRUE,TRUE,156
+2024,3,31,Hannah Anderson,Texas Tech University,NCAA D1,Big 12,CHI,TRUE,FALSE,0
+2024,3,32,Halle Mackiewicz,Clemson University,NCAA D1,ACC,KCC,FALSE,FALSE,0
+2024,3,33,Cristina Roque,Florida State University,NCAA D1,ACC,UTA,TRUE,FALSE,0
+2024,3,34,Caroline Conti,Clemson University,NCAA D1,ACC,BAY,TRUE,TRUE,89
+2024,3,35,Anna Podojil,University of Arkansas,NCAA D1,SEC,WAS,FALSE,FALSE,0
+2024,3,36,Amanda West,University of Pittsburgh,NCAA D1,ACC,HOU,TRUE,TRUE,539
+2024,3,37,Felicia Knox,University of Alabama,NCAA D1,SEC,LA,FALSE,FALSE,0
+2024,3,38,Heather Hinz,University of South Carolina,NCAA D1,SEC,HOU,TRUE,FALSE,0
+2024,3,39,Kat Asman,Penn State University,NCAA D1,Big Ten,POR,TRUE,FALSE,0
+2024,3,40,Julia Dorsey,University of North Carolina,NCAA D1,ACC,NC,TRUE,FALSE,0
+2024,3,41,Bea Franklin,University of Arkansas,NCAA D1,SEC,CHI,TRUE,TRUE,6
+2024,3,42,Mya Jones,University of Memphis,NCAA D1,AAC,SD,TRUE,TRUE,306
+2024,4,43,Makena Carr,Saint Mary's College of California,NCAA D1,WCC,RGN,FALSE,FALSE,0
+2024,4,44,Jessica Garziano,St. John's University,NCAA D1,Big East,LA,FALSE,FALSE,0
+2024,4,45,Celia Gaynor,Michigan State University,NCAA D1,Big Ten,CHI,FALSE,FALSE,0
+2024,4,46,Hope Hisey,University of Arizona,NCAA D1,Pac-12,KCC,TRUE,FALSE,0
+2024,4,47,Alyssa Bourgeois,Santa Clara University,NCAA D1,WCC,HOU,FALSE,FALSE,0
+2024,4,48,Sam Cary,University of Iowa,NCAA D1,Big Ten,LOU,FALSE,FALSE,0
+2024,4,49,Courtney Brown,University of Utah,NCAA D1,Pac-12,WAS,TRUE,TRUE,218
+2024,4,50,Alex Kerr,Texas Tech University,NCAA D1,Big 12,ORL,TRUE,FALSE,0
+2024,4,51,Madison Curry,Princeton University,NCAA D1,Ivy League,LA,TRUE,TRUE,689
+2024,4,52,Landy Mertz,University of Pittsburgh,NCAA D1,ACC,NC,TRUE,FALSE,0
+2024,4,53,Katie Duong,Stanford University,NCAA D1,Pac-12,POR,FALSE,FALSE,0
+2024,4,54,Madison White,Texas Tech University,NCAA D1,Big 12,LOU,FALSE,FALSE,0
+2024,4,55,Laveni Vaka,Brigham Young University,NCAA D1,WCC,BAY,FALSE,FALSE,0
+2024,4,56,Talia Gabarra,University of Central Florida,NCAA D1,AAC,ORL,FALSE,FALSE,0
