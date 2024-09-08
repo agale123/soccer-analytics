@@ -16,7 +16,7 @@ The problem of calculating which teams have clinched playoff spots in the NWSL c
 * $w_{ij}$: future wins of team *i* over team *j*  
 * $t_{ij}$: future ties between team *i* and team *j*  
 * $p_i$: final points of team *i*
-* $b_i$: boolean with value 1 if team *i* has more points than team *k*
+* $b_i$: boolean with value 1 if team *i* has the same or more points than team *k*
 
 ### Constraints
 
