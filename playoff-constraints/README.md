@@ -21,19 +21,27 @@ The problem of calculating which teams have clinched playoff spots in the NWSL c
 ### Constraints
 
 The number of wins, losses, and ties between two teams must equal the total number of games remaining between them:
-$$\forall i,j\in T, w_{ij} + w_{ji} + t_{ij} = g_{ij}$$
+```math
+\forall i,j\in T, w_{ij} + w_{ji} + t_{ij} = g_{ij}
+```
 
 Ties between team *i* and *j* must be the same as the number of ties between team *j* and *i*:
-$$\forall i,j\in T, t_{ij} = t_{ji}$$
+```math
+\forall i,j\in T, t_{ij} = t_{ji}
+```
   
 We can make a simplifying assumption that the worst case for team *k* is that they lose all future matches. If they still clinch a playoff spot, then we know there is no way they won't make the playoffs. So total points is the current number of points plus 3 for each win and 1 for each draw. Team *k* gets no additional points:
-$$p_i= \begin{cases}
+```math
+p_i= \begin{cases}
   p^0_k & \text{if $i=k$} \\
   p^0_i + 3 \sum_{j\in T} w_{ij} + \sum_{j\in T} t_{ij} & \text{otherwise}
-\end{cases}$$
+\end{cases}
+```
  
 Finally, we know that team *i* could potentially beat team *k* in the standings if it has at least as many points as team *k*:
-$$ b_i = 1 \implies  p_i \geq p_k$$
+```math
+b_i = 1 \implies  p_i \geq p_k
+```math
 
 ### Objective
 
