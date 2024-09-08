@@ -41,7 +41,7 @@ p_i= \begin{cases}
 Finally, we know that team *i* could potentially beat team *k* in the standings if it has at least as many points as team *k*:
 ```math
 b_i = 1 \implies  p_i \geq p_k
-```math
+```
 
 ### Objective
 
