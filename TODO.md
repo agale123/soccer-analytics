@@ -1,8 +1,9 @@
 Possible to make now:
-[] Point spirals
+[X] Point spirals
 [X] Best worst comparison
 [] Points comparison to last year
 [] GD comparison to last year
+[] Moving window points
 [] (New) Bump chart of points/finish over time
 
 
