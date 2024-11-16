@@ -3,8 +3,9 @@ Possible to make now:
 [X] Best worst comparison
 [] Points comparison to last year
 [] GD comparison to last year
-[] Moving window points
+[X] Moving window points
 [] (New) Bump chart of points/finish over time
+[] (New) Time to playoff clinching
 
 
 Need player level stats:
