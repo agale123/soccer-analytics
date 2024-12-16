@@ -3,13 +3,14 @@ Possible to make now:
 [X] Best worst comparison - Posted
 [X] Points comparison to last year - Posted
 [X] GD comparison to last year - Posted
-[X] Moving window points
-[X] (New) Bump chart of points/finish over time
-[X] (New) Time to playoff clinching
+[X] Moving window points - Posted
+[X] (New) Bump chart of points over time - Posted
+[X] (New) Bump chart of finish over time - Posted
+[X] (New) Time to playoff clinching - Posted
 
 Post playoffs:
 [X] Nearest team map playoffs gif - Posted
-[] Document end of season rosters
+[X] Document end of season rosters
 [X] End of season awards
 
 Need player level stats:
