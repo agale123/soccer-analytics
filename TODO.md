@@ -10,14 +10,13 @@ Possible to make now:
 
 Post playoffs:
 [X] Nearest team map playoffs gif - Posted
-[X] Document end of season rosters
-[X] End of season awards
+[X] Document end of season rosters - Done
+[X] End of season awards - Done
 
 Need player level stats:
-[] Golden boot race
-[] Minutes breakdown by age
-[] Substitution patterns
-[] NWSL minutes by university (top 12)
-[] Draftee minutes by school affiliation
+[X] Golden boot race
+[X] Minutes by birth year
+[X] NWSL minutes by university (top 12 all time and 2024)
+[X] Draftee minutes by school affiliation
 [] NWSL team tenure
-[] Goal density
+[] Substitution patterns
