@@ -14,9 +14,14 @@ Post playoffs:
 [X] End of season awards - Done
 
 Need player level stats:
-[X] Golden boot race
+[X] Golden boot race - Posted
 [X] Minutes by birth year
 [X] NWSL minutes by university (top 12 all time and 2024)
 [X] Draftee minutes by school affiliation
-[] NWSL team tenure
-[] Substitution patterns
+[X] NWSL team by experience
+
+Beginning of season:
+[] Schedule infographic
+[] Temp at kickoff
+[] Offseason movement
+[] 2024 minutes retained
