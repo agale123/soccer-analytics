@@ -15,8 +15,8 @@ Post playoffs:
 
 Need player level stats:
 [X] Golden boot race - Posted
-[X] Minutes by birth year
-[X] NWSL minutes by university (top 12 all time and 2024)
+[X] Minutes by birth year - Posted
+[X] NWSL minutes by university (top 12 all time and 2024) - Posted
 [X] Draftee minutes by school affiliation
 [X] NWSL team by experience
 
