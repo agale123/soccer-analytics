@@ -21,7 +21,8 @@ Need player level stats:
 [X] NWSL team by experience
 
 Beginning of season:
-[] Schedule infographic
+[X] Schedule infographic - Posted
+[X] Gaps between games - Skip
 [] Temp at kickoff
 [] Offseason movement
 [] 2024 minutes retained
