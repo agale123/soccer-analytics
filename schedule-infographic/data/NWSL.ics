@@ -1,0 +1,4657 @@
+BEGIN:VCALENDAR
+PRODID:-//E-DIARY//E-DIARY 1.0//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-WR-CALNAME:NWSL
+X-Built-On-Cache-Miss:true
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260314T000000Z
+DTEND:20260314T020000Z
+SUMMARY:⚽️ Washington Spirit vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aefed
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 1\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pHv/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pHw/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pHx/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pHy/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pHz/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pHD/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260314T163000Z
+DTEND:20260314T183000Z
+SUMMARY:⚽️ Boston Legacy vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aefee
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 1\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pHF/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pHG/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pHH/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pHJ/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pHK/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pHN/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260314T200000Z
+DTEND:20260314T220000Z
+SUMMARY:⚽️ Kansas City Current vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aefef
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 1\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pHP/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pHQ/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pHR/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pHS/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pHT/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pHZ/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260314T223000Z
+DTEND:20260315T003000Z
+SUMMARY:⚽️ Bay vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff0
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 1\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pJ2/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pJ4/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pJ6/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pJ7/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pJb/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pJk/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260314T230000Z
+DTEND:20260315T010000Z
+SUMMARY:⚽️ North Carolina Courage vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff1
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 1\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pJm/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pJp/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pJs/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pJy/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pJB/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pJG/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260315T004500Z
+DTEND:20260315T024500Z
+SUMMARY:⚽️ San Diego Wave vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff2
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 1\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pJH/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pJJ/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pJL/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pJN/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pJQ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pJT/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260315T200000Z
+DTEND:20260315T220000Z
+SUMMARY:⚽️ Orlando Pride vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff3
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 1\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pJW/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pJY/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pK1/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pK2/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pK4/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pKc/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260315T230000Z
+DTEND:20260316T010000Z
+SUMMARY:⚽️ Angel City vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff4
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 1\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pKg/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pKj/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pKl/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pKp/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pKr/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pKB/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+SUMMARY:⚽️ Orlando Pride vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff5
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 2\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pKD/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pKH/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pKM/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pKR/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pKT/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pL3/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260321T000000Z
+DTEND:20260321T020000Z
+SUMMARY:⚽️ Racing Louisville vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff6
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 2\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pL6/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pL8/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pLb/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pLd/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pLg/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pLm/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260321T020000Z
+DTEND:20260321T040000Z
+SUMMARY:⚽️ Portland Thorns vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff7
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 2\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pLq/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pLr/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pLt/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pLw/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pLz/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pLH/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260321T200000Z
+DTEND:20260321T220000Z
+SUMMARY:⚽️ Houston Dash vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff8
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 2\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pLK/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pLL/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pLM/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pLN/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pLP/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pLS/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260321T223000Z
+DTEND:20260322T003000Z
+SUMMARY:⚽️ Gotham FC vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeff9
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 2\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pLT/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pLV/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pLW/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pLX/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pLY/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pM2/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260322T004500Z
+DTEND:20260322T024500Z
+SUMMARY:⚽️ Bay vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeffa
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 2\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pM3/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pM4/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pM5/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pM6/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pM7/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pMc/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260322T180000Z
+DTEND:20260322T200000Z
+SUMMARY:⚽️ Chicago Stars vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeffb
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 2\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pMg/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pMh/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pMj/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pMk/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pMl/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pMq/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260322T230000Z
+DTEND:20260323T010000Z
+SUMMARY:⚽️ Utah Royals vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeffc
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 2\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pMt/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pMv/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pMw/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pMy/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pMC/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pML/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260325T230000Z
+DTEND:20260326T010000Z
+SUMMARY:⚽️ Washington Spirit vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeffd
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pMQ/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pMS/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pMV/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pMX/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pN1/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pN4/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260325T230000Z
+DTEND:20260326T010000Z
+SUMMARY:⚽️ Gotham FC vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aeffe
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pN5/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pN6/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pN9/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pNc/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pNg/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pNn/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260326T000000Z
+DTEND:20260326T020000Z
+SUMMARY:⚽️ Chicago Stars vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325aefff
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pNv/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pNy/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pNB/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pNF/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pNM/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pNT/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:One Spokane Stadium\, Spokane\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260326T010000Z
+DTEND:20260326T030000Z
+SUMMARY:⚽️ Seattle Reign vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af000
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pNY/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pP1/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pP3/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pP5/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pP8/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pPj/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260326T020000Z
+DTEND:20260326T040000Z
+SUMMARY:⚽️ San Diego Wave vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af001
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pPk/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pPm/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pPp/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pPr/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pPv/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pPJ/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260328T020000Z
+DTEND:20260328T040000Z
+SUMMARY:⚽️ Angel City vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af002
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pPM/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pPQ/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pPS/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pPW/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pQ2/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pQ9/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260328T160000Z
+DTEND:20260328T180000Z
+SUMMARY:⚽️ Boston Legacy vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af003
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pQc/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pQd/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pQg/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pQj/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pQl/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pQt/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Empower Field at Mile High\, Denver\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260328T180000Z
+DTEND:20260328T200000Z
+SUMMARY:⚽️ Denver Summit vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af004
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pQw/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pQx/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pQB/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pQC/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pQF/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pQP/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260328T200000Z
+DTEND:20260328T220000Z
+SUMMARY:⚽️ Portland Thorns vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af005
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pQR/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pQT/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pQW/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pQX/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pR3/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pR8/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:One Spokane Stadium\, Spokane\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260328T223000Z
+DTEND:20260329T003000Z
+SUMMARY:⚽️ Seattle Reign vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af006
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pR9/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pRb/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pRf/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pRg/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pRh/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pRn/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260328T230000Z
+DTEND:20260329T010000Z
+SUMMARY:⚽️ North Carolina Courage vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af007
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pRt/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pRv/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pRw/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pRy/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pRB/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pRJ/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260329T004500Z
+DTEND:20260329T024500Z
+SUMMARY:⚽️ San Diego Wave vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af008
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pRK/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pRM/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pRQ/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pRV/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pRW/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pRZ/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260329T230000Z
+DTEND:20260330T010000Z
+SUMMARY:⚽️ Gotham FC vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af009
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 3\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pS1/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pS2/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pS3/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pS4/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pS5/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pS8/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260404T000000Z
+DTEND:20260404T020000Z
+SUMMARY:⚽️ Orlando Pride vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af00a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 4\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pS9/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pSb/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pSc/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pSd/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pSf/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pSk/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260404T000000Z
+DTEND:20260404T020000Z
+SUMMARY:⚽️ Boston Legacy vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af00b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 4\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pSm/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pSt/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pSz/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pSG/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pSL/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pSX/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260404T003000Z
+DTEND:20260404T023000Z
+SUMMARY:⚽️ Houston Dash vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa8849325af00c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 4\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pT2/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pT4/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pT8/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pTf/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pTj/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pTm/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260404T010000Z
+DTEND:20260404T030000Z
+SUMMARY:⚽️ Utah Royals vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b1a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 4\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pTp/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pTs/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pTv/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pTw/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pTy/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pTF/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260404T200000Z
+DTEND:20260404T220000Z
+SUMMARY:⚽️ Kansas City Current vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b1b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 4\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pTH/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pTJ/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pTK/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pTM/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pTQ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pTZ/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260404T223000Z
+DTEND:20260405T003000Z
+SUMMARY:⚽️ North Carolina Courage vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b1c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 4\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pV1/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pV2/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pV3/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pV4/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pV7/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pVd/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:One Spokane Stadium\, Spokane\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260405T004500Z
+DTEND:20260405T024500Z
+SUMMARY:⚽️ Seattle Reign vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b1d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 4\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pVf/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pVh/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pVl/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pVn/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pVr/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pVz/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260405T210000Z
+DTEND:20260405T230000Z
+SUMMARY:⚽️ Bay vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b1e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 4\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pVD/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pVG/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pVH/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pVK/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pVN/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pVV/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260424T213000Z
+DTEND:20260424T233000Z
+SUMMARY:⚽️ Racing Louisville vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b1f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 5\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pVY/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pW1/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pW3/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pW5/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pW7/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pWd/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260425T000000Z
+DTEND:20260425T020000Z
+SUMMARY:⚽️ Washington Spirit vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b20
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 5\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pWh/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pWk/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pWm/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pWp/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pWr/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pWz/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260425T170000Z
+DTEND:20260425T190000Z
+SUMMARY:⚽️ Gotham FC vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b21
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 5\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pWB/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pWC/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pWD/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pWF/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pWG/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pWK/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260425T223000Z
+DTEND:20260426T003000Z
+SUMMARY:⚽️ Chicago Stars vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912bd54aa88c9f9280b22
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 5\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pWL/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pWM/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pWN/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pWP/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pWQ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pWV/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260426T000000Z
+DTEND:20260426T020000Z
+SUMMARY:⚽️ Houston Dash vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b23
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 5\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pWX/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pWZ/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pX1/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pX2/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pX4/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pXf/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260426T004500Z
+DTEND:20260426T024500Z
+SUMMARY:⚽️ Denver Summit vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b24
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 5\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pXl/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pXn/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pXr/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pXt/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pXw/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pXD/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260426T220000Z
+DTEND:20260427T000000Z
+SUMMARY:⚽️ Angel City vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b25
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 5\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pXF/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pXG/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pXH/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pXK/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pXM/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pXS/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lumen Field\, Seattle\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260427T000000Z
+DTEND:20260427T020000Z
+SUMMARY:⚽️ Seattle Reign vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af00d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 5\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pXW/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pXY/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pY1/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pY3/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pY8/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pYh/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260429T230000Z
+DTEND:20260430T010000Z
+SUMMARY:⚽️ Washington Spirit vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af00e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pYj/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pYk/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pYl/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pYm/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pYn/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pYt/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260430T000000Z
+DTEND:20260430T020000Z
+SUMMARY:⚽️ Chicago Stars vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af00f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pYw/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pYx/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pYy/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pYB/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pYG/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pYM/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260430T000000Z
+DTEND:20260430T020000Z
+SUMMARY:⚽️ Boston Legacy vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af010
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pYN/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pYP/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pYQ/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pYR/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pYS/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pYY/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260430T020000Z
+DTEND:20260430T040000Z
+SUMMARY:⚽️ Portland Thorns vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af011
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pZ3/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pZ5/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pZ7/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pZ9/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pZc/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pZk/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260502T000000Z
+DTEND:20260502T020000Z
+SUMMARY:⚽️ Houston Dash vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af012
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pZm/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pZp/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pZr/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6pZt/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6pZv/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pZy/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260502T200000Z
+DTEND:20260502T220000Z
+SUMMARY:⚽️ Orlando Pride vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af013
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pZz/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pZB/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pZC/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6pZD/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pZF/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pZJ/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260502T223000Z
+DTEND:20260503T003000Z
+SUMMARY:⚽️ North Carolina Courage vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af014
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pZK/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6pZL/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6pZM/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6pZN/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6pZP/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6pZW/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260503T004500Z
+DTEND:20260503T024500Z
+SUMMARY:⚽️ Angel City vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af015
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6pZY/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q11/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q12/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q14/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q17/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q1j/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260503T170000Z
+DTEND:20260503T190000Z
+SUMMARY:⚽️ Chicago Stars vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af016
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q1q/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q1r/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q1s/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q1t/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q1v/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q1y/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260503T190000Z
+DTEND:20260503T210000Z
+SUMMARY:⚽️ Boston Legacy vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af017
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q1z/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q1B/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q1C/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q1D/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q1H/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q1M/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260503T210000Z
+DTEND:20260503T230000Z
+SUMMARY:⚽️ Gotham FC vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af018
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q1N/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q1P/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q1R/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q1V/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q1X/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q21/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260503T230000Z
+DTEND:20260504T010000Z
+SUMMARY:⚽️ San Diego Wave vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af019
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 6\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q23/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q26/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q28/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q2c/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q2f/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q2l/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260507T020000Z
+DTEND:20260507T040000Z
+SUMMARY:⚽️ Utah Royals vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af01a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q2p/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q2q/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q2s/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q2t/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q2w/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q2C/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260508T223000Z
+DTEND:20260509T003000Z
+SUMMARY:⚽️ Racing Louisville vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af01b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q2F/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q2H/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q2K/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q2P/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q2S/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q32/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260509T000000Z
+DTEND:20260509T020000Z
+SUMMARY:⚽️ Orlando Pride vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af01c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q34/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q35/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q37/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q39/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q3c/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q3j/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260509T223000Z
+DTEND:20260510T003000Z
+SUMMARY:⚽️ Gotham FC vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af01d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q3k/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q3l/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q3q/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q3s/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q3w/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q3D/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260510T000000Z
+DTEND:20260510T020000Z
+SUMMARY:⚽️ Houston Dash vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af01e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q3G/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q3J/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q3K/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q3M/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q3P/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q3X/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260510T004500Z
+DTEND:20260510T024500Z
+SUMMARY:⚽️ Angel City vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af01f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q42/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q45/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q48/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q4b/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q4k/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q4x/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260510T163000Z
+DTEND:20260510T183000Z
+SUMMARY:⚽️ Kansas City Current vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af020
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q4z/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q4C/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q4D/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q4G/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q4J/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q4M/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260510T200000Z
+DTEND:20260510T220000Z
+SUMMARY:⚽️ Bay vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af021
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q4P/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q4Q/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q4S/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q4V/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q4W/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q4Z/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lumen Field\, Seattle\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260510T230000Z
+DTEND:20260511T010000Z
+SUMMARY:⚽️ Seattle Reign vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af022
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 7\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q52/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q54/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q56/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q57/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q58/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q5d/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260513T000000Z
+DTEND:20260513T020000Z
+SUMMARY:⚽️ Boston Legacy vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af023
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q5f/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q5g/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q5h/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q5j/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q5l/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q5q/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260516T000000Z
+DTEND:20260516T020000Z
+SUMMARY:⚽️ Kansas City Current vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af024
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q5r/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q5s/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q5t/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q5v/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q5x/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q5B/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+SUMMARY:⚽️ San Diego Wave vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af025
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q5C/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q5D/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q5G/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q5H/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q5J/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q5M/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lumen Field\, Seattle\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+SUMMARY:⚽️ Seattle Reign vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af026
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q5S/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q5T/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q5W/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q5Z/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q63/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q6b/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260516T020000Z
+DTEND:20260516T040000Z
+SUMMARY:⚽️ Bay vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af027
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q6d/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q6g/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q6j/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q6l/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q6p/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q6B/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260516T223000Z
+DTEND:20260517T003000Z
+SUMMARY:⚽️ North Carolina Courage vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af028
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q6G/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q6J/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q6L/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q6N/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q6P/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q6S/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Dick's Sporting Goods Park\, Commerce City\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260517T004500Z
+DTEND:20260517T024500Z
+SUMMARY:⚽️ Denver Summit vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af029
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q6W/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q6Y/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q6Z/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q72/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q73/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q78/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260517T220000Z
+DTEND:20260518T000000Z
+SUMMARY:⚽️ Portland Thorns vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af02a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q7c/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q7d/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q7f/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q7g/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q7h/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q7q/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260518T000000Z
+DTEND:20260518T020000Z
+SUMMARY:⚽️ Utah Royals vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af02b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 8\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q7r/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q7s/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q7t/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q7w/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q7B/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q7J/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260521T000000Z
+DTEND:20260521T020000Z
+SUMMARY:⚽️ Houston Dash vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af02c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q7L/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q7N/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q7P/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q7Q/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q7T/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q81/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260521T020000Z
+DTEND:20260521T040000Z
+SUMMARY:⚽️ Portland Thorns vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af02d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q83/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q85/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q87/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q8b/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q8j/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q8s/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260521T020000Z
+DTEND:20260521T040000Z
+SUMMARY:⚽️ Angel City vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af02e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q8x/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q8B/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q8D/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q8G/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q8J/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q8P/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centreville Bank Stadium\, Pawtucket\, Rhode Island
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260523T000000Z
+DTEND:20260523T020000Z
+SUMMARY:⚽️ Boston Legacy vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af02f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q8S/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q8W/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q8Z/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6q92/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q95/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q9b/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260531T190000Z
+DTEND:20260531T210000Z
+SUMMARY:⚽️ Gotham FC vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af030
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 10\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q9g/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6q9j/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6q9m/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q9p/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6q9q/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q9v
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260523T200000Z
+DTEND:20260523T220000Z
+SUMMARY:⚽️ Racing Louisville vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b26
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q9x/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q9B/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q9C/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6q9D/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6q9F/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6q9M/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260523T223000Z
+DTEND:20260524T003000Z
+SUMMARY:⚽️ Utah Royals vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b27
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6q9P/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6q9Q/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6q9R/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6q9S/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6q9V/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qb1/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260524T004500Z
+DTEND:20260524T024500Z
+SUMMARY:⚽️ Houston Dash vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b28
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qb3/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6qb5/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6qb6/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qb8/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6qbc/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qbk/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260524T170000Z
+DTEND:20260524T190000Z
+SUMMARY:⚽️ Kansas City Current vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b29
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qbm/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6qbn/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6qbq/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qbs/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qbv/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qbC/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260524T210000Z
+DTEND:20260524T230000Z
+SUMMARY:⚽️ Bay vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b2a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qbG/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6qbJ/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6qbL/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qbN/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6qbR/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qbY/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260524T230000Z
+DTEND:20260525T010000Z
+SUMMARY:⚽️ San Diego Wave vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b2b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 9\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qc1/3nxR
+ 5\n\nMatch Center\nhttps://ecal.ai/f/2b6qc2/3nxR5\n\nStandings\nhttps://eca
+ l.ai/f/2b6qc4/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qc7/3nxR5\n\nInstagram\nh
+ ttps://ecal.ai/f/2b6qc9/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qcg/3
+ nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260529T230000Z
+DTEND:20260530T010000Z
+SUMMARY:⚽️ Orlando Pride vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b2c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 10\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qck/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qcm/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qcp/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qcr/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qct/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qcz
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260530T000000Z
+DTEND:20260530T020000Z
+SUMMARY:⚽️ Racing Louisville vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b2d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 10\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qcC/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qcF/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qcH/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qcK/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qcM/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qcT/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260530T173000Z
+DTEND:20260530T193000Z
+SUMMARY:⚽️ Kansas City Current vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b2e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 10\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qcX/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qcY/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qd1/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qd2/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qd4/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qdc/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260530T200000Z
+DTEND:20260530T220000Z
+SUMMARY:⚽️ Portland Thorns vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b2f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 10\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qdg/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qdh/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qdk/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qdm/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qdn/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qdr
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260530T223000Z
+DTEND:20260531T003000Z
+SUMMARY:⚽️ Washington Spirit vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b30
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 10\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qds/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qdt/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qdv/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qdw/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qdx/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qdB/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260531T170000Z
+DTEND:20260531T190000Z
+SUMMARY:⚽️ Chicago Stars vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b31
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 10\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qdC/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qdD/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qdF/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qdG/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qdH/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qdL/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260718T200000Z
+DTEND:20260718T220000Z
+SUMMARY:⚽️ Bay vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b32
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qdM/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qdN/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qdP/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qdQ/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qdR/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qdY/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260531T230000Z
+DTEND:20260601T010000Z
+SUMMARY:⚽️ Angel City vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af031
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 10\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qf1/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qf2/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qf5/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qf6/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qfb/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qfj/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260704T000000Z
+DTEND:20260704T020000Z
+SUMMARY:⚽️ Washington Spirit vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af032
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 11\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qfk/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qfl/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qfn/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qfq/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qfs/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qfw/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centennial Stadium\, Centennial\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260704T013000Z
+DTEND:20260704T033000Z
+SUMMARY:⚽️ Denver Summit vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af033
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 11\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qfy/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qfB/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qfD/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qfF/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qfG/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qfM
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260704T020000Z
+DTEND:20260704T040000Z
+SUMMARY:⚽️ Angel City vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af034
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 11\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qfP/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qfR/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qfS/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qfV/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qfY/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qg6/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260704T223000Z
+DTEND:20260705T003000Z
+SUMMARY:⚽️ North Carolina Courage vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af035
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 11\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qg8/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qgb/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qgd/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qgg/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qgk/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qgr/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260705T004500Z
+DTEND:20260705T024500Z
+SUMMARY:⚽️ San Diego Wave vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af036
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 11\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qgw/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qgz/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qgB/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qgD/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qgH/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qgP
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centreville Bank Stadium\, Pawtucket\, Rhode Island
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260705T160000Z
+DTEND:20260705T180000Z
+SUMMARY:⚽️ Boston Legacy vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af037
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 11\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qgR/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qgT/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qgX/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qh2/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qh5/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qhc/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260705T210000Z
+DTEND:20260705T230000Z
+SUMMARY:⚽️ Chicago Stars vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af038
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 11\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qhf/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qhj/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qhm/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qhq/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qhw/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qhC/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260705T230000Z
+DTEND:20260706T010000Z
+SUMMARY:⚽️ Portland Thorns vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af039
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 11\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qhD/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qhG/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qhJ/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qhL/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qhM/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qhR
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+SUMMARY:⚽️ Orlando Pride vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af03a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 12\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qhS/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qhT/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qhV/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qhW/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qhX/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qj5/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+SUMMARY:⚽️ Racing Louisville vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af03b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 12\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qj7/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qj8/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qj9/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qjc/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qjf/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qjl/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centreville Bank Stadium\, Pawtucket\, Rhode Island
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260711T000000Z
+DTEND:20260711T020000Z
+SUMMARY:⚽️ Boston Legacy vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af03c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 12\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qjm/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qjp/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qjq/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qjr/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qjs/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qjx
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260711T020000Z
+DTEND:20260711T040000Z
+SUMMARY:⚽️ Utah Royals vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af03d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 12\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qjz/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qjC/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qjF/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qjJ/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qjQ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qjX/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260711T223000Z
+DTEND:20260712T003000Z
+SUMMARY:⚽️ North Carolina Courage vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af03e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 12\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qjZ/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qk3/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qk8/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qk9/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qkc/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qkk/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260712T004500Z
+DTEND:20260712T024500Z
+SUMMARY:⚽️ San Diego Wave vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af03f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 12\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qkn/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qkp/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qkq/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qkr/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qks/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qkC
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lumen Field\, Seattle\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260712T200000Z
+DTEND:20260712T220000Z
+SUMMARY:⚽️ Seattle Reign vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af040
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 12\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qkF/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qkG/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qkH/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qkK/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qkM/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qkT/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centennial Stadium\, Centennial\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260712T230000Z
+DTEND:20260713T010000Z
+SUMMARY:⚽️ Denver Summit vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af041
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 12\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qkX/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qkZ/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6ql1/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6ql5/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qlb/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qlk/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260715T230000Z
+DTEND:20260716T010000Z
+SUMMARY:⚽️ Orlando Pride vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af042
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qlm/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qlp/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qlr/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qlt/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qlx/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qlG
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:TBC (USA)\, TBC
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260715T230000Z
+DTEND:20260716T010000Z
+SUMMARY:⚽️ Gotham FC vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af043
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qlK/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qlL/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qlN/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qlQ/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qlS/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qlY/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260718T000000Z
+DTEND:20260718T020000Z
+SUMMARY:⚽️ Kansas City Current vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af044
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qm2/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qm5/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qm7/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qmb/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qmg/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qmn/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Icahn Stadium\, New York City\, New York
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260718T160000Z
+DTEND:20260718T180000Z
+SUMMARY:⚽️ Gotham FC vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af045
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qmr/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qmv/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qmx/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qmz/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qmC/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qmK
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centennial Stadium\, Centennial\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260718T180000Z
+DTEND:20260718T200000Z
+SUMMARY:⚽️ Denver Summit vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af046
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qmP/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qmR/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qmV/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qmY/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qn2/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qn9/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260718T223000Z
+DTEND:20260719T003000Z
+SUMMARY:⚽️ Chicago Stars vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b33
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qnc/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qnf/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qnh/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qnk/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qnm/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qnq
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260719T000000Z
+DTEND:20260719T020000Z
+SUMMARY:⚽️ Racing Louisville vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b34
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qnt/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qnx/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qny/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qnz/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qnD/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qnN/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260719T004500Z
+DTEND:20260719T024500Z
+SUMMARY:⚽️ Utah Royals vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b35
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qnP/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qnR/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qnT/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qnV/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qp1/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qp5/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centreville Bank Stadium\, Pawtucket\, Rhode Island
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260719T230000Z
+DTEND:20260720T010000Z
+SUMMARY:⚽️ Boston Legacy vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b36
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 13\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qp8/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qpd/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qph/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qpl/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qpp/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qpx
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260725T000000Z
+DTEND:20260725T020000Z
+SUMMARY:⚽️ Orlando Pride vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b37
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 14\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qpC/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qpG/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qpJ/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qpM/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qpQ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qq1/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260725T000000Z
+DTEND:20260725T020000Z
+SUMMARY:⚽️ Houston Dash vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b38
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 14\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qq4/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qq7/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qqc/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qqg/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qqm/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qqy/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260725T020000Z
+DTEND:20260725T040000Z
+SUMMARY:⚽️ Portland Thorns vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b39
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 14\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qqD/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qqH/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qqM/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qqR/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qqZ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qrb
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centreville Bank Stadium\, Pawtucket\, Rhode Island
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260725T210000Z
+DTEND:20260725T230000Z
+SUMMARY:⚽️ Boston Legacy vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b3a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 14\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qrh/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qrl/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qrp/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qrt/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qrz/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qrH/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260725T234500Z
+DTEND:20260726T014500Z
+SUMMARY:⚽️ North Carolina Courage vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b3b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 14\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qrL/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qrM/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qrQ/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qrS/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qrV/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qs2/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260726T210000Z
+DTEND:20260726T230000Z
+SUMMARY:⚽️ San Diego Wave vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b3c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 14\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qs6/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qs8/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qsb/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qsd/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qsh/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qsr
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260726T230000Z
+DTEND:20260727T010000Z
+SUMMARY:⚽️ Washington Spirit vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b3d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 14\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qst/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qsx/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qsB/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qsF/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qsJ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qsR/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260727T010000Z
+DTEND:20260727T030000Z
+SUMMARY:⚽️ Angel City vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b3e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 14\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qsS/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qsT/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qsW/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qsZ/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qt3/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qt8/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260730T000000Z
+DTEND:20260730T020000Z
+SUMMARY:⚽️ Kansas City Current vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b3f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qt9/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qtd/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qtj/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qtm/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qtn/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qtr
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260730T010000Z
+DTEND:20260730T030000Z
+SUMMARY:⚽️ Utah Royals vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b40
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qts/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qtt/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qtv/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qty/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qtD/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qtP/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260730T020000Z
+DTEND:20260730T040000Z
+SUMMARY:⚽️ Bay vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b41
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qtV/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qtY/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qv1/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qv3/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qv5/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qvb/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260801T000000Z
+DTEND:20260801T020000Z
+SUMMARY:⚽️ North Carolina Courage vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b42
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qvd/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qvf/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qvh/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qvj/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qvn/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qvv
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260801T200000Z
+DTEND:20260801T220000Z
+SUMMARY:⚽️ Racing Louisville vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b43
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qvy/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qvB/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qvD/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qvH/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qvL/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qvV/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260801T223000Z
+DTEND:20260802T003000Z
+SUMMARY:⚽️ Kansas City Current vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b44
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qvY/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qw1/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qw3/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qw5/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qw7/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qwf/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260802T200000Z
+DTEND:20260802T220000Z
+SUMMARY:⚽️ Washington Spirit vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b45
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qwj/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qwl/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qwq/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qws/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qww/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qwC/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260802T000000Z
+DTEND:20260802T020000Z
+SUMMARY:⚽️ Houston Dash vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af047
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qwD/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qwF/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qwG/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qwH/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qwJ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qwM
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260802T004500Z
+DTEND:20260802T024500Z
+SUMMARY:⚽️ Bay vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8849325af048
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qwN/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qwP/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qwQ/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qwR/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qwS/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qwY/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260802T230000Z
+DTEND:20260803T010000Z
+SUMMARY:⚽️ Utah Royals vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b46
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qwZ/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qx2/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qx4/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qx6/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qxb/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qxj
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centennial Stadium\, Centennial\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260803T010000Z
+DTEND:20260803T030000Z
+SUMMARY:⚽️ Denver Summit vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b47
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 15\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qxk/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qxl/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qxn/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qxp/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qxq/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qxv/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centennial Stadium\, Centennial\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260806T020000Z
+DTEND:20260806T040000Z
+SUMMARY:⚽️ Denver Summit vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b48
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qxw/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qxx/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qxy/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qxz/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qxB/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qxG/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260808T000000Z
+DTEND:20260808T020000Z
+SUMMARY:⚽️ Gotham FC vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b49
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qxH/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qxJ/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qxK/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qxM/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qxQ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qxX
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centennial Stadium\, Centennial\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260808T200000Z
+DTEND:20260808T220000Z
+SUMMARY:⚽️ Denver Summit vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b4a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qxZ/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qy1/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qy3/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qy4/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qy6/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qyf/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260808T223000Z
+DTEND:20260809T003000Z
+SUMMARY:⚽️ Washington Spirit vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b4b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qyh/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qyj/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qyk/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qyl/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qym/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qys/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260808T230000Z
+DTEND:20260809T010000Z
+SUMMARY:⚽️ Orlando Pride vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b4c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qyt/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qyv/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qyx/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qyy/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qyz/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qyF
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260809T004500Z
+DTEND:20260809T024500Z
+SUMMARY:⚽️ Houston Dash vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b4d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qyG/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qyH/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qyJ/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qyK/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qyM/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qyQ/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260815T223000Z
+DTEND:20260816T003000Z
+SUMMARY:⚽️ Racing Louisville vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b4e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 17\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qyR/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qyT/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qyV/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qyX/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qyY/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qz2
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centreville Bank Stadium\, Pawtucket\, Rhode Island
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260809T200000Z
+DTEND:20260809T220000Z
+SUMMARY:⚽️ Boston Legacy vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece44
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qz4/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qz5/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qz6/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qz7/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qz8/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qzd/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260809T230000Z
+DTEND:20260810T010000Z
+SUMMARY:⚽️ Chicago Stars vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece45
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qzf/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qzg/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qzh/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qzk/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qzl/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qzp
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lumen Field\, Seattle\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260810T010000Z
+DTEND:20260810T030000Z
+SUMMARY:⚽️ Seattle Reign vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece46
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 16\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qzq/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qzs/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qzt/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qzv/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qzx/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qzB/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260815T000000Z
+DTEND:20260815T020000Z
+SUMMARY:⚽️ Gotham FC vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece47
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 17\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qzC/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qzD/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qzG/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qzH/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qzK/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qzS/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:⚽️ Utah Royals vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece48
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 17\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qzT/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qzV/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qzW/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qzX/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qzY/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qB2
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lumen Field\, Seattle\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:⚽️ Seattle Reign vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece49
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 17\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qB3/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qB4/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qB5/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qB7/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qB9/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qBf/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260815T020000Z
+DTEND:20260815T040000Z
+SUMMARY:⚽️ San Diego Wave vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece4a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 17\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qBg/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qBk/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qBl/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qBq/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qBs/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qBB/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260816T004500Z
+DTEND:20260816T024500Z
+SUMMARY:⚽️ Portland Thorns vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece4b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 17\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qBG/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qBK/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qBM/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qBP/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qBS/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qBX/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260816T230000Z
+DTEND:20260817T010000Z
+SUMMARY:⚽️ North Carolina Courage vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece4c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 17\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qBY/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qBZ/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qC1/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qC2/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qC3/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qCb/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260817T010000Z
+DTEND:20260817T030000Z
+SUMMARY:⚽️ Angel City vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece4d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 17\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qCg/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qCk/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qCn/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qCq/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qCv/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qCD
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260906T200000Z
+DTEND:20260906T220000Z
+SUMMARY:⚽️ Chicago Stars vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece4e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 20\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qCH/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qCJ/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qCL/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qCM/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qCQ/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qCW
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260819T223000Z
+DTEND:20260820T003000Z
+SUMMARY:⚽️ Racing Louisville vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b4f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qCZ/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qD2/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qD4/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qD6/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qD9/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qDg/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Shell Energy Stadium\, Houston\, Texas
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260820T000000Z
+DTEND:20260820T020000Z
+SUMMARY:⚽️ Houston Dash vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b50
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qDk/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qDn/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qDq/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qDs/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qDz/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qDH/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260822T020000Z
+DTEND:20260822T040000Z
+SUMMARY:⚽️ San Diego Wave vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b51
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qDK/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qDM/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qDP/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qDR/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qDT/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qF2
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260822T223000Z
+DTEND:20260823T003000Z
+SUMMARY:⚽️ Kansas City Current vs Seattle Reign
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b52
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qF5/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qF7/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qF9/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qFc/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qFf/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qFl/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260822T233000Z
+DTEND:20260823T013000Z
+SUMMARY:⚽️ North Carolina Courage vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b53
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qFm/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qFn/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qFq/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qFr/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qFt/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qFz/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260823T004500Z
+DTEND:20260823T024500Z
+SUMMARY:⚽️ Portland Thorns vs Denver Summit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b54
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qFD/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qFF/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qFG/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qFH/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qFK/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qFQ
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Northwestern Medicine Field at Martin Stadium\, Evanston\, Illinoi
+ s
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260823T180000Z
+DTEND:20260823T200000Z
+SUMMARY:⚽️ Chicago Stars vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b55
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qFR/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qFS/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qFT/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qFV/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qFW/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qFZ/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260823T200000Z
+DTEND:20260823T220000Z
+SUMMARY:⚽️ Washington Spirit vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b56
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qG1/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qG2/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qG3/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qG4/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qG5/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qG8/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260823T220000Z
+DTEND:20260824T000000Z
+SUMMARY:⚽️ Bay vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b57
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qG9/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qGb/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qGc/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qGd/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qGf/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qGj
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:BMO Stadium\, Los Angeles\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260824T000000Z
+DTEND:20260824T020000Z
+SUMMARY:⚽️ Angel City vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b58
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 18\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qGk/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qGl/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qGm/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qGn/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qGp/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qGs/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:First Horizon Stadium at WakeMed Soccer Park\, Cary\, North Caroli
+ na
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260827T000000Z
+DTEND:20260827T020000Z
+SUMMARY:⚽️ North Carolina Courage vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b59
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qGt/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qGv/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qGw/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qGx/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qGy/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qGC/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Sports Illustrated Stadium\, Harrison\, New Jersey
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260829T000000Z
+DTEND:20260829T020000Z
+SUMMARY:⚽️ Gotham FC vs Portland Thorns
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b5a
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qGD/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qGF/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qGH/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qGK/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qGM/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qGQ
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Snapdragon Stadium\, San Diego\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260829T020000Z
+DTEND:20260829T040000Z
+SUMMARY:⚽️ San Diego Wave vs Racing Louisville
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b5b
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qGV/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qGY/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qH2/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qH4/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qH6/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qHf/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260829T223000Z
+DTEND:20260830T003000Z
+SUMMARY:⚽️ Kansas City Current vs North Carolina Courage
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b5c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qHh/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qHk/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qHm/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qHp/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qHr/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qHy/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260829T230000Z
+DTEND:20260830T010000Z
+SUMMARY:⚽️ Orlando Pride vs Utah Royals
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b5d
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qHC/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qHF/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qHG/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qHJ/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qHL/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qHR
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centennial Stadium\, Centennial\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260830T004500Z
+DTEND:20260830T024500Z
+SUMMARY:⚽️ Denver Summit vs Chicago Stars
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b5e
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qHS/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qHT/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qHV/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qHY/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qJ4/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qJ7/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Audi Field\, Washington\, District of Columbia
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260830T163000Z
+DTEND:20260830T183000Z
+SUMMARY:⚽️ Washington Spirit vs Bay
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b5f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qJ9/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qJc/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qJf/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qJg/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qJh/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qJn/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lumen Field\, Seattle\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260830T230000Z
+DTEND:20260831T010000Z
+SUMMARY:⚽️ Seattle Reign vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b60
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qJr/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qJs/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qJw/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qJB/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qJF/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qJX
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Gillette Stadium\, Foxborough\, Massachusetts
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260901T000000Z
+DTEND:20260901T020000Z
+SUMMARY:⚽️ Boston Legacy vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b61
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 19\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qK2/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qK6/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qKb/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qKg/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qKj/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qKq/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:America First Field\, Sandy\, Utah
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260905T013000Z
+DTEND:20260905T033000Z
+SUMMARY:⚽️ Utah Royals vs Boston Legacy
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b62
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 20\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qKs/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qKw/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qKy/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qKB/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qKD/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qKL/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:PayPal Park\, San Jose\, California
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260905T020000Z
+DTEND:20260905T040000Z
+SUMMARY:⚽️ Bay vs Kansas City Current
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b63
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 20\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qKM/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qKP/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qKR/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qKT/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qKX/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qL4
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260905T223000Z
+DTEND:20260906T003000Z
+SUMMARY:⚽️ Racing Louisville vs Angel City
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b64
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 20\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qL5/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qL6/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qL7/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qL8/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qL9/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qLf/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Centennial Stadium\, Centennial\, Colorado
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260906T180000Z
+DTEND:20260906T200000Z
+SUMMARY:⚽️ Denver Summit vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa88c9f9280b65
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 20\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qLh/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qLk/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qLl/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qLm/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qLn/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qLr/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Providence Park\, Portland\, Oregon
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260906T200000Z
+DTEND:20260906T220000Z
+SUMMARY:⚽️ Portland Thorns vs Washington Spirit
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece4f
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 20\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qLs/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qLt/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qLw/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qLy/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qLC/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qLJ/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Inter&Co Stadium\, Orlando\, Florida
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260906T230000Z
+DTEND:20260907T010000Z
+SUMMARY:⚽️ Orlando Pride vs Houston Dash
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece50
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 20\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qLK/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qLM/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qLN/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qLR/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qLV/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qLZ/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lumen Field\, Seattle\, Washington
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260907T010000Z
+DTEND:20260907T030000Z
+SUMMARY:⚽️ Seattle Reign vs San Diego Wave
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece51
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 20\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qM1/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qM2/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qM3/3nxR5\n\nStats\nhttps://ecal.ai/f/2b6qM4/3nxR5\n\nInstagram\
+ nhttps://ecal.ai/f/2b6qM5/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qMc
+ /3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Lynn Family Stadium\, Louisville\, Kentucky
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260911T223000Z
+DTEND:20260912T003000Z
+SUMMARY:⚽️ Racing Louisville vs Gotham FC
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece52
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 21\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qMf/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qMh/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qMj/3nxR5\n\nShop\nhttps://ecal.ai/f/2b6qMk/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qMm/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qMq/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:CPKC Stadium\, Kansas City\, Missouri
+X-ECAL-SCHEDULE:66f367fad7459799503ba532
+DTSTART:20260912T000000Z
+DTEND:20260912T020000Z
+SUMMARY:⚽️ Kansas City Current vs Orlando Pride
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:696912be54aa8835084ece53
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:NWSL | Matchday 21\n\nBuy Tickets\nhttps://ecal.ai/f/2b6qMr/3nx
+ R5\n\nMatch Center\nhttps://ecal.ai/f/2b6qMt/3nxR5\n\nStandings\nhttps://ec
+ al.ai/f/2b6qMv/3nxR5\n\nNews\nhttps://ecal.ai/f/2b6qMw/3nxR5\n\nInstagram\n
+ https://ecal.ai/f/2b6qMy/3nxR5\n\nManage my ECAL\nhttps://ecal.ai/f/2b6qMC/
+ 3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT5M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+LAST-MODIFIED:20260116T005341Z
+DTSTAMP:20260116T005341Z
+LOCATION:Proudly powered by ECAL
+X-ECAL-SCHEDULE:69698bceec234700027f9dad
+DTSTART:20260116T010700Z
+DTEND:20260116T012200Z
+SUMMARY:Welcome to the NWSL!
+TRANSP:TRANSPARENT
+SEQUENCE:0
+UID:69698bcefc48ca000250c49c
+PRIORITY:5
+X-MICROSOFT-CDO-IMPORTANCE:1
+CLASS:PUBLIC
+DESCRIPTION:You'll now have the most up-to-date info about events from the 
+ NWSL.\n\nIf dates\, times or details change\, these will automatically upda
+ te in your calendar. How good is that!\n\nWe hope you enjoy this service an
+ d welcome any feedback via our Support Center https://support.ecal.com \n--
+ ---- \n\nThis service is powered by ECAL\, the world's leading & most trust
+ ed calendar communications service.\n\nManage my ECAL\nhttps://ecal.ai/f/2b
+ 716D/3nxR5\n\n
+BEGIN:VALARM
+TRIGGER:-PT1M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
